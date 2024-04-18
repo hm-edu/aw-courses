@@ -1,191 +1,608 @@
 [
-    {
-        "lvNr": 1,
-        "titelDerLv": "Russland und Europa (ES/IKK)",
-        "name": "Barth",
-        "wochentag": "MI",
-        "zeit": "10.00-11.30",
-        "ort": "T 1.015",
-        "exame": "Schriftliche Prüfung",
-        "typeOfExame": "",
-        "typeOfLV": "Vorlesung",
-        "fachgebiet": "Politikwissenschaft",
-        "cluster": [
-		"Gesellschaft und Politik"
-	],
-	"zertifikat": [
-		"Zertifikat European Studies", 
-		"Hochschulzertifikat Interkulturelle Kompetenz"
-	],
-	"kompProfil": [
-		"International"
-	],
-        "addInfo": "",
-        "goal": "Die Studierenden sollen informiert werden über die aktuellen Entwicklungen in Russland und der Ukraine. Ferner werden die verschiedenen Akteure und geistigen Strömungen im flächenmäßig größten Land der Erde aufgezeigt. Es soll ein historisch fundiertes, über den Tag hinaus gültiges Porträt des heutigen Russlands und der gefährlichen Politik Putins aufgezeigt werden und welche Möglichkeiten es für eine besonnene Politik des Westens gibt.  Nach dem Besuch dieser Lehrveranstaltung sollten Sie grundlegende Kenntnisse über die aktuelle Situation in Russland und der Ukraine sowie die Hintergründe der weiteren Konflikte in Osteuropa haben. Alle, denen der neue brutale Krieg in Europa Sorgen bereitet und wer wissen will, wohin sich Russland unter Putin bewegt, sind hier richtig",
-        "pass": "",
-        "lehrwerk": "",
-        "theme": "Nach dem Zusammenbruch der Sowjetunion (nach Präsident Putins Worten „die größte geostrategische Katastrophe des 20. Jahrhunderts”) war Russland nach dem Fall der Berliner Mauer für den Westen für kurze Zeit ein Partner. Es hat große Hoffnungen in Ost und West gegeben. Allerdings hat im Westen eine „triumphale Stimmung geherrscht“ (Gorbatschow), der Kalte Krieg war gewonnen, man hat vermutlich zu wenig Rücksicht auf die Auswirkungen in Russland genommen. Dann erfolgte 2008 der Krieg in Georgien, 2014 die Annexion der Krim durch Russland, der Krieg in der Ostukraine und 2015 der Luftkrieg in Syrien auf Seiten des syrischen Präsidenten Assad. Am 24. Februar 2022 dann der brutale Überall auf die Ukraine: Zehntausende ermordete Zivilisten, bis zu zwei Millionen Verschleppte, Vergewaltigungen, Plünderungen, Folter, “Filtration” in Lagern, ein Dauerbombardement – das Dörfer und Städte in Schutt und Asche legt, Diebstahl von Traktoren, Mähdreschern und Millionen Tonnen von Getreide, weltweiter Hunger als Waffe – Putin und die russische Armee begehen Kriegsverbrechen ohne Ende (derzeit sind rund 95.100 gelistet –Stand Anfang Juli 2023) und erfüllen einen Punkt nach dem anderen, um eine Anklage wegen Völkermords zu erfüllen. Ein Blitzkrieg sollte es werden. Putin und seine Militärberater wollten eine kurze “militärische Spezialoperation”, “Denazifizierung” und “Entmilitarisierung” und “Desatanisierung” der Ukraine seien das Ziel – Putins neue Großmachtpolitik. Nach dem Ende der Sowjetunion hat sich in Russland ein neuer gesellschaftlicher Konsens gebildet, antiwestlich, antiliberal und staatshörig, der an tief verwurzelte Traditionen Russlands anknüpft. Präsident Putin, Vorreiter dieser fatalen Entwicklung, findet mit Unterstützung der Russisch Orthodoxen Kirche immer noch Zustimmung im Lande, lässt aber auch die gesamte Zivilgesellschaft rigoros unterdrücken. Nach über 20 Jahren an der Macht handelt Wladimir Putin in der Außenpolitik skrupelloser als je zuvor. Er sieht überall Bedrohungen und Verschwörungen und fühlt sich vom Westen gekränkt.",
-        "methodes": "Vorlesung, Arbeit mit Texten, Einsatz div. Medien.",
-        "diszVerort": "Politikwissenschaftliche Vorlesung",
-        "literatur": "* Barth, Peter: Putins Russland aus einer deutschen Perspektive, Herrsching 2018 * Kappeler, Andreas: Kleine Geschichte der Ukraine, München 2014 * Laqueur, Walter: Putinismus. Wohin treibt Russland? Berlin 2015 Alle Bücher stehen in meinem Handapparat in der Bibliothek in der Lothstraße",
-        "hinweise": ""
-    },
-    {
-        "lvNr": 2,
-        "titelDerLv": "Dimensionen und Prinzipien einer nachhaltigen Entwicklung (NAC)",
-        "name": "Behlau",
-        "wochentag": "MO",
-        "zeit": "17.00-18.30",
-        "ort": "T 2.016",
-        "exame": "Schriftliche Prüfung",
-        "typeOfExame": "",
-        "typeOfLV": "Vorlesung",
-        "fachgebiet": "Philosophie",
-        "cluster": [
-		"Gesellschaft und Politik"
-	],
-	"zertifikat": [
-		"Hochschulzertifikat Nachhaltiges Denken",
-		"verantwortliches Handeln"
-	],
-	"kompProfil": [
-		"Nachhaltig"
-	],
-        "addInfo": "",
-        "goal": "Nach dem Besuch der Lehrveranstaltung haben Sie ein vertieftes Verständnis der Grundlagen einer nachhaltigen Entwicklung. Der oft missbräuchlich verwendete Begriff \"Nachhaltigkeit\" wird für Sie konkret. Sie erkennen das Wachstumsdilemma und können entsprechende Zusammenhänge im komplexen globalen Wechselspiel erkennen. Neben den Auswirkungen unseres Wirtschaftens lernen Sie Konzepte zur nachhaltigen Entwicklung kennen. Anhand von Beispielen werden konkrete Handlungsoptionen deutlich. Dadurch sind Sie in der Lage, in der Praxis eigenes Verhalten, Prozesse oder Produkte hinsichtlich ihrer Nachhaltigkeit zu beurteilen.",
-        "pass": "",
-        "lehrwerk": "",
-        "theme": "Das ursprünglich aus der Forstwirtschaft stammende Nachhaltigkeitsprinzip sagt, dass nur so viel Holz geerntet werden kann wie Bäume gepflanzt wurden. Das derzeitig akzeptierte Paradigma des kontinuierlichen volkswirtschaftlichen Wachstums widerspricht diesem Prinzip und der natürlichen Begrenztheit unserer Ressourcen. Unser Fortschritt basiert auf der intensiven Nutzung fossiler Energieträger. Die Auswirkungen sind Klimawandel, irreversible Eingriffe in die Natur, Verlust der Artenvielfalt, Wassermangel oder die zunehmende Arm-Reich-Schere in der Gesellschaft.  Die Prinzipien einer nachhaltigen Entwicklung sind effiziente Prozesse, konsistente Kreisläufe, suffizientes Verhalten und resiliente Strukturen. In der Vorlesung wird dargestellt, wo wir heute stehen und wie wir durch Anwendung der Prinzipien aktuelle Probleme lösen können.  Es gibt keinen „Königsweg“ für eine nachhaltige Entwicklung, deshalb diskutieren wir gemeinsam, welche Transformationen sinnvoll wären und vor allem wie sie in einer demokratischen Gesellschaft umgesetzt werden können. Dazu dienen Beispiele aus den Bereichen der Produktion, Energie, Mobilität und Ernährung. Auch aktuelle Entwicklungen wie das Paris-Abkommen, die „Fridays for Future“-Bewegung oder das Wirken von individuellen Pionieren des Wandels werden diskutiert.",
-        "methodes": "Dozentenvortrag (mit Beamer-Unterstützung) mit anschaulichen, aktuellen Beispielen aus der Praxis. Erwünscht ist eine aktive Teilnahme der Studierenden an den Diskussionen.",
-        "diszVerort": "Die Vorlesung geht interdisziplinär auf die Ursachen und Wirkungen globaler Entwicklungen ein. Die Basis bilden technische Entwicklungen, daneben werden auch volkswirtschaftliche Zusammenhänge, politische Rahmenbedingungen und auch sozialwissenschaftliche Themen angesprochen. ",
-        "literatur": "Folgende Werke geben einen Überblick über die Thematik: Niko Paech, Nachhaltiges Wirtschaften jenseits von Innovationsorientierung und Wachstum (Marburg, 2005); Schellnhuber et al., Global Sustainability (Cambridge 2010); Stefan Brunhuber, Die Kunst der Transformation (Freiburg, 2016); Le Monde diplomatique, Atlas der Globalisierung (Berlin, 2019); Uwe Schneidewind, Die große Transformation (Frankfurt a.M., 2018).",
-        "hinweise": "Keine Vorkenntnisse notwendig; die dargestellten Themen und Technologien sind auch für Studiefänger verständlich. Erwünscht ist ein hohes Interesse an Themen zur nachhaltigen Entwicklung."
-    },
-    {
-        "lvNr": 3,
-        "titelDerLv": "Zukunft denken - narrativ",
-        "name": "Brandstetter",
-        "wochentag": "DO",
-        "zeit": "10.00-11.30",
-        "ort": "T 1.015",
-        "exame": "Praktische Prüfung",
-        "typeOfExame": "",
-        "typeOfLV": "Seminar",
-        "fachgebiet": "Cultural Studies",
-        "cluster": [
-		"Gesellschaft und Politik", 
-		"Kultur, Geschichte und Musik"
-	],
-	"zertifikat": [],
-	"kompProfil": [
-		"International", 
-		"Digital", 
-		"Nachhaltig", 
-		"Unternehmerisch", 
-		"Methoden"
-	],
-        "addInfo": "",
-        "goal": "Ziel ist es, basierend auf der Kulturtechnik der Narrative ein vertieftes Verständnis zukunftsrelevanter Aspekte im Rahmen eines „Think Projects“ zu erlangen. Studierende entwickeln ein kritisches und reflektiertes Bewusstsein von Zukunftsthemen, das ihnen erlaubt, Wandlungsprozesse zu analysieren. Studierende werden befähigt, Orientierungs- und Entscheidungshilfen zu entwickeln, um darauf basierend international, nachhaltig und unternehmerisch zu handeln.",
-        "pass": "",
-        "lehrwerk": "",
-        "theme": "Wir leben in einer sich rasant verändernden, digitalisierten Welt, die uns vor immer neue Herausforderungen auf globaler, internationaler, lokaler und individueller Ebene stellt. Technologien, internationale Entwicklungen, gesellschaftlicher Wandel und wissenschaftliche Errungenschaften verändern kontinuierlich unsere Arbeitswelt und unser Zusammenleben. Dabei ist unsere Kenntnis über viele Entwicklungen der Gegenwart oft das Ergebnis von sogenten Narrativen, in denen die Themen „erzählt“, d.h. erläutert und gedeutet werden. Der Mensch als „homo narrans“ versucht, durch die Kulturtechnik der Erzählungen Strukturen zu schaffen, die einen sinnstiftenden Zusammenhalt zwischen verschiedenen Ereignissen etablieren, um diese sogleich als neue Wirklichkeiten fassbar zu machen. Im 21. Jahrhundert wird durch die Zunahme digitaler Kommunikationsmittel ein kommunikatives Spannungsfeld zwischen textueller und visueller Konstruktion von Narrativen, Storytelling, Agenda Setting in sozialen Medien sowie politischen Frames aufgebaut, in dem die Grenzen zwischen Fiktion, Wahrheit und Wirklichkeit virulent werden.In diesem Seminar werden zunächst die theoretischen Grundlagen vermittelt, wie Narrative entstehen und verbreitet werden. Darauf aufbauend sind Studierende aufgefordert, ausgehend von ihrem Umfeld Zukunftsthemen und Problemstellungen, die ihr Leben und ihre Berufstätigkeit in einer globalisierten Welt beeinflussen werden, als Narrative zu analysieren und in wechselnden interdisziplinären Zusammensetzungen nach den Prinzipien eines Debattierclubs zu diskutieren. Dabei steht die multiperspektivische, interdisziplinäre Analyse der involvierten Aspekte im Fokus, um längerfristige Prognosen von Wandlungsprozessen sowie Orientierungs- und Entscheidungshilfen zu entwickeln.",
-        "methodes": "Forschendes Lernen im Rahmen von „Think Projects“, Diskussionen, Gruppenarbeiten",
-        "diszVerort": "Cultural Studies, Literaturwissenschaft, Interdisziplinär",
-        "literatur": "Literaturhinweise zu den behandelten Themengebieten werden im Seminar bekanntgegeben.",
-        "hinweise": "Die regelmäßige Teilnahme an der Veranstaltung wird vorausgesetzt."
-    },
-    {
-        "lvNr": 4,
-        "titelDerLv": "Actualités des pays francophones ",
-        "name": "Bresoli",
-        "wochentag": "DO",
-        "zeit": "10.00-11.30",
-        "ort": "T 2.018",
-        "exame": "Modularbeit",
-        "typeOfExame": "Portfolio",
-        "typeOfLV": "Seminar",
-        "fachgebiet": "Französisch",
-        "cluster": [
-		"Gesellschaft und Politik", 
-		"Interkulturalität und Sprachen"
-	],
-	"zertifikat": [],
-	"kompProfil": [
-		"International", 
-		"Nachhaltig"
-	],
-        "addInfo": "",
-        "goal": "Acquisition de connaissances préalables pour suivre l'actualité et comprendre les spécificités propres aux différents pays francophones sur les plans politique, économique et culturel.",
-        "pass": "",
-        "lehrwerk": "",
-        "theme": "Politique, économie, culture et société des pays francophones dans le monde.",
-        "methodes": "Exposé, travail de groupe et discussion en plenum",
-        "diszVerort": "Compétences linguistique et interculturelle ",
-        "literatur": "Médias francophones: Le Monde, Jeune Afrique, Radio France International, TV5 Monde etc. ",
-        "hinweise": "Participation régulière au cours"
-    },
-    {
-        "lvNr": 5,
-        "titelDerLv": "Postmigrantische Narrative - Das Interview als Methode der qualitativen Sozialforschung",
-        "name": "Celik",
-        "wochentag": "MI",
-        "zeit": "17.00-18.30",
-        "ort": "T 1.023",
-        "exame": "Modularbeit",
-        "typeOfExame": "Referat und Seminararbeit",
-        "typeOfLV": "Seminar",
-        "fachgebiet": "Soziologie",
-        "cluster": [
-		"Gesellschaft und Politik",
-		"Interkulturalität und Sprachen"
-	],
-	"zertifikat": [],
-	"kompProfil": [
-		"International", 
-		"Methoden"
-	],
-        "addInfo": "",
-        "goal": "Lernziele: Die Studierenden sollen einen ersten Einblick in qualitative Forschungsmethoden im Rahmen der Sozialforschung und tiefere Kenntnisse zum Themenbereich des qualitativen Leitfadeninterviews erhalten. Zudem sollen auch erste forschungspraktische Erfahrungen gesammelt werden. Kompetenzen: Nach dem Besuch dieses Seminars sollten Sie grundlegende Kenntnisse über qualitative Methoden haben wie auch die praktische Erfahrung ein Interview selbstständig vorbereitet, durchgeführt und ausgewertet zu haben. Darüber hinaus sollen reflexive Kompetenzen erworben werden. Das Befassen mit dem Interviewmaterial wie auch das Deuten und Diskutieren im Seminarkontext sollen dazu beitragen.",
-        "pass": "",
-        "lehrwerk": "",
-        "theme": "Erzählungen sind nicht nur in der Literatur besonders wertvoll und reichhaltig zu lesen. Auch in der Forschung lässt sich aus dem, was Menschen uns zu erzählen haben, viel Erkenntnis generieren. In dem Sinne wollen wir in diesem Seminar tiefer in die Methode des Interviews als Weg zur Datengenerierung in der Sozialforschung einsteigen. In einem Zweiklang aus Theorie und Empirie wollen wir uns zunächst ansehen, was das Interview in der Qualitativen Forschung ausmacht, um dann davon ausgehend die Ärmel hochzukrempeln und selbst ins Feld zu gehen, um wertvolle Erzählungen zu sammeln. Der thematische Rahmen der Interviews wird im Bereich der Migrationssoziologie sein und sich vor allem mit der postmigrantischen Gesellschaft beschäftigen.Der Leistungsnachweis in diesem Seminar besteht aus einem Referat sowie der Verschriftlichung der Erkenntnisse aus dem Interview.",
-        "methodes": "Methode: Seminar, Arbeit mit Texten, Reflexion, Diskussion und praktische Übungen  ",
-        "diszVerort": "Wir werden hauptsächlich mit deutscher Literatur und dabei vor allem Methodenliteratur arbeiten. Wir werden darüber hinaus auch einen theoretischen Rahmen im Bereich der Migrationsforschung haben.",
-        "literatur": "Zur Einstimmung in den Themenbereich könnten folgende Texte bzw. Ausschnitte aus folgenden Büchern gelesen werden: Hopf, Christel (2016): Die Pseudo-Exploration – Überlegungen zur Technik qualitativer Interviews in der Sozialforschung. In: Schriften zu Methodologie und Methoden qualitativer Sozialforschung (Hrsg. Wulf Hopf und Udo Kuckartz). Wiesbaden: Springer VS.   Siouti, Irini; Spieß, Tina; Tuider, Elisabeth; von Unger, Hella; Yildiz, Erol (Hg.) (2022): Othering in der postmigrantischen Gesellschaft. Herausforderungen und Konsequenzen für die Forschungspraxis. Bielefeld: Transcript Verlag. (gibt es als open access: https://www.transcript-verlag.de/media/pdf/89/71/2a/oa9783839463086.pdf) Gümüşay, Kübra (2020): Sprache und Sein. Berlin: Hanser Verlag.",
-        "hinweise": ""
-    },
-    {
-        "lvNr": 6,
-        "titelDerLv": "Digitalisierung und Gesellschaft (DAI)",
-        "name": "Dobler",
-        "wochentag": "DO",
-        "zeit": "15.15-16.45",
-        "ort": "T 1.018",
-        "exame": "Modularbeit",
-        "typeOfExame": "Projektarbeit, Präsentation, Diskussion, Reflexion",
-        "typeOfLV": "Seminar",
-        "fachgebiet": "Kunst- und Medienwissenschaften",
-        "cluster": [
-		"Gesellschaft und Politik", 
-		"Kultur, 
-		Geschichte und Musik"
-	],
-	"zertifikat": [
-		"Hochschulzertifikat Digital"
-	],
-	"kompProfil": [
-		"International", 
-		"Digital",
-		"Nachhaltig"
-	],
-        "addInfo": "",
-        "goal": "Die Teilnehmer:innen erweitern ihr Wissen und ihre Kompetenzen auf dem Gebiet der digitalen Technologien um eine Perspektive, die den Menschen und die Gemeinschaft ins Zentrum stellt. Sie sollen so befähigt werden, einen gesamtheitlichen Blick auf Digitalisierung zu entwickeln, der im besten Sinne nachhaltig ist.Dabei werden mediale Kompetenz, kulturelle Kompetenz, digitale Kompetenz und Selbstkompetenz sowie diskursive Fähigkeiten gefördert.",
-        "pass": "",
-        "lehrwerk": "",
-        "theme": "Digitalisierung und Künstliche Intelligenz sind Zukunftstechnologien, die neben Wirtschaft und Politik auch den Menschen und das Zusammenleben nachhaltig verändern und prägen. Als Medium dient digitale Technologie der Kommunikation, der Wissensspeicherung, der Information und der Unterhaltung.Die daraus resultierenden Möglichkeiten und Chancen, aber auch die Risiken und Gefahren für die Gesellschaft werden im Seminar untersucht. Dabei wird ein Schwerpunkt auf die Sozialen Medien sowie auf die sogente Künstliche Intelligenz gelegt.",
-        "methodes": "Dozentenvortrag, seminaristisches Studium mit Präsentationen und Diskussion, forschendes Lernen.",
-        "diszVerort": "Medienwissenschaften",
-        "literatur": "Martin Burckhardt, Eine kurze Geschichte der Digitalisierung, München 2018.Armin Nassehi, Muster. Theorie der digitalen Gesellschaft, München 2019.Dirk Baecker, 4.0 oder Die Lücke die der Rechner lässt, Berlin 2018.",
-        "hinweise": ""
-    }
+   {
+      "awId":0,
+      "awHeadNo":"001",
+      "awHeadTitle":"Systemaspekte nachhaltiger Entwicklung",
+      "awHeadSubtitle":"",
+      "awDetRoom":{
+         "topic":"Ort",
+         "content":"T 2.014"
+      },
+      "awDetDay":{
+         "topic":"Wochentag",
+         "content":"Montag"
+      },
+      "awDetTime":{
+         "topic":"Zeit(en)",
+         "content":"15:15 - 18:15 Uhr"
+      },
+      "awDetRhythm":{
+         "topic":"Rhythmus",
+         "content":"Wöchentlich (2 SWS)"
+      },
+      "awDetDates":{
+         "topic":"Termine für nicht wöchentliche Veranstaltungen",
+         "content":[
+            "MO, 25.03.2024; 15:15 - 16:45 Uhr (2-stündig)",
+            "MO, 08.04.2024; 15:15 - 18:15 Uhr",
+            "MO, 22.04.2024; 15:15 - 18:15 Uhr",
+            "MO, 29.04.2024; 15:15 - 18:15 Uhr",
+            "MO, 06.05.2024; 15:15 - 18:15 Uhr",
+            "MO, 13.05.2024; 15:15 - 18:15 Uhr",
+            "MO, 24.06.2024; 15:15 - 16:45 Uhr (2-stündig)"
+         ]
+      },
+      "awDetName":{
+         "topic":"Lehrende",
+         "content":[
+            "Dippold, Prof. Dr.-Ing. Michael",
+            "Brandstetter Prof. Dr. Nicole",
+            "Dobler, Prof. Dr. Ralph-Miklas"
+         ],
+         "link":[
+            "",
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_24201.de.html",
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_26560.de.html"
+         ]
+      },
+      "awDetField":{
+         "topic":"Fachgebiet",
+         "content":"Naturwissenschaft und Technik"
+      },
+      "awDetMainTopic":{
+         "topic":"Hauptthemengebiet",
+         "content":"Gesellschaft und Politik"
+      },
+      "awDetOffTopic":{
+         "topic":"Zusatzthemengebiet",
+         "content":"Mensch und Gesundheit"
+      },
+      "awDetCertificate":{
+         "topic":"Zertifikat",
+         "content":[
+            "Nachhaltiges Denken, verantwortliches Handeln (NAC)"
+         ]
+      },
+      "awDetCompetence":{
+         "topic":"Kompetenzprofil",
+         "content":"Nachhaltig"
+      },
+      "awDetLectureType":{
+         "topic":"Art der Veranstaltung",
+         "content":"Vorlesung"
+      },
+      "awDetExame":{
+         "topic":"Prüfung",
+         "content":"Schriftliche Prüfung"
+      },
+      "awDetRoadTrip":{
+         "topic":"Exkursion",
+         "content":"Termin nach Vereinbarung"
+      },
+      "awDetPlaceholder_1":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_2":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_3":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_4":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandTheme":{
+         "topic":"Thematik",
+         "content":"Die physikalischen und biologisch-ökologischen Rahmenbedingungen unseres Lebens erfordern dringend mehr Nachhaltigkeit in Wirtschaft und Gesellschaft, darin ist sich eine überwältigende Mehrheit der Wissenschatfler einig. Jüngste dramatische Ereignisse haben die die öffentliche Aufmerksamkeit weitgehend zu Lasten des Themas Nachhaltigkeit auf sich gezogen. Andere Interessen und Machtansprüche versuchen sich durchzusetzen. In der Veranstaltung werden Grundlagen, aktuelle Defizite und Lösungsansätze nachhaltigen Handelns dargestellt. Denken in Systemen kann das Verständnis der Zusammenhänge entscheidend fördern. Neue  Technologien verändern laufend die Ausgangsbasis. In 8 Themenrunden werden einzelne Aspekte und ihre Zusammenhänge vertieft: - Nachhaltigkeit: Notwendigkeit, Messbarkeit und Bedrohung - Klima und Treibhausgase - Ökologische Systeme, Leben und biologische Vielfalt - Systeme: Modellierung, Rückwirkungen und Stabilität - Geld, Wirtschaft und Politik - Transformation, Technologie und Nachhaltigkeitsprojekte - Menschen und Bedürfnisse, Konsum und Politik - Menschen und Natur, Einbettung und Dominanz, Ernährung"
+      },
+      "awExpandGoals":{
+         "topic":"Lernziele und Kompetenzen",
+         "content":"Die Studierenden erhalten Einblick in Grundfunktionen ökologischer Systeme und zu Grenzen unserer heutigen Lebensweise. Sie lernen komplexe Systeme und die Rolle von Modellen in Grundzügen zu verstehen und Maßnahmen im wirtschaftlichen und persönlichen Umfeldzu beurteilen. Sie sind in der Lage, verschiedene Konzepte von Nachhaltigkeit einzuschätzen und Einstellungen zu reklektieren, die entsprechenden Konzepten zugrunde liegen."
+      },
+      "awExpandMethodes":{
+         "topic":"Methoden",
+         "content":"Seminaristischer Unterricht mit Elementen des flipped classroom, Kurzreferate, Gruppenarbeit, Videos, Übungsbeispiele, Exkursion"
+      },
+      "awExpandTypeOfExame":{
+         "topic":"Art der Modularbeit",
+         "content":""
+      },
+      "awExpandLiteratur":{
+         "topic":"Literatur",
+         "content":"Nentwig, Bacher, Brandl : Ökologie kompakt. Springer 2017 /  Schneidewind, U.: Die Große Transformation.  Fischer 2019 /  Frey, U.: Nachhaltige Bewirtschaftung natürlicher Ressourcen. Springer 2018"
+      },
+      "awExpandHints":{
+         "topic":"Hinweise",
+         "content":"Anwesenheitspflicht in der ersten Stunde und bei der Exkursion. Datum Exkursion nach Vereinbarung"
+      },
+      "awExpandRequirements":{
+         "topic":"Voraussetzungen zur Teilnahme",
+         "content":"Keine"
+      },
+      "awExpandTextbook":{
+         "topic":"Lehrwerk",
+         "content":""
+      },
+      "awExpandCreditability":{
+         "topic":"Verwendbarkeit",
+         "content":"Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+      },
+      "awExpandWorkload":{
+         "topic":"Arbeitsaufwand",
+         "content":"Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+      },
+      "awExpandPlaceholder_1":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_2":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_3":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_4":{
+         "topic":"",
+         "content":""
+      }
+   },
+   {
+      "awId":1,
+      "awHeadNo":"002",
+      "awHeadTitle":"Europa zwischen Tradition und Polykrise - Ringvorlesung",
+      "awHeadSubtitle":"",
+      "awDetRoom":{
+         "topic":"Ort",
+         "content":"T 0.020"
+      },
+      "awDetDay":{
+         "topic":"Wochentag",
+         "content":"Mittwoch"
+      },
+      "awDetTime":{
+         "topic":"Zeit(en)",
+         "content":"17:00 - 18:30 Uhr"
+      },
+      "awDetRhythm":{
+         "topic":"Rhythmus",
+         "content":"Wöchentlich (2 SWS)"
+      },
+      "awDetDates":{
+         "topic":"Termine für nicht wöchentliche Veranstaltungen",
+         "content":[
+            ""
+         ]
+      },
+      "awDetName":{
+         "topic":"Lehrende",
+         "content":[
+            "Wüst, Prof. Dr. Andreas M. (Orgaisation)",
+            "Brandstetter Prof. Dr. Nicole",
+            "Dobler, Prof. Dr. Ralph-Miklas",
+            "von Helmolt, Prof. Dr. Katharina",
+            "Kaminski, Prof. Dr. Simone",
+            "Järvenpää, Prof. Dr. Silke",
+            "Prieto Peral, Prof. Dr. Maria Begoña",
+            "Schmitt, Prof. Dr. Theodor"
+         ],
+         "link":[
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_50391.de.html",
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_24201.de.html",
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_26560.de.html",
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_924.de.html",
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_24200.de.html",
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_807.de.html",
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_934.de.html",
+            "https://gs.hm.edu/kontakte_de/phonebook_detailseite_429.de.html"
+         ]
+      },
+      "awDetField":{
+         "topic":"Fachgebiet",
+         "content":"Interdiziplinärende Lehrveranstaltung"
+      },
+      "awDetMainTopic":{
+         "topic":"Hauptthemengebiet",
+         "content":"Gesellschaft und Politik"
+      },
+      "awDetOffTopic":{
+         "topic":"Zusatzthemengebiet",
+         "content":"Kultur Geschichte und Musik"
+      },
+      "awDetCertificate":{
+         "topic":"Zertifikat",
+         "content":[
+            "European Studies (ES)"
+         ]
+      },
+      "awDetCompetence":{
+         "topic":"Kompetenzprofil",
+         "content":"International"
+      },
+      "awDetLectureType":{
+         "topic":"Art der Veranstaltung",
+         "content":"Vorlesung"
+      },
+      "awDetExame":{
+         "topic":"Prüfung",
+         "content":"Schriftliche Prüfung"
+      },
+      "awDetRoadTrip":{
+         "topic":"Exkursion",
+         "content":""
+      },
+      "awDetPlaceholder_1":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_2":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_3":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_4":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandTheme":{
+         "topic":"Thematik",
+         "content":"Anfang Juni 2024 sind über 400 Millionen Europäer:innen aufgerufen, ein neues Europaparlament zu wählen. Nach einer langen Zeit des Friedens, wirtschaftlichen Wachstums, demokratischer Strukturen, einer sich erweiternden und vertiefenden Europäischen Union erlebt der Kontinent seit wenigen Jahren neue, teils bisher unbekannte Herausforderungen. Mit dem Austritt des Vereinigten Königreichs, dem Klimawandel und steigenden Flüchtlingszahlen sowie einem Krieg in unmittelbarer Nachbarschaft steht Europa und vor allem die Europäische Union vor harten Bewährungsproben. In einer Ringvorlesung möchten wir zum einen die verschiedenen Herausforderungen thematisieren und diskutieren, zum anderen aber auch fragen, was Europa historisch, kulturell und politisch zusammenhält. In der Debatte sollen europäische, nationale, regionale und globale Perspektiven Berücksichtigung finden."
+      },
+      "awExpandGoals":{
+         "topic":"Lernziele und Kompetenzen",
+         "content":"Einblick in die Beschäftigung mit Europa aus unterschiedlichen Disziplinen der Fakultät 13."
+      },
+      "awExpandMethodes":{
+         "topic":"Methoden",
+         "content":"Thematisch abgegrenzte Vorlesungen mit Diskussion."
+      },
+      "awExpandTypeOfExame":{
+         "topic":"Art der Modularbeit",
+         "content":""
+      },
+      "awExpandLiteratur":{
+         "topic":"Literatur",
+         "content":"Wird für jede Sitzung angegeben"
+      },
+      "awExpandHints":{
+         "topic":"Hinweise",
+         "content":"Die Klausur enthält Fragen zu sämtlichen Sitzungen. Zwei Fragen müssen nicht beantwortet werden."
+      },
+      "awExpandRequirements":{
+         "topic":"Voraussetzungen zur Teilnahme",
+         "content":"Keine"
+      },
+      "awExpandTextbook":{
+         "topic":"Lehrwerk",
+         "content":""
+      },
+      "awExpandCreditability":{
+         "topic":"Verwendbarkeit",
+         "content":"Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+      },
+      "awExpandWorkload":{
+         "topic":"Arbeitsaufwand",
+         "content":"Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+      },
+      "awExpandPlaceholder_1":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_2":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_3":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_4":{
+         "topic":"",
+         "content":""
+      }
+   },
+   {
+      "awId":2,
+      "awHeadNo":"003",
+      "awHeadTitle":"Die Europäische Union - eine Politiksimulation",
+      "awHeadSubtitle":"",
+      "awDetRoom":{
+         "topic":"Ort",
+         "content":"Verschiedene"
+      },
+      "awDetDay":{
+         "topic":"Wochentag",
+         "content":"Verschiedene"
+      },
+      "awDetTime":{
+         "topic":"Zeit(en)",
+         "content":"Verschiedene"
+      },
+      "awDetRhythm":{
+         "topic":"Rhythmus",
+         "content":""
+      },
+      "awDetDates":{
+         "topic":"Termine für nicht wöchentliche Veranstaltungen",
+         "content":[
+            "MO, 25.03.2024; 17:00-18:30 Uhr; Online; Verpflichtende Vorbesprechung",
+            "MI, 15.05.2024; 17:00 -1 8:30 Uhr; Online; Seminarsitzung digital",
+            "FR, 07.06.2024; 16:00 - 20:00 Uhr; T 1.015; Seminarsitzung analog",
+            "SA, 08.06.2024; 10:00 - 14:00 Uhr; T 1.015; Seminarsitzung analog",
+            "FR, 14.06.2024; 17:00 - 18:30 Uhr; Online; Seminarsitzung digital"
+         ]
+      },
+      "awDetName":{
+         "topic":"Lehrende",
+         "content":[
+            "Lohmann Dr. Jan Robert"
+         ],
+         "link":[
+            "https://www.geku.uni-passau.de/europeanstudies/jean-monnet-team/alumni/dr-robert-lohmann"
+         ]
+      },
+      "awDetField":{
+         "topic":"Fachgebiet",
+         "content":"Politikwissenschaft"
+      },
+      "awDetMainTopic":{
+         "topic":"Hauptthemengebiet",
+         "content":"Gesellschaft und Politik"
+      },
+      "awDetOffTopic":{
+         "topic":"Zusatzthemengebiet",
+         "content":""
+      },
+      "awDetCertificate":{
+         "topic":"Zertifikat",
+         "content":[
+            "European Studies (ES)",
+            "Hochschulzertifikat Digital"
+         ]
+      },
+      "awDetCompetence":{
+         "topic":"Kompetenzprofil",
+         "content":"International Methoden"
+      },
+      "awDetLectureType":{
+         "topic":"Art der Veranstaltung",
+         "content":"Seminar"
+      },
+      "awDetExame":{
+         "topic":"Prüfung",
+         "content":"Modularbeit"
+      },
+      "awDetRoadTrip":{
+         "topic":"Exkursion",
+         "content":""
+      },
+      "awDetPlaceholder_1":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_2":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_3":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_4":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandTheme":{
+         "topic":"Thematik",
+         "content":"Die Europäische Union ist ein komplexes Gebilde und stand schon immer in ihrer Geschichte vor Herausforderungen. Aktuell sind besonders die Migrationspolitik, Abspaltungstendenzen, Rechtsstaatlichkeitsfragen, die Energie-Krise, den Ukraine-Krieg und weitere Punkte zunennen. Was als Friedensprojekt begann und sich maßgeblich über eine Integration vieler Wirtschaftsbereiche definierte, wird hinterfragt und neue Lösungswege gesucht. Flexible Integration, Europa der multiplen Geschwindigkeiten oder ein Kerneuropa sind wissenschaftliche Erklärungsansätze für die immer selbe Frage: Wie will die Gemeinschaft europäischer Staaten künftig Zusammen-arbeiten? Die Europäische Kommission hat mit ihrem Weißbuch über die Zukunft der Union hierzu Szenarien aufgezeigt, welche künftige Kooperation strukturieren könnten, ohne dabei eine Empfehlung abzugeben. Auch wenn sich die genaue Form der Zusammenarbeit wahrscheinlich im Tagesgeschäft entscheiden wird, ist ein Blick auf die Szenarien ebenso wichtig, wie ein Blick auf die drängendsten Inhalte der Integration. Beides soll in diesem Seminar geschehen. Der Kernbestandteil des Seminars ist eine Politiksimulation. In dieser Simulation übernehmen die Teilnehmenden die Rolle von Staats- und Regierungschefs der Mitgliedstaaten der Union und werden auf einem Grundsatztreffen über grundlegende Inhalte der künftigen Arbeit verhandeln. Verhandeln bedeutet immer einen Kompromiss zu finden, mit dem möglichst alle (oder zumindest die Mehrheit) leben kann. Je mehr unterschiedlichen Interessen es gibt, desto schwieriger wird dieser Prozess. Aber er ist bedeutend, schließlich geht es um das Zusammenleben von mehr als 450 Millionen Menschen. Ihr Engagement ist gefragt! Das Seminar findet hybrid statt: einerseits bereiten Sie sich digital vor, andererseits werden wir uns (den aktuellen Möglichkeiten nach) analog in der Hochschule treffen. Im digitalen ist es umso wichtiger, dass Sie mitwirken. In einem ersten Treffen werden die Erwartungen an das Seminar besprochen und Themen für die Simulation ausgewählt. Nach diesem Treffen findet die Verteilung der und Themen für die Simulation ausgewählt. Nach diesem Treffen findet die Verteilung der Rollen für die Simulation statt. Zwischen dem ersten Treffen und der eigentlichen Simulation erarbeiten sich die Teilnehmenden in Eigenarbeit Grundlagenwissen über die Simulationsmethode, die Europäische Union und die ausgewählten Verhandlungspunkte. Diese Phase wird insbesondere durch einen Moodle-Kurs unterstützt. Der Hauptbestandteil des Seminars ist die Politiksimulation, welche an zwei aufeinanderfolgenden Halbtagen durchgeführt wird. Nach dieser Simulation findet noch ein Treffen zur Auswertung der Simulation wie der Klärung offener Fragen statt."
+      },
+      "awExpandGoals":{
+         "topic":"Lernziele und Kompetenzen",
+         "content":"Vertieftes politikwissenschaftliches Verständnis des Themenbereiches Europäische Integration und der politischen Prozesse der Europäischen Union; Kennenlernen wichtiger Politikfelder der Europäischen Union; aktives Erlernen politischer Rollen; Erlernen von Schlüsselqualifikationen wie Verhandlungsführung, Teamarbeit, Interessendurchsetzung, Moderationstechniken, strategisches Denken und komplexes Problemlösen; Förderung der gesellschaftlichen Kompetenz."
+      },
+      "awExpandMethodes":{
+         "topic":"Methoden",
+         "content":"Politiksimulation (Planspiel)"
+      },
+      "awExpandTypeOfExame":{
+         "topic":"Art der Modularbeit",
+         "content":"Reflexionsarbeit"
+      },
+      "awExpandLiteratur":{
+         "topic":"Literatur",
+         "content":"Als Vorbereitung und Begleitliteratur empfehlenswert: Europäische Kommission (2017): Weißbuch zur Zukunft Europas- Die EU der 27 im Jahr 2025 – Überlegungen und Szenarien (www.//europa.eu/commission/sites/betapolitical/files/weissbuch_zur_zukunft_europas_de.pdf) Müller-Brandeck-Bocquet (2019): Zukunftsdebatte in der EU. In: Bundeszentrale für Politische Bildung (Hrsg.): Europa wählt. Aus Politik und Zeitgeschichte (4-5/2019), Bonn, S. 19-25. Lohmann, Jan Robert (2018): Politiksimulationen – eine facettenreiche didaktische Methode. Akademie-Kurzanalysen (3/2018): https://www.apb-tutzing.de/download/publikationen/kurzanalysen/Akademie-Kurzanalyse_2018_03.pdf"
+      },
+      "awExpandHints":{
+         "topic":"Hinweise",
+         "content":"Blockveranstaltung mit ergänzenden Terminen (digital), Leistungsnachweis durch regelmäßige Anwesenheit und aktive Teilnahme an der Simulation, Übernahme einer Rolle (Präsentation) und eine schriftliche wissenschaftliche Ausarbeitung (Seminararbeit) in Gesamtumfang von 8 Seiten."
+      },
+      "awExpandRequirements":{
+         "topic":"Voraussetzungen zur Teilnahme",
+         "content":"Keine"
+      },
+      "awExpandTextbook":{
+         "topic":"Lehrwerk",
+         "content":""
+      },
+      "awExpandCreditability":{
+         "topic":"Verwendbarkeit",
+         "content":"Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+      },
+      "awExpandWorkload":{
+         "topic":"Arbeitsaufwand",
+         "content":"Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+      },
+      "awExpandPlaceholder_1":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_2":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_3":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_4":{
+         "topic":"",
+         "content":""
+      }
+   },
+ {
+      "awId":3,
+      "awHeadNo":"004",
+      "awHeadTitle":"Die Europäische Union - eine Politiksimulation",
+      "awHeadSubtitle":"",
+      "awDetRoom":{
+         "topic":"Ort",
+         "content":"Verschiedene"
+      },
+      "awDetDay":{
+         "topic":"Wochentag",
+         "content":"Verschiedene"
+      },
+      "awDetTime":{
+         "topic":"Zeit(en)",
+         "content":"Verschiedene"
+      },
+      "awDetRhythm":{
+         "topic":"Rhythmus",
+         "content":""
+      },
+      "awDetDates":{
+         "topic":"Termine für nicht wöchentliche Veranstaltungen",
+         "content":[
+            "MO, 25.03.2024; 17:00-18:30 Uhr; Online; Verpflichtende Vorbesprechung",
+            "MI, 15.05.2024; 17:00 -1 8:30 Uhr; Online; Seminarsitzung digital",
+            "FR, 07.06.2024; 16:00 - 20:00 Uhr; T 1.015; Seminarsitzung analog",
+            "SA, 08.06.2024; 10:00 - 14:00 Uhr; T 1.015; Seminarsitzung analog",
+            "FR, 14.06.2024; 17:00 - 18:30 Uhr; Online; Seminarsitzung digital"
+         ]
+      },
+      "awDetName":{
+         "topic":"Lehrende",
+         "content":[
+            "Lohmann Dr. Jan Robert"
+         ],
+         "link":[
+            "https://www.geku.uni-passau.de/europeanstudies/jean-monnet-team/alumni/dr-robert-lohmann"
+         ]
+      },
+      "awDetField":{
+         "topic":"Fachgebiet",
+         "content":"Politikwissenschaft"
+      },
+      "awDetMainTopic":{
+         "topic":"Hauptthemengebiet",
+         "content":"Gesellschaft und Politik"
+      },
+      "awDetOffTopic":{
+         "topic":"Zusatzthemengebiet",
+         "content":""
+      },
+      "awDetCertificate":{
+         "topic":"Zertifikat",
+         "content":[
+            "European Studies (ES)",
+            "Hochschulzertifikat Digital"
+         ]
+      },
+      "awDetCompetence":{
+         "topic":"Kompetenzprofil",
+         "content":"International Methoden"
+      },
+      "awDetLectureType":{
+         "topic":"Art der Veranstaltung",
+         "content":"Seminar"
+      },
+      "awDetExame":{
+         "topic":"Prüfung",
+         "content":"Modularbeit"
+      },
+      "awDetRoadTrip":{
+         "topic":"Exkursion",
+         "content":""
+      },
+      "awDetPlaceholder_1":{
+         "topic":"Zusatzinformationen",
+         "content":"Werden in Moodle veröffentlicht"
+      },
+      "awDetPlaceholder_2":{
+         "topic":"Keine Ausgabe hier",
+         "content":""
+      },
+      "awDetPlaceholder_3":{
+         "topic":"",
+         "content":""
+      },
+      "awDetPlaceholder_4":{
+         "topic":"Ergänzungen",
+         "content":"Weitere Informationen"
+      },
+      "awExpandTheme":{
+         "topic":"Thematik",
+         "content":"Die Europäische Union ist ein komplexes Gebilde und stand schon immer in ihrer Geschichte vor Herausforderungen. Aktuell sind besonders die Migrationspolitik, Abspaltungstendenzen, Rechtsstaatlichkeitsfragen, die Energie-Krise, den Ukraine-Krieg und weitere Punkte zunennen. Was als Friedensprojekt begann und sich maßgeblich über eine Integration vieler Wirtschaftsbereiche definierte, wird hinterfragt und neue Lösungswege gesucht. Flexible Integration, Europa der multiplen Geschwindigkeiten oder ein Kerneuropa sind wissenschaftliche Erklärungsansätze für die immer selbe Frage: Wie will die Gemeinschaft europäischer Staaten künftig Zusammen-arbeiten? Die Europäische Kommission hat mit ihrem Weißbuch über die Zukunft der Union hierzu Szenarien aufgezeigt, welche künftige Kooperation strukturieren könnten, ohne dabei eine Empfehlung abzugeben. Auch wenn sich die genaue Form der Zusammenarbeit wahrscheinlich im Tagesgeschäft entscheiden wird, ist ein Blick auf die Szenarien ebenso wichtig, wie ein Blick auf die drängendsten Inhalte der Integration. Beides soll in diesem Seminar geschehen. Der Kernbestandteil des Seminars ist eine Politiksimulation. In dieser Simulation übernehmen die Teilnehmenden die Rolle von Staats- und Regierungschefs der Mitgliedstaaten der Union und werden auf einem Grundsatztreffen über grundlegende Inhalte der künftigen Arbeit verhandeln. Verhandeln bedeutet immer einen Kompromiss zu finden, mit dem möglichst alle (oder zumindest die Mehrheit) leben kann. Je mehr unterschiedlichen Interessen es gibt, desto schwieriger wird dieser Prozess. Aber er ist bedeutend, schließlich geht es um das Zusammenleben von mehr als 450 Millionen Menschen. Ihr Engagement ist gefragt! Das Seminar findet hybrid statt: einerseits bereiten Sie sich digital vor, andererseits werden wir uns (den aktuellen Möglichkeiten nach) analog in der Hochschule treffen. Im digitalen ist es umso wichtiger, dass Sie mitwirken. In einem ersten Treffen werden die Erwartungen an das Seminar besprochen und Themen für die Simulation ausgewählt. Nach diesem Treffen findet die Verteilung der und Themen für die Simulation ausgewählt. Nach diesem Treffen findet die Verteilung der Rollen für die Simulation statt. Zwischen dem ersten Treffen und der eigentlichen Simulation erarbeiten sich die Teilnehmenden in Eigenarbeit Grundlagenwissen über die Simulationsmethode, die Europäische Union und die ausgewählten Verhandlungspunkte. Diese Phase wird insbesondere durch einen Moodle-Kurs unterstützt. Der Hauptbestandteil des Seminars ist die Politiksimulation, welche an zwei aufeinanderfolgenden Halbtagen durchgeführt wird. Nach dieser Simulation findet noch ein Treffen zur Auswertung der Simulation wie der Klärung offener Fragen statt."
+      },
+      "awExpandGoals":{
+         "topic":"Lernziele und Kompetenzen",
+         "content":"Vertieftes politikwissenschaftliches Verständnis des Themenbereiches Europäische Integration und der politischen Prozesse der Europäischen Union; Kennenlernen wichtiger Politikfelder der Europäischen Union; aktives Erlernen politischer Rollen; Erlernen von Schlüsselqualifikationen wie Verhandlungsführung, Teamarbeit, Interessendurchsetzung, Moderationstechniken, strategisches Denken und komplexes Problemlösen; Förderung der gesellschaftlichen Kompetenz."
+      },
+      "awExpandMethodes":{
+         "topic":"Methoden",
+         "content":"Politiksimulation (Planspiel)"
+      },
+      "awExpandTypeOfExame":{
+         "topic":"Art der Modularbeit",
+         "content":"Reflexionsarbeit"
+      },
+      "awExpandLiteratur":{
+         "topic":"Literatur",
+         "content":"Als Vorbereitung und Begleitliteratur empfehlenswert: Europäische Kommission (2017): Weißbuch zur Zukunft Europas- Die EU der 27 im Jahr 2025 – Überlegungen und Szenarien (www.//europa.eu/commission/sites/betapolitical/files/weissbuch_zur_zukunft_europas_de.pdf) Müller-Brandeck-Bocquet (2019): Zukunftsdebatte in der EU. In: Bundeszentrale für Politische Bildung (Hrsg.): Europa wählt. Aus Politik und Zeitgeschichte (4-5/2019), Bonn, S. 19-25. Lohmann, Jan Robert (2018): Politiksimulationen – eine facettenreiche didaktische Methode. Akademie-Kurzanalysen (3/2018): https://www.apb-tutzing.de/download/publikationen/kurzanalysen/Akademie-Kurzanalyse_2018_03.pdf"
+      },
+      "awExpandHints":{
+         "topic":"Hinweise",
+         "content":"Blockveranstaltung mit ergänzenden Terminen (digital), Leistungsnachweis durch regelmäßige Anwesenheit und aktive Teilnahme an der Simulation, Übernahme einer Rolle (Präsentation) und eine schriftliche wissenschaftliche Ausarbeitung (Seminararbeit) in Gesamtumfang von 8 Seiten."
+      },
+      "awExpandRequirements":{
+         "topic":"Voraussetzungen zur Teilnahme",
+         "content":"Keine"
+      },
+      "awExpandTextbook":{
+         "topic":"Lehrwerk",
+         "content":""
+      },
+      "awExpandCreditability":{
+         "topic":"Verwendbarkeit",
+         "content":"Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+      },
+      "awExpandWorkload":{
+         "topic":"Arbeitsaufwand",
+         "content":"Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+      },
+      "awExpandPlaceholder_1":{
+         "topic":"Weitere Hinweise",
+         "content":"Blockveranstaltung mit ergänzenden Terminen (digital), Leistungsnachweis durch regelmäßige Anwesenheit und aktive Teilnahme an der Simulation, Übernahme einer Rolle (Präsentation) und eine schriftliche wissenschaftliche Ausarbeitung (Seminararbeit) in Gesamtumfang von 8 Seiten."
+      },
+      "awExpandPlaceholder_2":{
+         "topic":"Überschrift sollte nicht erscheinen",
+         "content":""
+      },
+      "awExpandPlaceholder_3":{
+         "topic":"",
+         "content":""
+      },
+      "awExpandPlaceholder_4":{
+         "topic":"",
+         "content":""
+      }
+   }
 ]
