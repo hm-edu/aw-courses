@@ -22,11 +22,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Barth, Dipl. Ing. (FH); Dipl. sc. pol.; Dr. phil. Peter']",
+         "content":[
+            "Barth, Dipl. Ing. (FH); Dipl. sc. pol.; Dr. phil. Peter"
+         ],
          "link":[
             ""
          ]
@@ -163,11 +167,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Barth, Dipl. Ing. (FH); Dipl. sc. pol.; Dr. phil. Peter']",
+         "content":[
+            "Barth, Dipl. Ing. (FH); Dipl. sc. pol.; Dr. phil. Peter"
+         ],
          "link":[
             ""
          ]
@@ -304,11 +312,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Behlau, Dr.-Ing. Lothar']",
+         "content":[
+            "Behlau, Dr.-Ing. Lothar"
+         ],
          "link":[
             ""
          ]
@@ -445,11 +457,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Brandstetter, Prof. Dr. Nicole']",
+         "content":[
+            "Brandstetter, Prof. Dr. Nicole"
+         ],
          "link":[
             ""
          ]
@@ -586,11 +602,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Brandstetter , Prof. Dr. Nicole ', ' Dobler , Prof. Dr.  Ralph-Miklas ', ' Ittstein, Prof. Dr.  Daniel']",
+         "content":[
+            "Brandstetter , Prof. Dr. Nicole ",
+            " Dobler , Prof. Dr.  Ralph-Miklas ",
+            " Ittstein, Prof. Dr.  Daniel"
+         ],
          "link":[
             ""
          ]
@@ -727,11 +749,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bresoli, Prof. Dr. Christophe']",
+         "content":[
+            "Bresoli, Prof. Dr. Christophe"
+         ],
          "link":[
             ""
          ]
@@ -868,11 +894,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bresoli, Prof. Dr. Christophe']",
+         "content":[
+            "Bresoli, Prof. Dr. Christophe"
+         ],
          "link":[
             ""
          ]
@@ -1009,11 +1039,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bresoli, Prof. Dr. Christophe', ' Dobler,   Ralph-Miklas']",
+         "content":[
+            "Bresoli, Prof. Dr. Christophe",
+            " Dobler,   Ralph-Miklas"
+         ],
          "link":[
             ""
          ]
@@ -1150,11 +1185,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Dippold, Prof. Dr.-Ing. Michael']",
+         "content":[
+            "Dippold, Prof. Dr.-Ing. Michael"
+         ],
          "link":[
             ""
          ]
@@ -1291,11 +1330,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Donnerstag, 24.10.2024\\xa0 von 18.00 Uhr bis 21.00 Uhr ACHTUNG: hier ausnahmsweise Raum R. 0.119 \"Steelcase Creative Hall\" Heßstr.89 ', 'oder gem. Ankündigung durch den Dozenten.', 'Freitag, 25.10.2024 von 11.00 Uhr bis 17.00 Uhr Raum T 1.017', 'Freitag,\\xa0 15.11. 2024 von 13.30 Uhr bis 17.00 Uhr Raum T 1.015', 'Freitag, 29.11.2024 von 9.00 bis 13.00 Uhr Raum T 1.017', 'sowie weitere individuell zu vereinbarende Termine in Teams Raum R 1.119']"
+         "content":[
+            "Donnerstag, 24.10.2024  von 18.00 Uhr bis 21.00 Uhr ACHTUNG: hier ausnahmsweise Raum R. 0.119 \"Steelcase Creative Hall\" Heßstr.89 ",
+            "oder gem. Ankündigung durch den Dozenten.",
+            "Freitag, 25.10.2024 von 11.00 Uhr bis 17.00 Uhr Raum T 1.017",
+            "Freitag,  15.11. 2024 von 13.30 Uhr bis 17.00 Uhr Raum T 1.015",
+            "Freitag, 29.11.2024 von 9.00 bis 13.00 Uhr Raum T 1.017",
+            "sowie weitere individuell zu vereinbarende Termine in Teams Raum R 1.119"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Hack, Dipl.Wirt.Ing Michael']",
+         "content":[
+            "Hack, Dipl.Wirt.Ing Michael"
+         ],
          "link":[
             ""
          ]
@@ -1432,11 +1480,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Holler, Prof. Dr. Christian', 'Huber, Prof. Dr.  Heinz', 'Lesch, Prof. Dr. Harald']",
+         "content":[
+            "Holler, Prof. Dr. Christian",
+            "Huber, Prof. Dr.  Heinz",
+            "Lesch, Prof. Dr. Harald"
+         ],
          "link":[
             ""
          ]
@@ -1573,11 +1627,18 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['16.11.2024 (Samstag) 10:30-17:45  ', '1.12.2024 (Sonntag) 10:30-17:30  ', '7.12.2024 (Samstag) 10:30-17:15  ', '14.12.2024 (Samstag) 13:00-16:15 (on-line)']"
+         "content":[
+            "16.11.2024 (Samstag) 10:30-17:45  ",
+            "1.12.2024 (Sonntag) 10:30-17:30  ",
+            "7.12.2024 (Samstag) 10:30-17:15  ",
+            "14.12.2024 (Samstag) 13:00-16:15 (on-line)"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Horodecka, Dr. Dr. Habil. Anna']",
+         "content":[
+            "Horodecka, Dr. Dr. Habil. Anna"
+         ],
          "link":[
             ""
          ]
@@ -1714,11 +1775,18 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['17.11.2024 (Sunday) 10:30-17:45', '30.11.2024 (Saturday) 10:30-17:30', '8.12.2024 (Sunday) 10:30-17:15', '14.12.2024 (Saturday) 8:15-11:30 (on-line)']"
+         "content":[
+            "17.11.2024 (Sunday) 10:30-17:45",
+            "30.11.2024 (Saturday) 10:30-17:30",
+            "8.12.2024 (Sunday) 10:30-17:15",
+            "14.12.2024 (Saturday) 8:15-11:30 (on-line)"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Horodecka, Dr. Dr. habil. Anna']",
+         "content":[
+            "Horodecka, Dr. Dr. habil. Anna"
+         ],
          "link":[
             ""
          ]
@@ -1855,11 +1923,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Ittstein, Prof. Dr. Daniel']",
+         "content":[
+            "Ittstein, Prof. Dr. Daniel"
+         ],
          "link":[
             ""
          ]
@@ -1996,11 +2068,18 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Seminarsitzung (digital in T 1.020): Di, 08. Oktober 2024, 17:00-18:30 Uhr', 'Seminarsitzung (digital in T 1.020): Di, 05. November 2024, 17:00-18:30 Uhr', 'Simulation (analog):Fr, 29. November 16-20 Uhr und Sa, 30. November 10-14 Uhr', 'Seminarsitzung (digital): Mi, 04. Dezember 2024, 17:00-18:30 Uhr.']"
+         "content":[
+            "Seminarsitzung (digital in T 1.020): Di, 08. Oktober 2024, 17:00-18:30 Uhr",
+            "Seminarsitzung (digital in T 1.020): Di, 05. November 2024, 17:00-18:30 Uhr",
+            "Simulation (analog):Fr, 29. November 16-20 Uhr und Sa, 30. November 10-14 Uhr",
+            "Seminarsitzung (digital): Mi, 04. Dezember 2024, 17:00-18:30 Uhr."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Lohmann, Dr. Jan Robert']",
+         "content":[
+            "Lohmann, Dr. Jan Robert"
+         ],
          "link":[
             ""
          ]
@@ -2137,11 +2216,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Kurz, Prof. Dr. Isolde']",
+         "content":[
+            "Kurz, Prof. Dr. Isolde"
+         ],
          "link":[
             ""
          ]
@@ -2278,11 +2361,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Freitag, 11.10.24, 14-18 Uhr, Samstag 12.10.24, 9.00-18.00 Uhr (Präsenz T 3.025)', 'Freitag 8.11.24, 14.00-18.00 Uhr, Samstag 9.11.24, 9.00-18.00 Uhr (online)']"
+         "content":[
+            "Freitag, 11.10.24, 14-18 Uhr, Samstag 12.10.24, 9.00-18.00 Uhr (Präsenz T 3.025)",
+            "Freitag 8.11.24, 14.00-18.00 Uhr, Samstag 9.11.24, 9.00-18.00 Uhr (online)"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Kurz, Prof. Dr. Isolde', 'Rappenglück, Dr. Stefan']",
+         "content":[
+            "Kurz, Prof. Dr. Isolde",
+            "Rappenglück, Dr. Stefan"
+         ],
          "link":[
             ""
          ]
@@ -2419,11 +2508,22 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['9.10.', '16.10.', '23.10.', '30.10.', '6.11.', '13.11.', '20.11.']"
+         "content":[
+            "9.10.",
+            "16.10.",
+            "23.10.",
+            "30.10.",
+            "6.11.",
+            "13.11.",
+            "20.11."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Kurz, Prof. Dr. Isolde', 'Samli,  Tayfun']",
+         "content":[
+            "Kurz, Prof. Dr. Isolde",
+            "Samli,  Tayfun"
+         ],
          "link":[
             ""
          ]
@@ -2560,11 +2660,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Jörger, Dipl.-Pol. Michael']",
+         "content":[
+            "Jörger, Dipl.-Pol. Michael"
+         ],
          "link":[
             ""
          ]
@@ -2701,11 +2805,23 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['08.10.', '22.10.', '29.10.', '05.11.', '19.11.', '26.11.', '03.12.', '17.12.', 'für Modularbeit: 07.01.']"
+         "content":[
+            "08.10.",
+            "22.10.",
+            "29.10.",
+            "05.11.",
+            "19.11.",
+            "26.11.",
+            "03.12.",
+            "17.12.",
+            "für Modularbeit: 07.01."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Margraf, Dr. Christine']",
+         "content":[
+            "Margraf, Dr. Christine"
+         ],
          "link":[
             ""
          ]
@@ -2842,11 +2958,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Blockseminar:', '1) Freitag: 15. 11. 2024 von 15.00 Uhr - 18.15 Uhr', '2) Samstag: 16.11. 2024 von 10.00 Uhr\\xa0 - 17.00 Uhr', '3) Freitag: 29. 11. 2024 von 15.00 Uhr - 18.15 Uhr', '4) Samstag: 30. 11. 2024 von 10.00 Uhr - 17.00 Uhr', '5) Freitag: 13. 12.2024 von 15.00 Uhr\\xa0 - 16.30 Uhr']"
+         "content":[
+            "Blockseminar:",
+            "1) Freitag: 15. 11. 2024 von 15.00 Uhr - 18.15 Uhr",
+            "2) Samstag: 16.11. 2024 von 10.00 Uhr  - 17.00 Uhr",
+            "3) Freitag: 29. 11. 2024 von 15.00 Uhr - 18.15 Uhr",
+            "4) Samstag: 30. 11. 2024 von 10.00 Uhr - 17.00 Uhr",
+            "5) Freitag: 13. 12.2024 von 15.00 Uhr  - 16.30 Uhr"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Neri-Ultsch, Prof. Dr. Daniela']",
+         "content":[
+            "Neri-Ultsch, Prof. Dr. Daniela"
+         ],
          "link":[
             ""
          ]
@@ -2983,11 +3108,21 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['07.10.2024', '21.10.2024', '04.11.2024', '25.11.2024', '02.12.2024', '09.12.2024', '16.12.2024']"
+         "content":[
+            "07.10.2024",
+            "21.10.2024",
+            "04.11.2024",
+            "25.11.2024",
+            "02.12.2024",
+            "09.12.2024",
+            "16.12.2024"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Pfeifenrath, Dr. Rudolf']",
+         "content":[
+            "Pfeifenrath, Dr. Rudolf"
+         ],
          "link":[
             ""
          ]
@@ -3124,11 +3259,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Prieto Peral, Prof. Dr. María Begoña']",
+         "content":[
+            "Prieto Peral, Prof. Dr. María Begoña"
+         ],
          "link":[
             ""
          ]
@@ -3265,11 +3404,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Freitag, 29.11.2024 (9.00-18.00 Uhr) Raum T 3.025', 'Samstag, 30.11.2024 (9.00-18.00 Uhr) Raum T 3.025', 'Freitag, 20.12.2024 (9.00-18.00 Uhr) Raum T 1.023']"
+         "content":[
+            "Freitag, 29.11.2024 (9.00-18.00 Uhr) Raum T 3.025",
+            "Samstag, 30.11.2024 (9.00-18.00 Uhr) Raum T 3.025",
+            "Freitag, 20.12.2024 (9.00-18.00 Uhr) Raum T 1.023"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Prieto Peral, Prof. Dr. María Begoña']",
+         "content":[
+            "Prieto Peral, Prof. Dr. María Begoña"
+         ],
          "link":[
             ""
          ]
@@ -3406,11 +3551,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Raffelsbauer, Dr. Carolin']",
+         "content":[
+            "Raffelsbauer, Dr. Carolin"
+         ],
          "link":[
             ""
          ]
@@ -3547,11 +3696,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['29.10.', '5.11.', '12.11.', '19.11.', '3.12.', '17.12.']"
+         "content":[
+            "29.10.",
+            "5.11.",
+            "12.11.",
+            "19.11.",
+            "3.12.",
+            "17.12."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Schamburek, Dr. Daniel']",
+         "content":[
+            "Schamburek, Dr. Daniel"
+         ],
          "link":[
             ""
          ]
@@ -3688,11 +3846,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Schmitt, Dr. Bettina', 'Gohlke,  Christian']",
+         "content":[
+            "Schmitt, Dr. Bettina",
+            "Gohlke,  Christian"
+         ],
          "link":[
             ""
          ]
@@ -3829,11 +3992,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Sinn, MA Nicholas']",
+         "content":[
+            "Sinn, MA Nicholas"
+         ],
          "link":[
             ""
          ]
@@ -3970,11 +4137,19 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Freitag,\\xa025.10.2024,\\xa013:30–17:30', 'Samstag,\\xa026.10.2024,\\xa009:00–17:30', 'Freitag,\\xa022.11.2024,\\xa013:30–17:30', 'Samstag,\\xa023.11.2024,\\xa009:00–17:30']"
+         "content":[
+            "Freitag, 25.10.2024, 13:30–17:30",
+            "Samstag, 26.10.2024, 09:00–17:30",
+            "Freitag, 22.11.2024, 13:30–17:30",
+            "Samstag, 23.11.2024, 09:00–17:30"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Thurner, Prof. Dr. Veronika', 'Zollner,  Georg']",
+         "content":[
+            "Thurner, Prof. Dr. Veronika",
+            "Zollner,  Georg"
+         ],
          "link":[
             ""
          ]
@@ -4111,11 +4286,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['von Helmolt, Prof. Dr. Katharina']",
+         "content":[
+            "von Helmolt, Prof. Dr. Katharina"
+         ],
          "link":[
             ""
          ]
@@ -4252,11 +4431,21 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['15.10.', '29.10.', '5.11.', '12.11.', '19.11.', '26.11.', '3.12.']"
+         "content":[
+            "15.10.",
+            "29.10.",
+            "5.11.",
+            "12.11.",
+            "19.11.",
+            "26.11.",
+            "3.12."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['von Helmolt, Prof. Dr. Katharina']",
+         "content":[
+            "von Helmolt, Prof. Dr. Katharina"
+         ],
          "link":[
             ""
          ]
@@ -4393,11 +4582,19 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Freitag 18.10.\\xa0 14-18h', 'Samstag 19.10.\\xa0 9-17h', 'Alternativtermin:', 'Freitag 15.11.\\xa0 14-18h', 'Samstag 16.11.\\xa0 9-17h']"
+         "content":[
+            "Freitag 18.10.  14-18h",
+            "Samstag 19.10.  9-17h",
+            "Alternativtermin:",
+            "Freitag 15.11.  14-18h",
+            "Samstag 16.11.  9-17h"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Wiesmeier, Dr. Cornelia']",
+         "content":[
+            "Wiesmeier, Dr. Cornelia"
+         ],
          "link":[
             ""
          ]
@@ -4534,11 +4731,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Wüst, Prof. Dr. Andreas M.']",
+         "content":[
+            "Wüst, Prof. Dr. Andreas M."
+         ],
          "link":[
             ""
          ]
@@ -4675,11 +4876,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['8.10.', '15.10.', '22.10.', '29.10.', '12.11.', '5.11. Presidential Election Night event at Bamberg University.']"
+         "content":[
+            "8.10.",
+            "15.10.",
+            "22.10.",
+            "29.10.",
+            "12.11.",
+            "5.11. Presidential Election Night event at Bamberg University."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Wüst, Prof. Dr. Andreas M.']",
+         "content":[
+            "Wüst, Prof. Dr. Andreas M."
+         ],
          "link":[
             ""
          ]
@@ -4816,11 +5026,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Planungssitzung am Mittwoch,\\xa0 23.10., 17-20:15 Uhr', 'Blocktermin 1: Freitag, 6.12., 13:30 bis 20:15 Uhr', 'Blocktermin 2: Samstag, 7.12., 10:00 bis 19:30 Uhr']"
+         "content":[
+            "Planungssitzung am Mittwoch,  23.10., 17-20:15 Uhr",
+            "Blocktermin 1: Freitag, 6.12., 13:30 bis 20:15 Uhr",
+            "Blocktermin 2: Samstag, 7.12., 10:00 bis 19:30 Uhr"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Wüst, Prof. Dr. Andreas M.']",
+         "content":[
+            "Wüst, Prof. Dr. Andreas M."
+         ],
          "link":[
             ""
          ]
@@ -4957,11 +5173,18 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Verpflichtende Vorbesprechung: Fr. 11.10., 14.00-15.30 in T 1.015', 'Fr., 6.12.,24, 12.00-18.00 in T 1.017', 'Sa, 7.12.,24, 9.00-18.00 in t 1.017', 'So, 8.12.24, 10.00- 18.00 in t 1.017']"
+         "content":[
+            "Verpflichtende Vorbesprechung: Fr. 11.10., 14.00-15.30 in T 1.015",
+            "Fr., 6.12.,24, 12.00-18.00 in T 1.017",
+            "Sa, 7.12.,24, 9.00-18.00 in t 1.017",
+            "So, 8.12.24, 10.00- 18.00 in t 1.017"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bettag, Dr. Alexandra']",
+         "content":[
+            "Bettag, Dr. Alexandra"
+         ],
          "link":[
             ""
          ]
@@ -5098,11 +5321,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bresoli, Prof. Dr. Christophe', 'Järvenpää,  Silke']",
+         "content":[
+            "Bresoli, Prof. Dr. Christophe",
+            "Järvenpää,  Silke"
+         ],
          "link":[
             ""
          ]
@@ -5239,11 +5467,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Brunner, Dr. Johanna']",
+         "content":[
+            "Brunner, Dr. Johanna"
+         ],
          "link":[
             ""
          ]
@@ -5380,11 +5612,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Díaz Nafría, Prof. Dr. José María']",
+         "content":[
+            "Díaz Nafría, Prof. Dr. José María"
+         ],
          "link":[
             ""
          ]
@@ -5521,11 +5757,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Díaz Nafría, Prof.Dr. José María']",
+         "content":[
+            "Díaz Nafría, Prof.Dr. José María"
+         ],
          "link":[
             ""
          ]
@@ -5662,11 +5902,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Dobler, Prof. Dr. habil. Ralph-Miklas']",
+         "content":[
+            "Dobler, Prof. Dr. habil. Ralph-Miklas"
+         ],
          "link":[
             ""
          ]
@@ -5803,11 +6047,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Dobler, Prof. Dr. habil. Ralph-Miklas']",
+         "content":[
+            "Dobler, Prof. Dr. habil. Ralph-Miklas"
+         ],
          "link":[
             ""
          ]
@@ -5944,11 +6192,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Dobler, Prof. Dr. habil. Ralph-Miklas']",
+         "content":[
+            "Dobler, Prof. Dr. habil. Ralph-Miklas"
+         ],
          "link":[
             ""
          ]
@@ -6085,11 +6337,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Vorbesprechung: 17.10.', 'Sitzungen: 24.10.', '7.11.', '5.12.', '9.1.']"
+         "content":[
+            "Vorbesprechung: 17.10.",
+            "Sitzungen: 24.10.",
+            "7.11.",
+            "5.12.",
+            "9.1."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Dobler, Prof. Dr. Ralph', 'Järvenpää,  Silke']",
+         "content":[
+            "Dobler, Prof. Dr. Ralph",
+            "Järvenpää,  Silke"
+         ],
          "link":[
             ""
          ]
@@ -6226,11 +6487,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['14.10.', '28.10.', '11.11.', '25.11.', '9.12.', '16.12.']"
+         "content":[
+            "14.10.",
+            "28.10.",
+            "11.11.",
+            "25.11.",
+            "9.12.",
+            "16.12."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Gohlke, Dr. Christian']",
+         "content":[
+            "Gohlke, Dr. Christian"
+         ],
          "link":[
             ""
          ]
@@ -6367,11 +6637,21 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['25. und 26.10.2024', '15. und 16.11.2024', 'Fr.: 17:00 Uhr - 20:15 Uhr     Sa.: 9:00 Uhr - 18:00 Uhr', 'Alternativtermine für  Lehrveranstaltung:', '25. und 26.10.2024', '22. und 23.11.2024', 'Fr.: 17:00 Uhr - 20:15 Uhr     Sa.: 9:00 Uhr - 18:00 Uhr']"
+         "content":[
+            "25. und 26.10.2024",
+            "15. und 16.11.2024",
+            "Fr.: 17:00 Uhr - 20:15 Uhr     Sa.: 9:00 Uhr - 18:00 Uhr",
+            "Alternativtermine für  Lehrveranstaltung:",
+            "25. und 26.10.2024",
+            "22. und 23.11.2024",
+            "Fr.: 17:00 Uhr - 20:15 Uhr     Sa.: 9:00 Uhr - 18:00 Uhr"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Gnofame, MBA Antoine']",
+         "content":[
+            "Gnofame, MBA Antoine"
+         ],
          "link":[
             ""
          ]
@@ -6508,11 +6788,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['18.10.', '15.11.', '13.12. in T 2.019']"
+         "content":[
+            "18.10.",
+            "15.11.",
+            "13.12. in T 2.019"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Järvenpää, Prof. Dr. Silke']",
+         "content":[
+            "Järvenpää, Prof. Dr. Silke"
+         ],
          "link":[
             ""
          ]
@@ -6649,11 +6935,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Järvenpää, Prof. Dr. Silke']",
+         "content":[
+            "Järvenpää, Prof. Dr. Silke"
+         ],
          "link":[
             ""
          ]
@@ -6790,11 +7080,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Kaschadt, M.A. Katrin']",
+         "content":[
+            "Kaschadt, M.A. Katrin"
+         ],
          "link":[
             ""
          ]
@@ -6931,11 +7225,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Niesdroy, Prof. Dr. Henning']",
+         "content":[
+            "Niesdroy, Prof. Dr. Henning"
+         ],
          "link":[
             ""
          ]
@@ -7072,11 +7370,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Pusch,  Bastian']",
+         "content":[
+            "Pusch,  Bastian"
+         ],
          "link":[
             ""
          ]
@@ -7213,11 +7515,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['9.10.24', '23.10.24', '6.11.24', '20.11.24', '4.12.24', '18.12.24']"
+         "content":[
+            "9.10.24",
+            "23.10.24",
+            "6.11.24",
+            "20.11.24",
+            "4.12.24",
+            "18.12.24"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Raki, M.A. Frank']",
+         "content":[
+            "Raki, M.A. Frank"
+         ],
          "link":[
             ""
          ]
@@ -7354,11 +7665,21 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['8. Oktober 2024', '22. Oktober 2024', '5. November 2024', '19. November 2024', '3. Dezember 2024', '17. Dezember 2024', '7. Januar 2025']"
+         "content":[
+            "8. Oktober 2024",
+            "22. Oktober 2024",
+            "5. November 2024",
+            "19. November 2024",
+            "3. Dezember 2024",
+            "17. Dezember 2024",
+            "7. Januar 2025"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Schmitt, Prof. Dr. Theodor']",
+         "content":[
+            "Schmitt, Prof. Dr. Theodor"
+         ],
          "link":[
             ""
          ]
@@ -7495,11 +7816,21 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['07.10.', '21.10.', '04.11.', '18.11.', '02.12.', '16.12.', '13.01.25']"
+         "content":[
+            "07.10.",
+            "21.10.",
+            "04.11.",
+            "18.11.",
+            "02.12.",
+            "16.12.",
+            "13.01.25"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Steindorff-Classen, Prof. Dr. Caroline']",
+         "content":[
+            "Steindorff-Classen, Prof. Dr. Caroline"
+         ],
          "link":[
             ""
          ]
@@ -7636,11 +7967,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Stoffels, Prof. Dipl.-Chordir. Matthias', 'Steinbüchler,  Johannes']",
+         "content":[
+            "Stoffels, Prof. Dipl.-Chordir. Matthias",
+            "Steinbüchler,  Johannes"
+         ],
          "link":[
             ""
          ]
@@ -7777,11 +8113,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Fr., 22.11.  nachmittgas – So., 24.11.24 nachmittags']"
+         "content":[
+            "Fr., 22.11.  nachmittgas – So., 24.11.24 nachmittags"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Stoffels, Prof. Dipl.-Chordir. Matthias', 'Steinbüchler,  Johannes']",
+         "content":[
+            "Stoffels, Prof. Dipl.-Chordir. Matthias",
+            "Steinbüchler,  Johannes"
+         ],
          "link":[
             ""
          ]
@@ -7918,11 +8259,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Stoffels, Prof. Dipl.-Chordir. Matthias', 'Lex,  Julia']",
+         "content":[
+            "Stoffels, Prof. Dipl.-Chordir. Matthias",
+            "Lex,  Julia"
+         ],
          "link":[
             ""
          ]
@@ -8059,11 +8405,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Fr., 08.11. nachmittags – So., 10.11.24 nachmittags']"
+         "content":[
+            "Fr., 08.11. nachmittags – So., 10.11.24 nachmittags"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Stoffels, Prof. Dipl.-Chordir. Matthias', 'Lex,  Julia']",
+         "content":[
+            "Stoffels, Prof. Dipl.-Chordir. Matthias",
+            "Lex,  Julia"
+         ],
          "link":[
             ""
          ]
@@ -8200,11 +8551,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Belwe, Dr. Andreas']",
+         "content":[
+            "Belwe, Dr. Andreas"
+         ],
          "link":[
             ""
          ]
@@ -8341,11 +8696,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Termine werden individuell vereinbart. Bitte mit dem Dozenten Kontakt aufnehmen.']"
+         "content":[
+            "Termine werden individuell vereinbart. Bitte mit dem Dozenten Kontakt aufnehmen."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Belwe, Dr. Andreas']",
+         "content":[
+            "Belwe, Dr. Andreas"
+         ],
          "link":[
             ""
          ]
@@ -8482,11 +8841,19 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['09.10. Einführungsveranstaltung 16.00 - 18.00 Uhr  T 2.022', '15.11. Blockseminar Theoretische Grundlagen 14.00 - 20.00 Uhr T 2.022', '16.11. Blockseminar Theoretische Grundlagen 09.00 - 15.00 Uhr in T 2.022', '13. und 14.12. Blockseminar Präsentation eigener narrativer Konzepte\\xa009.00 - 15.00 Uhr T 1.018']"
+         "content":[
+            "09.10. Einführungsveranstaltung 16.00 - 18.00 Uhr  T 2.022",
+            "15.11. Blockseminar Theoretische Grundlagen 14.00 - 20.00 Uhr T 2.022",
+            "16.11. Blockseminar Theoretische Grundlagen 09.00 - 15.00 Uhr in T 2.022",
+            "13. und 14.12. Blockseminar Präsentation eigener narrativer Konzepte 09.00 - 15.00 Uhr T 1.018"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Gohlke , Dr.  Christian ', ' Wiedmann,  Dipl.  Peter']",
+         "content":[
+            "Gohlke , Dr.  Christian ",
+            " Wiedmann,  Dipl.  Peter"
+         ],
          "link":[
             ""
          ]
@@ -8623,11 +8990,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['von Helmolt, Prof. Dr. Katharina']",
+         "content":[
+            "von Helmolt, Prof. Dr. Katharina"
+         ],
          "link":[
             ""
          ]
@@ -8764,11 +9135,18 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Fr. 18.10.24 von 8-17h', 'Fr. 15.11.24 von 9-18h', 'Fr. 29.11.24 von 9-18h']"
+         "content":[
+            "Fr. 18.10.24 von 8-17h",
+            "Fr. 15.11.24 von 9-18h",
+            "Fr. 29.11.24 von 9-18h"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Ittstein , Prof. Dr. Daniel ', ' Simm,    Sebastian']",
+         "content":[
+            "Ittstein , Prof. Dr. Daniel ",
+            " Simm,    Sebastian"
+         ],
          "link":[
             ""
          ]
@@ -8905,11 +9283,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Jandok, Prof. Dr. Peter']",
+         "content":[
+            "Jandok, Prof. Dr. Peter"
+         ],
          "link":[
             ""
          ]
@@ -9046,11 +9428,18 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['11.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00', '18.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00', '25.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00', '15.11.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00']"
+         "content":[
+            "11.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00",
+            "18.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00",
+            "25.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00",
+            "15.11.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Jandok, Prof. Dr. Peter']",
+         "content":[
+            "Jandok, Prof. Dr. Peter"
+         ],
          "link":[
             ""
          ]
@@ -9187,11 +9576,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['12.10.2024: Japanische Denk- und Verhaltensweise', '2.11.2024: Kommunikation', '16.11.2024: Geschäftskultur']"
+         "content":[
+            "12.10.2024: Japanische Denk- und Verhaltensweise",
+            "2.11.2024: Kommunikation",
+            "16.11.2024: Geschäftskultur"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Kobayashi-Weinsziehr, M.A. Reiko']",
+         "content":[
+            "Kobayashi-Weinsziehr, M.A. Reiko"
+         ],
          "link":[
             ""
          ]
@@ -9328,11 +9723,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['October 10, 17, 31', 'November 14, 21', 'December 05,19']"
+         "content":[
+            "October 10, 17, 31",
+            "November 14, 21",
+            "December 05,19"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Price, MA Pamela']",
+         "content":[
+            "Price, MA Pamela"
+         ],
          "link":[
             ""
          ]
@@ -9469,11 +9870,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Freitag, 15.11.2024', 'Freitag, 22.11.2024', 'Freitag, 10. 01.2025']"
+         "content":[
+            "Freitag, 15.11.2024",
+            "Freitag, 22.11.2024",
+            "Freitag, 10. 01.2025"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Winkler, M.A., M.A. Susanne']",
+         "content":[
+            "Winkler, M.A., M.A. Susanne"
+         ],
          "link":[
             ""
          ]
@@ -9610,11 +10017,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Chen, Dr. Ganglin']",
+         "content":[
+            "Chen, Dr. Ganglin"
+         ],
          "link":[
             ""
          ]
@@ -9751,11 +10162,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Zhang, Dr. Lihua']",
+         "content":[
+            "Zhang, Dr. Lihua"
+         ],
          "link":[
             ""
          ]
@@ -9892,11 +10307,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Chen, Dr. Ganglin']",
+         "content":[
+            "Chen, Dr. Ganglin"
+         ],
          "link":[
             ""
          ]
@@ -10033,11 +10452,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Zhang, Dr. Lihua']",
+         "content":[
+            "Zhang, Dr. Lihua"
+         ],
          "link":[
             ""
          ]
@@ -10174,11 +10597,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Chen ,  Ganglin ', 'Zhang,   Lihua']",
+         "content":[
+            "Chen ,  Ganglin ",
+            "Zhang,   Lihua"
+         ],
          "link":[
             ""
          ]
@@ -10315,11 +10743,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Price, MA Pamela']",
+         "content":[
+            "Price, MA Pamela"
+         ],
          "link":[
             ""
          ]
@@ -10456,11 +10888,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Price,  Pamela', 'Sinn,  Nicholas']",
+         "content":[
+            "Price,  Pamela",
+            "Sinn,  Nicholas"
+         ],
          "link":[
             ""
          ]
@@ -10597,11 +11034,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Järvenpää, Prof. Dr. Silke']",
+         "content":[
+            "Järvenpää, Prof. Dr. Silke"
+         ],
          "link":[
             ""
          ]
@@ -10738,11 +11179,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Price, MA Pamela']",
+         "content":[
+            "Price, MA Pamela"
+         ],
          "link":[
             ""
          ]
@@ -10879,11 +11324,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Sinn, MA Nicholas']",
+         "content":[
+            "Sinn, MA Nicholas"
+         ],
          "link":[
             ""
          ]
@@ -11020,11 +11469,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Sinn, MA Nicholas']",
+         "content":[
+            "Sinn, MA Nicholas"
+         ],
          "link":[
             ""
          ]
@@ -11161,11 +11614,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Järvenpää, Prof.Dr Silke', 'Sinn, MA Nicholas', 'Brandstetter, Prof. Dr. Nicole']",
+         "content":[
+            "Järvenpää, Prof.Dr Silke",
+            "Sinn, MA Nicholas",
+            "Brandstetter, Prof. Dr. Nicole"
+         ],
          "link":[
             ""
          ]
@@ -11302,11 +11761,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Järvenpää, Prof.Dr Silke', 'Sinn, MA Nicholas', 'Brandstetter, Prof. Dr. Nicole']",
+         "content":[
+            "Järvenpää, Prof.Dr Silke",
+            "Sinn, MA Nicholas",
+            "Brandstetter, Prof. Dr. Nicole"
+         ],
          "link":[
             ""
          ]
@@ -11443,11 +11908,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Järvenpää, Prof.Dr Silke', 'Sinn, MA Nicholas', 'Brandstetter, Prof. Dr. Nicole']",
+         "content":[
+            "Järvenpää, Prof.Dr Silke",
+            "Sinn, MA Nicholas",
+            "Brandstetter, Prof. Dr. Nicole"
+         ],
          "link":[
             ""
          ]
@@ -11584,11 +12055,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Järvenpää,  Silke', 'Sinn,  Nicholas', 'Brandstetter,  Nicole']",
+         "content":[
+            "Järvenpää,  Silke",
+            "Sinn,  Nicholas",
+            "Brandstetter,  Nicole"
+         ],
          "link":[
             ""
          ]
@@ -11725,11 +12202,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Istutan,  Ayse']",
+         "content":[
+            "Istutan,  Ayse"
+         ],
          "link":[
             ""
          ]
@@ -11866,11 +12347,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bresoli, Prof. Dr. Christophe']",
+         "content":[
+            "Bresoli, Prof. Dr. Christophe"
+         ],
          "link":[
             ""
          ]
@@ -12007,11 +12492,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bresoli, Prof. Dr. Christophe']",
+         "content":[
+            "Bresoli, Prof. Dr. Christophe"
+         ],
          "link":[
             ""
          ]
@@ -12148,11 +12637,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bresoli,  Christophe', 'Dully,  Emma']",
+         "content":[
+            "Bresoli,  Christophe",
+            "Dully,  Emma"
+         ],
          "link":[
             ""
          ]
@@ -12289,11 +12783,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bresoli, Prof. Dr. Christophe']",
+         "content":[
+            "Bresoli, Prof. Dr. Christophe"
+         ],
          "link":[
             ""
          ]
@@ -12430,11 +12928,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bresoli, Prof. Dr.  Christophe', 'Dully,  Emma']",
+         "content":[
+            "Bresoli, Prof. Dr.  Christophe",
+            "Dully,  Emma"
+         ],
          "link":[
             ""
          ]
@@ -12571,11 +13074,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bergero, Dott. ssa Beatrice']",
+         "content":[
+            "Bergero, Dott. ssa Beatrice"
+         ],
          "link":[
             ""
          ]
@@ -12712,11 +13219,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Pasciuti,  Marco']",
+         "content":[
+            "Pasciuti,  Marco"
+         ],
          "link":[
             ""
          ]
@@ -12853,11 +13364,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Pasciuti,  Marco']",
+         "content":[
+            "Pasciuti,  Marco"
+         ],
          "link":[
             ""
          ]
@@ -12994,11 +13509,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Vannini,  Marinella']",
+         "content":[
+            "Vannini,  Marinella"
+         ],
          "link":[
             ""
          ]
@@ -13135,11 +13654,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Villadei,  Monica']",
+         "content":[
+            "Villadei,  Monica"
+         ],
          "link":[
             ""
          ]
@@ -13276,11 +13799,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bergero, Dott. ssa Beatrice']",
+         "content":[
+            "Bergero, Dott. ssa Beatrice"
+         ],
          "link":[
             ""
          ]
@@ -13417,11 +13944,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Pini, Dr. Carolina']",
+         "content":[
+            "Pini, Dr. Carolina"
+         ],
          "link":[
             ""
          ]
@@ -13558,11 +14089,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Mattedi, Prof. Dr. Cristina']",
+         "content":[
+            "Mattedi, Prof. Dr. Cristina"
+         ],
          "link":[
             ""
          ]
@@ -13699,11 +14234,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Mattedi,  Cristina', 'Pini,  Carolina']",
+         "content":[
+            "Mattedi,  Cristina",
+            "Pini,  Carolina"
+         ],
          "link":[
             ""
          ]
@@ -13840,11 +14380,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Mattedi, Prof. Dr. Cristina']",
+         "content":[
+            "Mattedi, Prof. Dr. Cristina"
+         ],
          "link":[
             ""
          ]
@@ -13981,11 +14525,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Mattedi,  Cristina', 'Pini,  Carolina']",
+         "content":[
+            "Mattedi,  Cristina",
+            "Pini,  Carolina"
+         ],
          "link":[
             ""
          ]
@@ -14122,11 +14671,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Abe,  Eriko']",
+         "content":[
+            "Abe,  Eriko"
+         ],
          "link":[
             ""
          ]
@@ -14263,11 +14816,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Fukuyama, M.A. Minako']",
+         "content":[
+            "Fukuyama, M.A. Minako"
+         ],
          "link":[
             ""
          ]
@@ -14404,11 +14961,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Fukuyama, M.A. Minako']",
+         "content":[
+            "Fukuyama, M.A. Minako"
+         ],
          "link":[
             ""
          ]
@@ -14545,11 +15106,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Abe,  Eriko']",
+         "content":[
+            "Abe,  Eriko"
+         ],
          "link":[
             ""
          ]
@@ -14686,11 +15251,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Abe,  Eriko', 'Fukuyama,  Minako']",
+         "content":[
+            "Abe,  Eriko",
+            "Fukuyama,  Minako"
+         ],
          "link":[
             ""
          ]
@@ -14827,11 +15397,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Solnizeva-Gottwald,  Olga']",
+         "content":[
+            "Solnizeva-Gottwald,  Olga"
+         ],
          "link":[
             ""
          ]
@@ -14968,11 +15542,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Solnizeva-Gottwald,  Olga']",
+         "content":[
+            "Solnizeva-Gottwald,  Olga"
+         ],
          "link":[
             ""
          ]
@@ -15109,11 +15687,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Balabanetc,  Elena']",
+         "content":[
+            "Balabanetc,  Elena"
+         ],
          "link":[
             ""
          ]
@@ -15250,11 +15832,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Solnizeva-Gottwald,  Olga', 'Balabanetc,  Elena']",
+         "content":[
+            "Solnizeva-Gottwald,  Olga",
+            "Balabanetc,  Elena"
+         ],
          "link":[
             ""
          ]
@@ -15391,11 +15978,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Balabanetc,  Elena']",
+         "content":[
+            "Balabanetc,  Elena"
+         ],
          "link":[
             ""
          ]
@@ -15532,11 +16123,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Solnizeva-Gottwald,  Olga', 'Balabanetc,  Elena']",
+         "content":[
+            "Solnizeva-Gottwald,  Olga",
+            "Balabanetc,  Elena"
+         ],
          "link":[
             ""
          ]
@@ -15673,11 +16269,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Alcántara, Master Javier']",
+         "content":[
+            "Alcántara, Master Javier"
+         ],
          "link":[
             ""
          ]
@@ -15814,11 +16414,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Garcia-Gräfe,  Elsa']",
+         "content":[
+            "Garcia-Gräfe,  Elsa"
+         ],
          "link":[
             ""
          ]
@@ -15955,11 +16559,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Gil Cazorla, Master María']",
+         "content":[
+            "Gil Cazorla, Master María"
+         ],
          "link":[
             ""
          ]
@@ -16096,11 +16704,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Gómez García,  Luisa']",
+         "content":[
+            "Gómez García,  Luisa"
+         ],
          "link":[
             ""
          ]
@@ -16237,11 +16849,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Goyzueta Tomaz, M.A. Romanistik Abigail Janet']",
+         "content":[
+            "Goyzueta Tomaz, M.A. Romanistik Abigail Janet"
+         ],
          "link":[
             ""
          ]
@@ -16378,11 +16994,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Pagola Figueroa,  Enara']",
+         "content":[
+            "Pagola Figueroa,  Enara"
+         ],
          "link":[
             ""
          ]
@@ -16519,11 +17139,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Romano Álvarez, Dr. Joana']",
+         "content":[
+            "Romano Álvarez, Dr. Joana"
+         ],
          "link":[
             ""
          ]
@@ -16660,11 +17284,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Gil Cazorla, Master María']",
+         "content":[
+            "Gil Cazorla, Master María"
+         ],
          "link":[
             ""
          ]
@@ -16801,11 +17429,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Gómez García,  Luisa']",
+         "content":[
+            "Gómez García,  Luisa"
+         ],
          "link":[
             ""
          ]
@@ -16942,11 +17574,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Minera Reyna, Dr. Luz Emilia']",
+         "content":[
+            "Minera Reyna, Dr. Luz Emilia"
+         ],
          "link":[
             ""
          ]
@@ -17083,11 +17719,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Minera Reyna, Dr. Luz Emilia']",
+         "content":[
+            "Minera Reyna, Dr. Luz Emilia"
+         ],
          "link":[
             ""
          ]
@@ -17224,11 +17864,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Minera Reyna, Dr. Luz Emilia']",
+         "content":[
+            "Minera Reyna, Dr. Luz Emilia"
+         ],
          "link":[
             ""
          ]
@@ -17365,11 +18009,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Prieto Peral,  Begoña', 'Minera Reyna,  Luz Emilia', 'Alcántara,  Javier']",
+         "content":[
+            "Prieto Peral,  Begoña",
+            "Minera Reyna,  Luz Emilia",
+            "Alcántara,  Javier"
+         ],
          "link":[
             ""
          ]
@@ -17506,11 +18156,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Prieto Peral, Prof. Dr. María Begoña']",
+         "content":[
+            "Prieto Peral, Prof. Dr. María Begoña"
+         ],
          "link":[
             ""
          ]
@@ -17647,11 +18301,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Prieto Peral, Prof. Dr. María Begoña', 'Duque Guzman,   Viviana']",
+         "content":[
+            "Prieto Peral, Prof. Dr. María Begoña",
+            "Duque Guzman,   Viviana"
+         ],
          "link":[
             ""
          ]
@@ -17788,11 +18447,17 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Prieto Peral,  Begoña', 'Minera Reyna,  Luz Emilia', 'Garcia-Gräfe,  Elsa']",
+         "content":[
+            "Prieto Peral,  Begoña",
+            "Minera Reyna,  Luz Emilia",
+            "Garcia-Gräfe,  Elsa"
+         ],
          "link":[
             ""
          ]
@@ -17929,11 +18594,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Ilter, M.A. Hilmi']",
+         "content":[
+            "Ilter, M.A. Hilmi"
+         ],
          "link":[
             ""
          ]
@@ -18070,11 +18739,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Ilter,  Hilmi']",
+         "content":[
+            "Ilter,  Hilmi"
+         ],
          "link":[
             ""
          ]
@@ -18211,11 +18884,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Appel, M.A. Verena']",
+         "content":[
+            "Appel, M.A. Verena"
+         ],
          "link":[
             ""
          ]
@@ -18352,11 +19029,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Appel, M.A. Verena']",
+         "content":[
+            "Appel, M.A. Verena"
+         ],
          "link":[
             ""
          ]
@@ -18493,11 +19174,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Weishaupt, M.A. Susanne']",
+         "content":[
+            "Weishaupt, M.A. Susanne"
+         ],
          "link":[
             ""
          ]
@@ -18634,11 +19319,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Weishaupt, M.A. Susanne']",
+         "content":[
+            "Weishaupt, M.A. Susanne"
+         ],
          "link":[
             ""
          ]
@@ -18775,11 +19464,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Brass,  Claudia']",
+         "content":[
+            "Brass,  Claudia"
+         ],
          "link":[
             ""
          ]
@@ -18916,11 +19609,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Brass,  Claudia']",
+         "content":[
+            "Brass,  Claudia"
+         ],
          "link":[
             ""
          ]
@@ -19057,11 +19754,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Jandok, Prof. Dr. Peter']",
+         "content":[
+            "Jandok, Prof. Dr. Peter"
+         ],
          "link":[
             ""
          ]
@@ -19198,11 +19899,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Jandok,  Peter', 'Brass,  Claudia']",
+         "content":[
+            "Jandok,  Peter",
+            "Brass,  Claudia"
+         ],
          "link":[
             ""
          ]
@@ -19339,11 +20045,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Appel, M.A. Verena']",
+         "content":[
+            "Appel, M.A. Verena"
+         ],
          "link":[
             ""
          ]
@@ -19480,11 +20190,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Weishaupt, M.A. Susanne']",
+         "content":[
+            "Weishaupt, M.A. Susanne"
+         ],
          "link":[
             ""
          ]
@@ -19621,11 +20335,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['de Sena Lang,  Juliana']",
+         "content":[
+            "de Sena Lang,  Juliana"
+         ],
          "link":[
             ""
          ]
@@ -19762,11 +20480,24 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Seminartermine:', 'Freitag, 18.10.2024, 14.00 - 18.00 Uhr', 'Samstag, 19.10.2024, 09.00 - 17.00 Uhr', 'Sonntag, 20.10.2024, 09.00 - 17.00 Uhr', 'Donnerstag, 24.10.2024, 15.00 - 16.00 Uhr Online', 'Alternativtermine:', 'Freitag, 15.11.2024, 14.00 - 18.00 Uhr', 'Samstag, 16.11.2024, 09.00 - 17.00 Uhr', 'Sonntag, 17.11.2024, 09.00 - 17.00 Uhr', 'Donnerstag, 21.11.2024, 15.00 - 16.00 Uhr Online']"
+         "content":[
+            "Seminartermine:",
+            "Freitag, 18.10.2024, 14.00 - 18.00 Uhr",
+            "Samstag, 19.10.2024, 09.00 - 17.00 Uhr",
+            "Sonntag, 20.10.2024, 09.00 - 17.00 Uhr",
+            "Donnerstag, 24.10.2024, 15.00 - 16.00 Uhr Online",
+            "Alternativtermine:",
+            "Freitag, 15.11.2024, 14.00 - 18.00 Uhr",
+            "Samstag, 16.11.2024, 09.00 - 17.00 Uhr",
+            "Sonntag, 17.11.2024, 09.00 - 17.00 Uhr",
+            "Donnerstag, 21.11.2024, 15.00 - 16.00 Uhr Online"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Adam,  Carolin']",
+         "content":[
+            "Adam,  Carolin"
+         ],
          "link":[
             ""
          ]
@@ -19903,11 +20634,27 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Seminartermine:', 'Mittwoch, 13.11. 14.00 – 18.00 Uhr', 'Mittwoch, 20.11. 14.00 – 18.00 Uhr', 'Mittwoch, 27.11. 14.00 – 18.00 Uhr', 'Mittwoch, 04.12. 14.00 – 18.00 Uhr', 'Mittwoch, 11.12. 14.00 - 15.00 Uhr Besprechung der Modularbeit (online)', 'Alternativtermine:', 'Mittwoch,  16.10. 14.00 – 18.00 Uhr', 'Mittwoch,  23.10. 14.00 – 18.00 Uhr', 'Mittwoch,  13.11. 14.00 – 18.00 Uhr', 'Mittwoch,  20.11. 14.00 – 18.00 Uhr', 'Mittwoch, 27.11. 14.00 - 15.00 Uhr Besprechung der Modularbeit (online)']"
+         "content":[
+            "Seminartermine:",
+            "Mittwoch, 13.11. 14.00 – 18.00 Uhr",
+            "Mittwoch, 20.11. 14.00 – 18.00 Uhr",
+            "Mittwoch, 27.11. 14.00 – 18.00 Uhr",
+            "Mittwoch, 04.12. 14.00 – 18.00 Uhr",
+            "Mittwoch, 11.12. 14.00 - 15.00 Uhr Besprechung der Modularbeit (online)",
+            "Alternativtermine:",
+            "Mittwoch,  16.10. 14.00 – 18.00 Uhr",
+            "Mittwoch,  23.10. 14.00 – 18.00 Uhr",
+            "Mittwoch,  13.11. 14.00 – 18.00 Uhr",
+            "Mittwoch,  20.11. 14.00 – 18.00 Uhr",
+            "Mittwoch, 27.11. 14.00 - 15.00 Uhr Besprechung der Modularbeit (online)"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Adam,  Carolin', 'Hembd-Peuse,  Susanne']",
+         "content":[
+            "Adam,  Carolin",
+            "Hembd-Peuse,  Susanne"
+         ],
          "link":[
             ""
          ]
@@ -20044,11 +20791,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Die Veranstaltung findet teilgeblockt zu folgenden 3 Terminen statt:', 'Freitag, 08.11.2024, 9:00 - 18:00 in R ......', 'Freitag, 15.11.2024, 9:00 - 18:00 in T 1.022?', 'Freitag, 06.12.2024, 9:00 - 18:00 in T 3.025', '*Info für Raumplanung: Der Raum für den 8.11.24 wird von den Lehrenden organisiert*']"
+         "content":[
+            "Die Veranstaltung findet teilgeblockt zu folgenden 3 Terminen statt:",
+            "Freitag, 08.11.2024, 9:00 - 18:00 in R ......",
+            "Freitag, 15.11.2024, 9:00 - 18:00 in T 1.022?",
+            "Freitag, 06.12.2024, 9:00 - 18:00 in T 3.025",
+            "*Info für Raumplanung: Der Raum für den 8.11.24 wird von den Lehrenden organisiert*"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Buchner , Prof. Dr. Ralph ', ' Zollner,  Prof. Dr.  Georg']",
+         "content":[
+            "Buchner , Prof. Dr. Ralph ",
+            " Zollner,  Prof. Dr.  Georg"
+         ],
          "link":[
             ""
          ]
@@ -20185,11 +20941,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Hembd-Peuse,  Susanne']",
+         "content":[
+            "Hembd-Peuse,  Susanne"
+         ],
          "link":[
             ""
          ]
@@ -20326,11 +21086,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Kaminski, Prof. Dr. Simone']",
+         "content":[
+            "Kaminski, Prof. Dr. Simone"
+         ],
          "link":[
             ""
          ]
@@ -20467,11 +21231,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Kaminski, Prof. Dr. Simone']",
+         "content":[
+            "Kaminski, Prof. Dr. Simone"
+         ],
          "link":[
             ""
          ]
@@ -20608,11 +21376,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Kaminski, Prof. Dr. Simone']",
+         "content":[
+            "Kaminski, Prof. Dr. Simone"
+         ],
          "link":[
             ""
          ]
@@ -20749,11 +21521,22 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Class 1: 20.10.24 \\xa0 (4 LE)', 'Class 2: 27.10.24 \\xa0(4 LE)', 'Class 3: 03.11.24 \\xa0 (4LE)', 'Class 4: 10.11.24 \\xa0(4 LE)', 'Class 5: 17.11.24 \\xa0(4 LE)', 'Class 6:24.11.24 \\xa0 \\xa0(4 LE)', 'Class 7: 01.12.24 \\xa0 (4 LE)', 'Gesamt: 28 LE']"
+         "content":[
+            "Class 1: 20.10.24   (4 LE)",
+            "Class 2: 27.10.24  (4 LE)",
+            "Class 3: 03.11.24   (4LE)",
+            "Class 4: 10.11.24  (4 LE)",
+            "Class 5: 17.11.24  (4 LE)",
+            "Class 6:24.11.24    (4 LE)",
+            "Class 7: 01.12.24   (4 LE)",
+            "Gesamt: 28 LE"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Khalifa, M.A. Kholoud']",
+         "content":[
+            "Khalifa, M.A. Kholoud"
+         ],
          "link":[
             ""
          ]
@@ -20890,11 +21673,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Kruck, Dipl.rer.nat. Kirsten B.']",
+         "content":[
+            "Kruck, Dipl.rer.nat. Kirsten B."
+         ],
          "link":[
             ""
          ]
@@ -21031,11 +21818,16 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['FR 11.10.2024; 11-14 Uhr', 'FR 06.12. und SA 07.12.2024; 10-16 Uhr']"
+         "content":[
+            "FR 11.10.2024; 11-14 Uhr",
+            "FR 06.12. und SA 07.12.2024; 10-16 Uhr"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Maatz, M.Sc. Leonie']",
+         "content":[
+            "Maatz, M.Sc. Leonie"
+         ],
          "link":[
             ""
          ]
@@ -21172,11 +21964,18 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Die erste Sitzung des wöchentlichen Seminars ist\\xa0Freitag, 08.11.2024.', 'Blockwochenende Freitag, 22.11.2024  - 10-16.30h', 'Samstag, 23.11.2024 - 10-16.30h', '']"
+         "content":[
+            "Die erste Sitzung des wöchentlichen Seminars ist Freitag, 08.11.2024.",
+            "Blockwochenende Freitag, 22.11.2024  - 10-16.30h",
+            "Samstag, 23.11.2024 - 10-16.30h",
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Mosca, M.A. Caroline']",
+         "content":[
+            "Mosca, M.A. Caroline"
+         ],
          "link":[
             ""
          ]
@@ -21313,11 +22112,19 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Freitag, 04.10.2024, 12-18 Uhr in T 1.023', 'Samstag, 05.10.2024, 9-15.30 Uhr in T 1.023', 'Freitag, 11.10.2024, 12-18 Uhr in T 1.023', 'Samstag, 12.10.2024, 9-15.30 Uhr in T 1.023']"
+         "content":[
+            "Freitag, 04.10.2024, 12-18 Uhr in T 1.023",
+            "Samstag, 05.10.2024, 9-15.30 Uhr in T 1.023",
+            "Freitag, 11.10.2024, 12-18 Uhr in T 1.023",
+            "Samstag, 12.10.2024, 9-15.30 Uhr in T 1.023"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['von Helmolt, Prof. Dr. Katharina', 'Kaminski, Prof. Dr. Simone']",
+         "content":[
+            "von Helmolt, Prof. Dr. Katharina",
+            "Kaminski, Prof. Dr. Simone"
+         ],
          "link":[
             ""
          ]
@@ -21454,11 +22261,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Vorläufige Termine:', 'Freitag, 15.11.2024, 12-18 Uhr i T 3.025', 'Samstag, 16.11.2024, 9-15.30 Uhr in T 3.025', 'Freitag, 22.11.2024, 12-18 Uhr in T 2.023', 'Samstag, 23.11.2024, 9-15.30 Uhr in T 2.023']"
+         "content":[
+            "Vorläufige Termine:",
+            "Freitag, 15.11.2024, 12-18 Uhr i T 3.025",
+            "Samstag, 16.11.2024, 9-15.30 Uhr in T 3.025",
+            "Freitag, 22.11.2024, 12-18 Uhr in T 2.023",
+            "Samstag, 23.11.2024, 9-15.30 Uhr in T 2.023"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['von Helmolt, Prof. Dr. Katharina', 'Kaminski, Prof. Dr. Simone']",
+         "content":[
+            "von Helmolt, Prof. Dr. Katharina",
+            "Kaminski, Prof. Dr. Simone"
+         ],
          "link":[
             ""
          ]
@@ -21595,11 +22411,21 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Freitag, 25.10.2024, 14:00-18:00 Uhr', 'Samstag, 23.11.2024, 10:00 - 18:00 Uhr', 'Sonntag, 24.11.2024, 10:00 - 18:00 Uhr', 'Alternativtermine:', 'Freitag, 18.10.2024, 14:00-18:00 Uhr', 'Samstag, 16.11.2024, 10:00 - 18:00 Uhr', 'Sonntag, 17.11.2024, 10:00 - 18:00 Uhr']"
+         "content":[
+            "Freitag, 25.10.2024, 14:00-18:00 Uhr",
+            "Samstag, 23.11.2024, 10:00 - 18:00 Uhr",
+            "Sonntag, 24.11.2024, 10:00 - 18:00 Uhr",
+            "Alternativtermine:",
+            "Freitag, 18.10.2024, 14:00-18:00 Uhr",
+            "Samstag, 16.11.2024, 10:00 - 18:00 Uhr",
+            "Sonntag, 17.11.2024, 10:00 - 18:00 Uhr"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Weinstabl, M.Sc. Julia']",
+         "content":[
+            "Weinstabl, M.Sc. Julia"
+         ],
          "link":[
             ""
          ]
@@ -21736,11 +22562,19 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['18.10.2024, Freitag, 16-19:45 Uhr (5 UE) in T 2.016 Präsenz', '19.10.2024, Samstag, 9:30-16 Uhr (8 UE) in T 2.016 Präsenz', '8.11.2024, Freitag, 16-19:45 Uhr (5 UE),\\xa0virtuell über Zoom', '15.11.2024, Freitag, 16-19:45 Uhr (5 UE) virtuell über Zoom', '29.11.2024, Freitag, 16-19:45 Uhr (5 UE), virtuell über Zoom']"
+         "content":[
+            "18.10.2024, Freitag, 16-19:45 Uhr (5 UE) in T 2.016 Präsenz",
+            "19.10.2024, Samstag, 9:30-16 Uhr (8 UE) in T 2.016 Präsenz",
+            "8.11.2024, Freitag, 16-19:45 Uhr (5 UE), virtuell über Zoom",
+            "15.11.2024, Freitag, 16-19:45 Uhr (5 UE) virtuell über Zoom",
+            "29.11.2024, Freitag, 16-19:45 Uhr (5 UE), virtuell über Zoom"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Bendixen-Danowski, Dr. Anja']",
+         "content":[
+            "Bendixen-Danowski, Dr. Anja"
+         ],
          "link":[
             ""
          ]
@@ -21877,11 +22711,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Festl,  Herbert']",
+         "content":[
+            "Festl,  Herbert"
+         ],
          "link":[
             ""
          ]
@@ -22018,11 +22856,20 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Erster Termin Freitag, 12.10.2024 17-2015h (Online)', 'Präsenztermine: ', 'Samstag, 9-15h in T 1.022', 'Online Termine: ', 'Freitag, 17-2015h', 'Die weiteren Block-Termine (Präsenz,  Online) werden in der 1. LV mit den Studenten festgelegt.']"
+         "content":[
+            "Erster Termin Freitag, 12.10.2024 17-2015h (Online)",
+            "Präsenztermine: ",
+            "Samstag, 9-15h in T 1.022",
+            "Online Termine: ",
+            "Freitag, 17-2015h",
+            "Die weiteren Block-Termine (Präsenz,  Online) werden in der 1. LV mit den Studenten festgelegt."
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Grandl,  Christian']",
+         "content":[
+            "Grandl,  Christian"
+         ],
          "link":[
             ""
          ]
@@ -22159,11 +23006,22 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Termine:\\xa0', 'Fr 25.10. - 11.00-17.00h in T 1.023', 'Sa. 26.10. - 9.00-15.00h in T 1.023', 'Fr 22.11.\\xa0- 11.00-17.00h in T 1.023', 'Sa. 23.11. - 9.00-15.00h in T 1.023', 'Alternativtermin bzw. Ausweichtermin:', 'Fr 13.12.\\xa0- 11.00-17.00h in T 1.023', 'Sa. 14.12. - 9.00-15.00h in T 1.023']"
+         "content":[
+            "Termine: ",
+            "Fr 25.10. - 11.00-17.00h in T 1.023",
+            "Sa. 26.10. - 9.00-15.00h in T 1.023",
+            "Fr 22.11. - 11.00-17.00h in T 1.023",
+            "Sa. 23.11. - 9.00-15.00h in T 1.023",
+            "Alternativtermin bzw. Ausweichtermin:",
+            "Fr 13.12. - 11.00-17.00h in T 1.023",
+            "Sa. 14.12. - 9.00-15.00h in T 1.023"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Hohmann,  Katharina']",
+         "content":[
+            "Hohmann,  Katharina"
+         ],
          "link":[
             ""
          ]
@@ -22300,11 +23158,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Ittstein, Prof. Dr. Daniel']",
+         "content":[
+            "Ittstein, Prof. Dr. Daniel"
+         ],
          "link":[
             ""
          ]
@@ -22441,11 +23303,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Ittstein, Prof. Dr. Daniel']",
+         "content":[
+            "Ittstein, Prof. Dr. Daniel"
+         ],
          "link":[
             ""
          ]
@@ -22582,11 +23448,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Sailer, Prof. Dr. Klaus']",
+         "content":[
+            "Sailer, Prof. Dr. Klaus"
+         ],
          "link":[
             ""
          ]
@@ -22723,11 +23593,19 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['Blockseminar:', 'Termin 1: 31.Oktober 2024, 9 - 16 Uhr (online)', 'Termin 2: 7. November 2024, 10 - 15 Uhr (vor Ort in T 2.023)', 'Termin 3: 14. November 2024, 9 - 16 Uhr (online)', 'Termin 4: 21. November 2024: 10 - 15 Uhr (vor Ort in T 2.023)']"
+         "content":[
+            "Blockseminar:",
+            "Termin 1: 31.Oktober 2024, 9 - 16 Uhr (online)",
+            "Termin 2: 7. November 2024, 10 - 15 Uhr (vor Ort in T 2.023)",
+            "Termin 3: 14. November 2024, 9 - 16 Uhr (online)",
+            "Termin 4: 21. November 2024: 10 - 15 Uhr (vor Ort in T 2.023)"
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Schmitt,  Bettina']",
+         "content":[
+            "Schmitt,  Bettina"
+         ],
          "link":[
             ""
          ]
@@ -22864,11 +23742,15 @@
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
-         "content":"['']"
+         "content":[
+            ""
+         ]
       },
       "awDetName":{
          "topic":"Lehrende",
-         "content":"['Stähler-May, Dr. Alexander']",
+         "content":[
+            "Stähler-May, Dr. Alexander"
+         ],
          "link":[
             ""
          ]
