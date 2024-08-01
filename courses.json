@@ -609,9 +609,9 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Brandstetter , Prof. Dr. Nicole ",
-            " Dobler , Prof. Dr.  Ralph-Miklas ",
-            " Ittstein, Prof. Dr.  Daniel"
+            "Brandstetter, Prof. Dr. Nicole",
+            "Dobler, Prof. Dr. habil. Ralph-Miklas",
+            "Ittstein, Prof. Dr. Daniel"
          ],
          "link":[
             ""
@@ -1047,7 +1047,7 @@
          "topic":"Lehrende",
          "content":[
             "Bresoli, Prof. Dr. Christophe",
-            " Dobler,   Ralph-Miklas"
+            "Dobler, Prof. Dr. habil. Ralph-Miklas"
          ],
          "link":[
             ""
@@ -1123,7 +1123,7 @@
       },
       "awExpandLiteratur":{
          "topic":"Literatur",
-         "content":"https://www.cartooningforpeace.org/en/https://eulenspiegel-zeitschrift.de/ https://www.titanic-magazin.de/https://madmag.de/https://charliehebdo.fr/themes/english/https://www.lecanardenchaine.fr/Sekundäre Literatur:Bresoli Christophe, Presse- und Meinungsfreiheit in Frankreich: Je suis Charlie, in 'Freiheit. Eine interdisziplinäre Betrachtung', Nomos 2024 ; Islamogauchisme: ein Pseudobegriff? Signifikant 6, S. 123-134, WVB 2023."
+         "content":"https://www.cartooningforpeace.org/en/\\\\nhttps://eulenspiegel-zeitschrift.de/ https://www.titanic-magazin.de/\\\\nhttps://madmag.de/https://charliehebdo.fr/themes/english/\\\\nhttps://www.lecanardenchaine.fr/\\\\nSekundäre Literatur:\\\\nBresoli Christophe, Presse- und Meinungsfreiheit in Frankreich: Je suis Charlie, in 'Freiheit. Eine interdisziplinäre Betrachtung', Nomos 2024 ; Islamogauchisme: ein Pseudobegriff? Signifikant 6, S. 123-134, WVB 2023."
       },
       "awExpandHints":{
          "topic":"Hinweise",
@@ -1314,15 +1314,15 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -1331,11 +1331,12 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Donnerstag, 24.10.2024  von 18.00 Uhr bis 21.00 Uhr ACHTUNG: hier ausnahmsweise Raum R. 0.119 \"Steelcase Creative Hall\" Heßstr.89 ",
+            "Donnerstag, 24.10.2024  von 18.00 Uhr bis 21.00 Uhr",
+            "ACHTUNG: hier ausnahmsweise Raum R. 0.119 \"Steelcase Creative Hall\" Heßstr.89 ",
             "oder gem. Ankündigung durch den Dozenten.",
-            "Freitag, 25.10.2024 von 11.00 Uhr bis 17.00 Uhr Raum T 1.017",
-            "Freitag,  15.11. 2024 von 13.30 Uhr bis 17.00 Uhr Raum T 1.015",
-            "Freitag, 29.11.2024 von 9.00 bis 13.00 Uhr Raum T 1.017",
+            "Freitag, 25.10.2024 von 11:00 Uhr bis 17:00 Uhr Raum T 1.017",
+            "Freitag,  15.11.2024 von 13:30 Uhr bis 17:00 Uhr Raum T 1.015",
+            "Freitag, 29.11.2024 von 9:00 bis 13:00 Uhr Raum T 1.017",
             "sowie weitere individuell zu vereinbarende Termine in Teams Raum R 1.119"
          ]
       },
@@ -1472,7 +1473,7 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -1488,7 +1489,7 @@
          "topic":"Lehrende",
          "content":[
             "Holler, Prof. Dr. Christian",
-            "Huber, Prof. Dr.  Heinz",
+            "Huber, Prof. Dr. Heinz",
             "Lesch, Prof. Dr. Harald"
          ],
          "link":[
@@ -1615,11 +1616,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Samstag"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -1628,16 +1629,16 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "16.11.2024 (Samstag) 10:30-17:45  ",
-            "1.12.2024 (Sonntag) 10:30-17:30  ",
-            "7.12.2024 (Samstag) 10:30-17:15  ",
-            "14.12.2024 (Samstag) 13:00-16:15 (on-line)"
+            "16.11.2024 (Samstag) 10:30-17:45  Raum T 1.015",
+            "1.12.2024 (Sonntag) 10:30-17:30 Raum T 1.015 ",
+            "7.12.2024 (Samstag) 10:30-17:15  Raum T 1.015",
+            "14.12.2024 (Samstag) 13:00-16:15 (online)"
          ]
       },
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Horodecka, Dr. Dr. Habil. Anna"
+            "Horodecka, Dr. Dr. habil. Anna"
          ],
          "link":[
             ""
@@ -1767,7 +1768,7 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -1776,10 +1777,10 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "17.11.2024 (Sunday) 10:30-17:45",
-            "30.11.2024 (Saturday) 10:30-17:30",
-            "8.12.2024 (Sunday) 10:30-17:15",
-            "14.12.2024 (Saturday) 8:15-11:30 (on-line)"
+            "17.11.2024 (Sunday) 10:30-17:45 Room T 1.015",
+            "30.11.2024 (Saturday) 10:30-17:30 Room T 1.015",
+            "8.12.2024 (Sunday) 10:30-17:15 Room T 1.015",
+            "14.12.2024 (Saturday) 8:15-11:30 (online)"
          ]
       },
       "awDetName":{
@@ -2052,15 +2053,15 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -2069,9 +2070,9 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Seminarsitzung (digital in T 1.020): Di, 08. Oktober 2024, 17:00-18:30 Uhr",
-            "Seminarsitzung (digital in T 1.020): Di, 05. November 2024, 17:00-18:30 Uhr",
-            "Simulation (analog):Fr, 29. November 16-20 Uhr und Sa, 30. November 10-14 Uhr",
+            "Seminarsitzung (digital): Di, 08. Oktober 2024, 17:00-18:30 Uhr online",
+            "Seminarsitzung (digital): Di, 05. November 2024, 17:00-18:30 Uhr online",
+            "Simulation (analog):Fr, 29. November 16-20 Uhr in Raum T 1.020 und Sa, 30. November 10-14 Uhr Raum T 1.020",
             "Seminarsitzung (digital): Mi, 04. Dezember 2024, 17:00-18:30 Uhr."
          ]
       },
@@ -2345,15 +2346,15 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -2362,8 +2363,8 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Freitag, 11.10.24, 14-18 Uhr, Samstag 12.10.24, 9.00-18.00 Uhr (Präsenz T 3.025)",
-            "Freitag 8.11.24, 14.00-18.00 Uhr, Samstag 9.11.24, 9.00-18.00 Uhr (online)"
+            "Freitag, 11.10.24, 14:00-18:00 Uhr in Raum T 3.025, Samstag 12.10.24, 9:00-18:00 Uhr in Raum T 3.025 (Präsenz)",
+            "Freitag 8.11.24, 14:00-18:00 Uhr, Samstag 9.11.24, 9:00-18:00 Uhr (online)"
          ]
       },
       "awDetName":{
@@ -2500,11 +2501,11 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"17:00 - 20:00"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
-         "content":""
+         "content":"Blockveranstaltung"
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
@@ -2806,6 +2807,7 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
+            "Blocktermine:",
             "08.10.",
             "22.10.",
             "29.10.",
@@ -2946,11 +2948,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -3109,6 +3111,7 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
+            "Blocktermine:",
             "07.10.2024",
             "21.10.2024",
             "04.11.2024",
@@ -3392,7 +3395,7 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
@@ -3421,7 +3424,7 @@
       },
       "awDetField":{
          "topic":"Fachgebiet",
-         "content":"Interkulturelle Kultur- und Landesstudien"
+         "content":"Politikwissenschaft"
       },
       "awDetMainTopic":{
          "topic":"Hauptthemengebiet",
@@ -3697,6 +3700,7 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
+            "Blocktermine:",
             "29.10.",
             "5.11.",
             "12.11.",
@@ -3830,15 +3834,15 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -3847,14 +3851,16 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            ""
+            "Fr, XY 9:00-16:00 Uhr, Raum T folgt",
+            " Fr, 22.11. 9:00-16:00 Uhr, Raum T 1.018",
+            " Sa, 23.11. 10:00-15:00 Uhr, Raum T 1.018"
          ]
       },
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Schmitt, Dr. Bettina",
-            "Gohlke,  Christian"
+            "Schmitt,  Bettina",
+            "Gohlke, Dr. Christian"
          ],
          "link":[
             ""
@@ -3999,7 +4005,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Sinn, MA Nicholas"
+            "Sinn, M.A. Nicholas"
          ],
          "link":[
             ""
@@ -4125,11 +4131,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -4138,17 +4144,17 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Freitag, 25.10.2024, 13:30–17:30",
-            "Samstag, 26.10.2024, 09:00–17:30",
-            "Freitag, 22.11.2024, 13:30–17:30",
-            "Samstag, 23.11.2024, 09:00–17:30"
+            "Freitag, 25.10.2024, 13:30–17:30 T 1.015",
+            "Samstag, 26.10.2024, 09:00–17:30 T 1.015",
+            "Freitag, 22.11.2024, 13:30–17:30 T 1.015",
+            "Samstag, 23.11.2024, 09:00–17:30 T 1.015"
          ]
       },
       "awDetName":{
          "topic":"Lehrende",
          "content":[
             "Thurner, Prof. Dr. Veronika",
-            "Zollner,  Georg"
+            "Zollner, Prof. Dr. Georg"
          ],
          "link":[
             ""
@@ -4432,6 +4438,7 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
+            "Blocktermine:",
             "15.10.",
             "29.10.",
             "5.11.",
@@ -4570,11 +4577,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -4583,11 +4590,8 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Freitag 18.10.  14-18h",
-            "Samstag 19.10.  9-17h",
-            "Alternativtermin:",
-            "Freitag 15.11.  14-18h",
-            "Samstag 16.11.  9-17h"
+            "Freitag 18.10.  14:00-18:00 Uhr Raum T 1.015",
+            "Samstag 19.10.  09:00-17:00 Uhr Raum T 1.015"
          ]
       },
       "awDetName":{
@@ -5014,11 +5018,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -5027,9 +5031,9 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Planungssitzung am Mittwoch,  23.10., 17-20:15 Uhr",
-            "Blocktermin 1: Freitag, 6.12., 13:30 bis 20:15 Uhr",
-            "Blocktermin 2: Samstag, 7.12., 10:00 bis 19:30 Uhr"
+            "Planungssitzung am Mittwoch, 23.10., 17-20:15 Uhr, Raum T 1.020",
+            "Blocktermin 1: Freitag, 6.12., 13:30 bis 20:15 Uhr, Raum T 1.020",
+            "Blocktermin 2: Samstag, 7.12., 10:00 bis 19:30 Uhr, Raum T 1.020"
          ]
       },
       "awDetName":{
@@ -5161,11 +5165,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -5174,10 +5178,10 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Verpflichtende Vorbesprechung: Fr. 11.10., 14.00-15.30 in T 1.015",
-            "Fr., 6.12.,24, 12.00-18.00 in T 1.017",
-            "Sa, 7.12.,24, 9.00-18.00 in t 1.017",
-            "So, 8.12.24, 10.00- 18.00 in t 1.017"
+            "Verpflichtende Vorbesprechung: Fr. 11.10., 14.00-15.30 in Raum T 1.015",
+            "Fr., 6.12.,24, 12.00-18.00 in Raum T 1.017",
+            "Sa, 7.12.,24, 9.00-18.00 in Raum T 1.017",
+            "So, 8.12.24, 10.00- 18.00 in Raum T 1.017"
          ]
       },
       "awDetName":{
@@ -5329,7 +5333,7 @@
          "topic":"Lehrende",
          "content":[
             "Bresoli, Prof. Dr. Christophe",
-            "Järvenpää,  Silke"
+            "Järvenpää, Prof. Dr. Silke"
          ],
          "link":[
             ""
@@ -5596,15 +5600,15 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":""
+         "content":"16:00 - 18:15"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -5613,7 +5617,16 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            ""
+            "Tue 29.10., Room T 2.023",
+            "Wed 30.10., Room T 2.023",
+            "Thu 31.10., Room T 2.023",
+            "Mon 4.11., Room T 3.025",
+            "Tue 5.11.,Room T 2.023",
+            "Wed 6.11., Room T 2.023",
+            "and 4 additional online sessions on Tue 07.01.",
+            "Wed 08.01.",
+            "Thu 09.01.",
+            "Fri 10.01."
          ]
       },
       "awDetName":{
@@ -5741,15 +5754,15 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":""
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":""
+         "content":"18:30 - 20:45"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -5758,13 +5771,22 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            ""
+            "Tue 29.10., Room T 2.023",
+            "Wed 30.10., Room T 2.023",
+            "Thu 31.10., Room T 2.023",
+            "Mon 4.11., Room T 3.025",
+            "Tue 5.11., Room T 2.023",
+            "Wed 6.11., Room T 2.023",
+            "and 4 additional online sessions on Tue 07.01.",
+            "Wed 08.01.",
+            "Thu 09.01.",
+            "Fri 10.01."
          ]
       },
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Díaz Nafría, Prof.Dr. José María"
+            "Díaz Nafría, Prof. Dr. José María"
          ],
          "link":[
             ""
@@ -6329,7 +6351,7 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"09:00 - 13:00"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -6338,18 +6360,17 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Vorbesprechung: 17.10.",
+            "Vorbesprechung: 17.10. ab 9:00 Uhr",
             "Sitzungen: 24.10.",
-            "7.11.",
-            "5.12.",
-            "9.1."
+            "07.11., 05.12.2024",
+            "09.01.2025 jeweils von 09:00 bis 13:00 Uhr"
          ]
       },
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Dobler, Prof. Dr. Ralph",
-            "Järvenpää,  Silke"
+            "Dobler, Prof. Dr. habil. Ralph-Miklas",
+            "Järvenpää, Prof. Dr. Silke"
          ],
          "link":[
             ""
@@ -6488,6 +6509,7 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
+            "Blocktermine: ",
             "14.10.",
             "28.10.",
             "11.11.",
@@ -6625,11 +6647,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -6638,13 +6660,10 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "25. und 26.10.2024",
-            "15. und 16.11.2024",
-            "Fr.: 17:00 Uhr - 20:15 Uhr     Sa.: 9:00 Uhr - 18:00 Uhr",
-            "Alternativtermine für  Lehrveranstaltung:",
-            "25. und 26.10.2024",
-            "22. und 23.11.2024",
-            "Fr.: 17:00 Uhr - 20:15 Uhr     Sa.: 9:00 Uhr - 18:00 Uhr"
+            "Fr, 25.10., 17:00-20.15 Uhr, Raum T 1.020",
+            "Sa, 26.10.2024, 09:00-18:00 Uhr, Raum T 1.020 ",
+            "Fr, 15.11., 17:00-20.15 Uhr, Raum T 1.020",
+            "Sa, 16.11.2024, 09:00 Uhr-18:00 Uhr"
          ]
       },
       "awDetName":{
@@ -6789,9 +6808,9 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "18.10.",
-            "15.11.",
-            "13.12. in T 2.019"
+            "Blocktermine: 18.10.2024",
+            "15.11.2024",
+            "13.12.2024"
          ]
       },
       "awDetName":{
@@ -7516,6 +7535,7 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
+            "Blocktermine:",
             "9.10.24",
             "23.10.24",
             "6.11.24",
@@ -7535,7 +7555,7 @@
       },
       "awDetField":{
          "topic":"Fachgebiet",
-         "content":"Kunst- und Medienwissenschaften"
+         "content":"Schlüsselkompetenzen"
       },
       "awDetMainTopic":{
          "topic":"Hauptthemengebiet",
@@ -7800,7 +7820,7 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"Pasing, Raum folgt"
+         "content":"Pasing KO 101"
       },
       "awDetDay":{
          "topic":"Wochentag",
@@ -7817,13 +7837,13 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "07.10.",
-            "21.10.",
-            "04.11.",
-            "18.11.",
-            "02.12.",
-            "16.12.",
-            "13.01.25"
+            "Blocktermine: 07.10.2024",
+            "21.10.2024",
+            "04.11.2024",
+            "18.11.2024",
+            "02.12.2024",
+            "16.12.2024",
+            "13.01.2025"
          ]
       },
       "awDetName":{
@@ -8825,15 +8845,15 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Freitag"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -8842,17 +8862,17 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "09.10. Einführungsveranstaltung 16.00 - 18.00 Uhr  T 2.022",
-            "15.11. Blockseminar Theoretische Grundlagen 14.00 - 20.00 Uhr T 2.022",
-            "16.11. Blockseminar Theoretische Grundlagen 09.00 - 15.00 Uhr in T 2.022",
-            "13. und 14.12. Blockseminar Präsentation eigener narrativer Konzepte 09.00 - 15.00 Uhr T 1.018"
+            "Mi, 09.10. Einführungsveranstaltung 16:00-18:00 Uhr , Raum T 2.016",
+            "Fr, 15.11. Blockseminar Theoretische Grundlagen 14:00-20:00 Uhr, Raum T 2.022",
+            "Sa, 16.11. Blockseminar Theoretische Grundlagen 09:00-15:00 Uhr, Raum T 2.022",
+            "Fr, 13. und Sa, 14.12. Blockseminar Präsentation eigener narrativer Konzepte 09:00-15.00 Uhr, Raum T 1.018"
          ]
       },
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Gohlke , Dr.  Christian ",
-            " Wiedmann,  Dipl.  Peter"
+            "Gohlke, Dr. Christian",
+            "Wiedmann, Dipl. Peter"
          ],
          "link":[
             ""
@@ -9127,7 +9147,7 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -9136,16 +9156,16 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Fr. 18.10.24 von 8-17h",
-            "Fr. 15.11.24 von 9-18h",
-            "Fr. 29.11.24 von 9-18h"
+            "Fr. 18.10.24, 08:00-17:00 Uhr",
+            "Fr. 15.11.24 09:00-18:00 Uhr",
+            "Fr. 29.11.24 09:00-18:00 Uhr"
          ]
       },
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Ittstein , Prof. Dr. Daniel ",
-            " Simm,    Sebastian"
+            "Ittstein, Prof. Dr. Daniel",
+            "Simm,   Sebastian"
          ],
          "link":[
             ""
@@ -9429,10 +9449,9 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "11.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00",
-            "18.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00",
-            "25.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00",
-            "15.11.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00"
+            "11.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00 Uhr",
+            "25.10.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00 Uhr",
+            "15.11.2024: 10.00-11.30, 11.45-13.15, 13.30-15.00 Uhr"
          ]
       },
       "awDetName":{
@@ -9578,7 +9597,7 @@
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
             "12.10.2024: Japanische Denk- und Verhaltensweise",
-            "2.11.2024: Kommunikation",
+            "02.11.2024: Kommunikation",
             "16.11.2024: Geschäftskultur"
          ]
       },
@@ -9732,7 +9751,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Price, MA Pamela"
+            "Price, M.A. Pamela"
          ],
          "link":[
             ""
@@ -10604,8 +10623,8 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Chen ,  Ganglin ",
-            "Zhang,   Lihua"
+            "Chen, Dr. Ganglin",
+            "Zhang, Dr. Lihua"
          ],
          "link":[
             ""
@@ -10750,7 +10769,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Price, MA Pamela"
+            "Price, M.A. Pamela"
          ],
          "link":[
             ""
@@ -10895,8 +10914,8 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Price,  Pamela",
-            "Sinn,  Nicholas"
+            "Price, M.A. Pamela",
+            "Sinn, M.A. Nicholas"
          ],
          "link":[
             ""
@@ -11186,7 +11205,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Price, MA Pamela"
+            "Price, M.A. Pamela"
          ],
          "link":[
             ""
@@ -11331,7 +11350,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Sinn, MA Nicholas"
+            "Sinn, M.A. Nicholas"
          ],
          "link":[
             ""
@@ -11476,7 +11495,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Sinn, MA Nicholas"
+            "Sinn, M.A. Nicholas"
          ],
          "link":[
             ""
@@ -11621,8 +11640,8 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Järvenpää, Prof.Dr Silke",
-            "Sinn, MA Nicholas",
+            "Järvenpää, Prof. Dr. Silke",
+            "Sinn, M.A. Nicholas",
             "Brandstetter, Prof. Dr. Nicole"
          ],
          "link":[
@@ -11768,8 +11787,8 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Järvenpää, Prof.Dr Silke",
-            "Sinn, MA Nicholas",
+            "Järvenpää, Prof. Dr. Silke",
+            "Sinn, M.A. Nicholas",
             "Brandstetter, Prof. Dr. Nicole"
          ],
          "link":[
@@ -11915,8 +11934,8 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Järvenpää, Prof.Dr Silke",
-            "Sinn, MA Nicholas",
+            "Järvenpää, Prof. Dr. Silke",
+            "Sinn, M.A. Nicholas",
             "Brandstetter, Prof. Dr. Nicole"
          ],
          "link":[
@@ -12062,9 +12081,9 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Järvenpää,  Silke",
-            "Sinn,  Nicholas",
-            "Brandstetter,  Nicole"
+            "Järvenpää, Prof. Dr. Silke",
+            "Sinn, M.A. Nicholas",
+            "Brandstetter, Prof. Dr. Nicole"
          ],
          "link":[
             ""
@@ -12644,7 +12663,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Bresoli,  Christophe",
+            "Bresoli, Prof. Dr. Christophe",
             "Dully,  Emma"
          ],
          "link":[
@@ -12935,7 +12954,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Bresoli, Prof. Dr.  Christophe",
+            "Bresoli, Prof. Dr. Christophe",
             "Dully,  Emma"
          ],
          "link":[
@@ -14241,8 +14260,8 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Mattedi,  Cristina",
-            "Pini,  Carolina"
+            "Mattedi, Prof. Dr. Cristina",
+            "Pini, Dr. Carolina"
          ],
          "link":[
             ""
@@ -14532,8 +14551,8 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Mattedi,  Cristina",
-            "Pini,  Carolina"
+            "Mattedi, Prof. Dr. Cristina",
+            "Pini, Dr. Carolina"
          ],
          "link":[
             ""
@@ -15259,7 +15278,7 @@
          "topic":"Lehrende",
          "content":[
             "Abe,  Eriko",
-            "Fukuyama,  Minako"
+            "Fukuyama, M.A. Minako"
          ],
          "link":[
             ""
@@ -16276,7 +16295,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Alcántara, Master Javier"
+            "Alcántara, M.A. Javier"
          ],
          "link":[
             ""
@@ -18016,9 +18035,9 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Prieto Peral,  Begoña",
-            "Minera Reyna,  Luz Emilia",
-            "Alcántara,  Javier"
+            "Prieto Peral, Prof. Dr. María Begoña",
+            "Minera Reyna, Dr. Luz Emilia",
+            "Alcántara, M.A. Javier"
          ],
          "link":[
             ""
@@ -18148,7 +18167,7 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":""
+         "content":"09:45 - 13:00"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -18454,8 +18473,8 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Prieto Peral,  Begoña",
-            "Minera Reyna,  Luz Emilia",
+            "Prieto Peral, Prof. Dr. María Begoña",
+            "Minera Reyna, Dr. Luz Emilia",
             "Garcia-Gräfe,  Elsa"
          ],
          "link":[
@@ -18746,7 +18765,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Ilter,  Hilmi"
+            "Ilter, M.A. Hilmi"
          ],
          "link":[
             ""
@@ -19456,7 +19475,7 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"08:15 – 11:30"
+         "content":"09:00 – 12:15"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -19906,7 +19925,7 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Jandok,  Peter",
+            "Jandok, Prof. Dr. Peter",
             "Brass,  Claudia"
          ],
          "link":[
@@ -20468,11 +20487,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -20485,12 +20504,7 @@
             "Freitag, 18.10.2024, 14.00 - 18.00 Uhr",
             "Samstag, 19.10.2024, 09.00 - 17.00 Uhr",
             "Sonntag, 20.10.2024, 09.00 - 17.00 Uhr",
-            "Donnerstag, 24.10.2024, 15.00 - 16.00 Uhr Online",
-            "Alternativtermine:",
-            "Freitag, 15.11.2024, 14.00 - 18.00 Uhr",
-            "Samstag, 16.11.2024, 09.00 - 17.00 Uhr",
-            "Sonntag, 17.11.2024, 09.00 - 17.00 Uhr",
-            "Donnerstag, 21.11.2024, 15.00 - 16.00 Uhr Online"
+            "Donnerstag, 24.10.2024, 15.00 - 16.00 Uhr Online"
          ]
       },
       "awDetName":{
@@ -20626,7 +20640,7 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -20640,13 +20654,7 @@
             "Mittwoch, 20.11. 14.00 – 18.00 Uhr",
             "Mittwoch, 27.11. 14.00 – 18.00 Uhr",
             "Mittwoch, 04.12. 14.00 – 18.00 Uhr",
-            "Mittwoch, 11.12. 14.00 - 15.00 Uhr Besprechung der Modularbeit (online)",
-            "Alternativtermine:",
-            "Mittwoch,  16.10. 14.00 – 18.00 Uhr",
-            "Mittwoch,  23.10. 14.00 – 18.00 Uhr",
-            "Mittwoch,  13.11. 14.00 – 18.00 Uhr",
-            "Mittwoch,  20.11. 14.00 – 18.00 Uhr",
-            "Mittwoch, 27.11. 14.00 - 15.00 Uhr Besprechung der Modularbeit (online)"
+            "Mittwoch, 11.12. 14.00 - 15.00 Uhr Besprechung der Modularbeit (online)"
          ]
       },
       "awDetName":{
@@ -20775,7 +20783,7 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
@@ -20802,8 +20810,8 @@
       "awDetName":{
          "topic":"Lehrende",
          "content":[
-            "Buchner , Prof. Dr. Ralph ",
-            " Zollner,  Prof. Dr.  Georg"
+            "Buchner, Prof. Dr. Ralph",
+            "Zollner, Prof. Dr. Georg"
          ],
          "link":[
             ""
@@ -21513,7 +21521,7 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"17:30-20:30"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -21522,14 +21530,13 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Class 1: 20.10.24   (4 LE)",
-            "Class 2: 27.10.24  (4 LE)",
-            "Class 3: 03.11.24   (4LE)",
-            "Class 4: 10.11.24  (4 LE)",
-            "Class 5: 17.11.24  (4 LE)",
-            "Class 6:24.11.24    (4 LE)",
-            "Class 7: 01.12.24   (4 LE)",
-            "Gesamt: 28 LE"
+            "Class 1: 20.10.24",
+            "Class 2: 27.10.24 ",
+            "Class 3:  03.11.24",
+            "Class 4:  10.11.24",
+            "Class 5:  17.11.24 ",
+            "Class 6: 24.11.24 ",
+            "Class 7:  01.12.24"
          ]
       },
       "awDetName":{
@@ -21806,11 +21813,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -21819,8 +21826,8 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "FR 11.10.2024; 11-14 Uhr",
-            "FR 06.12. und SA 07.12.2024; 10-16 Uhr"
+            "FR 11.10.2024, 11:00-14:00 Uhr",
+            "FR 06.12., 10:00-16:00 Uhr und SA 07.12.2024, 10:00-16:00 Uhr"
          ]
       },
       "awDetName":{
@@ -22100,11 +22107,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -22245,15 +22252,15 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -22262,11 +22269,10 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Vorläufige Termine:",
-            "Freitag, 15.11.2024, 12-18 Uhr i T 3.025",
-            "Samstag, 16.11.2024, 9-15.30 Uhr in T 3.025",
-            "Freitag, 22.11.2024, 12-18 Uhr in T 2.023",
-            "Samstag, 23.11.2024, 9-15.30 Uhr in T 2.023"
+            "Freitag, 15.11.2024, 12:00-18:00 Uhr, RaumT 3.025",
+            "Samstag, 16.11.2024, 09:00-15:30 Uhr in T 3.025",
+            "Freitag, 22.11.2024, 12:00-18:00 Uhr in T 2.023",
+            "Samstag, 23.11.2024, 09:00-15:30 Uhr in T 2.023"
          ]
       },
       "awDetName":{
@@ -22399,11 +22405,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -22414,11 +22420,7 @@
          "content":[
             "Freitag, 25.10.2024, 14:00-18:00 Uhr",
             "Samstag, 23.11.2024, 10:00 - 18:00 Uhr",
-            "Sonntag, 24.11.2024, 10:00 - 18:00 Uhr",
-            "Alternativtermine:",
-            "Freitag, 18.10.2024, 14:00-18:00 Uhr",
-            "Samstag, 16.11.2024, 10:00 - 18:00 Uhr",
-            "Sonntag, 17.11.2024, 10:00 - 18:00 Uhr"
+            "Sonntag, 24.11.2024, 10:00 - 18:00 Uhr"
          ]
       },
       "awDetName":{
@@ -22546,15 +22548,15 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"T 2.016"
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Freitag"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -22563,11 +22565,11 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "18.10.2024, Freitag, 16-19:45 Uhr (5 UE) in T 2.016 Präsenz",
-            "19.10.2024, Samstag, 9:30-16 Uhr (8 UE) in T 2.016 Präsenz",
-            "8.11.2024, Freitag, 16-19:45 Uhr (5 UE), virtuell über Zoom",
-            "15.11.2024, Freitag, 16-19:45 Uhr (5 UE) virtuell über Zoom",
-            "29.11.2024, Freitag, 16-19:45 Uhr (5 UE), virtuell über Zoom"
+            "Freitag, 18.10.2024, 16-19:45 Uhr, Präsenz in Raum T 2.016 ",
+            "Samstag, 19.10.2024, 09:30-16:00 Uhr, Präsenz in Raum T 2.016",
+            "Freitag, 08.11.2024, 16:00-19:45 Uhr, virtuell über Zoom",
+            "Freitag, 15.11.2024, 16:00-19:45 Uhr virtuell über Zoom",
+            "Freitag, 29.11.2024, 16:00-19:45 Uhr, virtuell über Zoom"
          ]
       },
       "awDetName":{
@@ -22840,7 +22842,7 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetDay":{
          "topic":"Wochentag",
@@ -22862,7 +22864,7 @@
             "Samstag, 9-15h in T 1.022",
             "Online Termine: ",
             "Freitag, 17-2015h",
-            "Die weiteren Block-Termine (Präsenz,  Online) werden in der 1. LV mit den Studenten festgelegt."
+            "Die weiteren Block-Termine (Präsenz, Online) werden in der 1. LV mit den Studierenden festgelegt."
          ]
       },
       "awDetName":{
@@ -22994,11 +22996,11 @@
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -23432,19 +23434,19 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":""
+         "content":"Entfällt"
       },
       "awDetDay":{
          "topic":"Wochentag",
-         "content":"Montag"
+         "content":"Entfällt"
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"08:15 - 09:45"
+         "content":"Entfällt"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
-         "content":"Wöchentlich"
+         "content":""
       },
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
@@ -23577,7 +23579,7 @@
       "awHeadSubtitle":"",
       "awDetRoom":{
          "topic":"Ort",
-         "content":"Andere"
+         "content":"Online"
       },
       "awDetDay":{
          "topic":"Wochentag",
@@ -23585,7 +23587,7 @@
       },
       "awDetTime":{
          "topic":"Zeit(en)",
-         "content":"Andere"
+         "content":"Verschiedene"
       },
       "awDetRhythm":{
          "topic":"Rhythmus",
@@ -23594,11 +23596,10 @@
       "awDetDates":{
          "topic":"Termine für nicht wöchentliche Veranstaltungen",
          "content":[
-            "Blockseminar:",
-            "Termin 1: 31.Oktober 2024, 9 - 16 Uhr (online)",
-            "Termin 2: 7. November 2024, 10 - 15 Uhr (vor Ort in T 2.023)",
-            "Termin 3: 14. November 2024, 9 - 16 Uhr (online)",
-            "Termin 4: 21. November 2024: 10 - 15 Uhr (vor Ort in T 2.023)"
+            "Termin 1: 7. November 2024, 09:00-16:00 Uhr (online)",
+            "Termin 2: 14. November 2024, 10:00-15:00 Uhr (online)",
+            "Termin 3: 21. November 2024: 09:00-16:00 Uhr (online)",
+            " Termin 4: 05. Dezember: 10:00-15:00 Uhr (online)"
          ]
       },
       "awDetName":{
