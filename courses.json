@@ -4422,15 +4422,15 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.023"
+            "content": "LV entfällt"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Dienstag"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "10:00 – 13:15"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
@@ -4439,14 +4439,7 @@
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
             "content": [
-                "Blocktermine:",
-                "15.10.",
-                "29.10.",
-                "5.11.",
-                "12.11.",
-                "19.11.",
-                "26.11.",
-                "3.12."
+                ""
             ]
         },
         "awDetName": {
@@ -21039,7 +21032,7 @@
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Keine Teilnahmevoraussetzungen. Veranstaltungsmaterial wird zur  Verfügung gestellt. Schriftliche  Prüfung im Rahmen einer 60-minütigen Klausur."
+            "content": "Keine Teilnahmevoraussetzungen. Veranstaltungsmaterial wird zur  Verfügung gestellt. Schriftliche  Prüfung im Rahmen einer 60-minütigen Klausur. Erster Termin: Montag, 14.10.2024!"
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
