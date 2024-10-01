@@ -4277,15 +4277,15 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.023"
+            "content": "LV entfällt"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Mittwoch"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "10:00 - 11:30"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
@@ -9740,7 +9740,7 @@
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
             "content": [
-                "October 10, 17, 31",
+                "October 10, 17, 24, 31",
                 "November 14, 21",
                 "December 05,19"
             ]
