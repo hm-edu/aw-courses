@@ -904,8 +904,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Bresoli, Prof. Dr. Christophe",
-                " Dobler, Prof. Dr.  Ralph-Miklas"
+                "Bresoli, Prof. Dr. Christophe"
             ],
             "link": [
                 ""
@@ -913,7 +912,7 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Interdisziplinäre Lehrveranstaltungen (mind. 2 Lehrende)"
+            "content": "Interkulturelle Kommunikation"
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
@@ -1190,7 +1189,7 @@
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
             "content": [
-                " Ausnahmen:  Am 19.5., 26.5. und 2.6. vorauss. KEINE Veranstaltung    Am 16.6.  4-stündig, vorauss. Exkursion      "
+                "Am 16.6. vorauss. Exkursion      "
             ]
         },
         "awDetName": {
