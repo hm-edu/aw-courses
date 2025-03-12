@@ -20128,7 +20128,7 @@
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
             "content": [
-                "Seminartermine: Freitag, 04.04.25 13:30 – 17:30 Uhr Samstag, 05.04.25 09:00 - 17:30 Uhr    Sonntag, 06.04.25 09:00 - 17:30 Uhr       Sonntag, 13.04.25 09:00 - 17:30 Uhr        "
+                "Seminartermine: Freitag, 04.04.25 13:30 – 17:30 Uhr Samstag, 05.04.25 09:00 - 17:30 Uhr    Sonntag, 06.04.25 09:00 - 17:30 Uhr"
             ]
         },
         "awDetName": {
@@ -20215,7 +20215,7 @@
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Die Veranstaltung findet als Terminblock von Freitag bis Sonntag statt. Es wird kein Vorwissen zu Thematiken aus dem Bereich Diversität und Inklusion vorausgesetzt. Eine aktive Teilnahme innerhalb des Trainings ist erwünscht. Das Veranstaltungsmaterial wird über Moodle zur Verfügung gestellt. Die Prüfungsleistung besteht in der Erstellung eines Video- oder Audiobeitrags (inkl. Skript) zum Thema „Diversity & Inclusion“. Die angemeldeten Studierenden melden sich bitte nach der Frist zur manuellen Nach-/ Umbelegung bei Susanne Hembd-Peuse (susanne.hembd-peuse@hm.edu) oder Carolin Adam per E-Mail (carolin.adam@hm.edu)."
+            "content": "Die Veranstaltung findet als Terminblock von Freitag bis Sonntag statt. Es wird kein Vorwissen zu Thematiken aus dem Bereich Diversität und Inklusion vorausgesetzt. Eine aktive Teilnahme innerhalb des Trainings ist erwünscht. Das Veranstaltungsmaterial wird über Moodle zur Verfügung gestellt. Die Prüfungsleistung besteht in der Erstellung eines Video- oder Audiobeitrags (inkl. Skript) zum Thema „Diversity & Inclusion“. Die angemeldeten Studierenden melden sich bitte nach der Frist zur Belegung bei Susanne Hembd-Peuse (susanne.hembd-peuse@hm.edu) oder Carolin Adam per E-Mail (carolin.adam@hm.edu)."
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
