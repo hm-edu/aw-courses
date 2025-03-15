@@ -21880,7 +21880,7 @@
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
             "content": [
-                "Freitag, 11.04.2025, 14:00 - 18:00 Uhr Samstag, 10.05.2025, 10:00 - 18:00 Uhr   Sonntag, 11.05.2025, 10:00 - 18:00 Uhr"
+                "Freitag, 11.04.2025, 14:00 - 18:00 Uhr Samstag, 10.05.2025, 10:00 - 18:00 Uhr   Sonntag, 11.05.2025, 10:00 - 18:00 Uhr       "
             ]
         },
         "awDetName": {
@@ -23132,6 +23132,152 @@
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
             "content": "Keine"
+        },
+        "awExpandTextbook": {
+            "topic": "Lehrwerk",
+            "content": ""
+        },
+        "awExpandCreditability": {
+            "topic": "Verwendbarkeit",
+            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+        },
+        "awExpandWorkload": {
+            "topic": "Arbeitsaufwand",
+            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+        },
+        "awExpandPlaceholder_1": {
+            "topic": "",
+            "content": ""
+        },
+        "awExpandPlaceholder_2": {
+            "topic": "",
+            "content": ""
+        },
+        "awExpandPlaceholder_3": {
+            "topic": "",
+            "content": ""
+        },
+        "awExpandPlaceholder_4": {
+            "topic": "",
+            "content": ""
+        }
+    },
+    {
+        "awId": 159,
+        "awHeadNo": "160",
+        "awHeadTitle": "Postcolonial Studies: Afrika und das Erbe der Kolonisierung",
+        "awHeadSubtitle": "",
+        "awDetRoom": {
+            "topic": "Ort",
+            "content": "T 2.018"
+        },
+        "awDetDay": {
+            "topic": "Wochentag",
+            "content": "Dienstag"
+        },
+        "awDetTime": {
+            "topic": "Zeit(en)",
+            "content": "10:00 - 11:30"
+        },
+        "awDetRhythm": {
+            "topic": "Rhythmus",
+            "content": "Wöchentlich"
+        },
+        "awDetDates": {
+            "topic": "Termine für nicht wöchentliche Veranstaltungen",
+            "content": [
+                ""
+            ]
+        },
+        "awDetName": {
+            "topic": "Lehrende",
+            "content": [
+                "Bresoli, Prof. Dr. Christophe",
+                "Järvenpää,  Prof. Dr. Silke"
+            ],
+            "link": [
+                ""
+            ]
+        },
+        "awDetField": {
+            "topic": "Fachgebiet",
+            "content": "Cultural Studies"
+        },
+        "awDetMainTopic": {
+            "topic": "Hauptthemengebiet",
+            "content": "Kultur, Geschichte und Musik"
+        },
+        "awDetOffTopic": {
+            "topic": "Zusatzthemengebiet",
+            "content": ""
+        },
+        "awDetCertificate": {
+            "topic": "Zertifikat",
+            "content": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "awDetCompetence": {
+            "topic": "Kompetenzprofil",
+            "content": "International, Nachhaltig"
+        },
+        "awDetLectureType": {
+            "topic": "Art der Veranstaltung",
+            "content": "Seminar"
+        },
+        "awDetExame": {
+            "topic": "Prüfung",
+            "content": "Modularbeit"
+        },
+        "awDetRoadTrip": {
+            "topic": "Exkursion",
+            "content": ""
+        },
+        "awDetPlaceholder_1": {
+            "topic": "Thematik",
+            "content": "In diesem Seminar geht es um das Erbe der Kolonisierung in ausgewählten (sogenannten) anglophonen als auch frankophonen Ländern Afrikas. Zu diesem Erbe gehört auch die kritische Auseinandersetzung mit der Kolonialzeit, mit seinem Eurozentrismus und Rassismus aus afrikanischer Sicht, die hierzulande zunehmend eine kritsiche Auseinandersetzung mit z.B. Weißsein, Raubkunst und Erinnerungskultur sowie eine Dekolonisierung des Diskurses verlangt."
+        },
+        "awDetPlaceholder_2": {
+            "topic": "",
+            "content": ""
+        },
+        "awDetPlaceholder_3": {
+            "topic": "",
+            "content": ""
+        },
+        "awDetPlaceholder_4": {
+            "topic": "",
+            "content": ""
+        },
+        "awExpandTheme": {
+            "topic": "Thematik",
+            "content": ""
+        },
+        "awExpandGoals": {
+            "topic": "Lernziele und Kompetenzen",
+            "content": "Studierende, die das Seminar erfolgreich absolvieren, lernen durch die neuerworbenen Wahrnehmungsraster nicht nur, wie koloniale Strukturen noch immer das Denken in und über Afrika prägen, und wie widerständige Ideen einer Diskurshoheit entgegenwirken, sondern vermögen auch, zum gegenwärtigen Afrika-Diskurs informierter und differenzierter beizutragen."
+        },
+        "awExpandMethodes": {
+            "topic": "Methoden",
+            "content": "Teilnehmende werden in verschiedene Ideen und Themen der postcolonial studies eingeführt, wobei afrikanische Theoretiker und Theoretikerinnen im Vordergrund stehen. Anhand von Fallbeispielen sollen die vermittelten theoretischen Kenntnisse angewendet werden. Kritische Lektüre, Plenumsdiskussion und Gruppenarbeiten wechseln sich ab."
+        },
+        "awExpandTypeOfExame": {
+            "topic": "Art der Modularbeit",
+            "content": "Portfolio"
+        },
+        "awExpandLiteratur": {
+            "topic": "Literatur",
+            "content": "Gregory Castle (Hg.), Postcolonial Discourse, an Anthology, Oxford: 2001; Emmanuel Chukwudi Eze (Hg.), African Philosophy, an Anthology, Oxford,: 2005 Julia Reuter, Alexandra Karentzos (Hg.), Schlüsselwerke der Postcolonial Studies, Wiesbaden: 2012; Bénédicte Savoy, Afrikas Kampf um seine Kunst - Geschichte einer postkolonialen Niederlage, C. H. Beck: 2021. Valentin-Yves Mudimbe, The Invention of Africa: Gnosis, Philosophy and the Order of Knowledge, Indiana University Press: 1988. "
+        },
+        "awExpandHints": {
+            "topic": "Hinweise",
+            "content": "Studierende sollten Englisch- und/oder Französischkenntnisse mitbringen. Eine regelmäßige Anwesenheit wird dringend empfohlen."
+        },
+        "awExpandRequirements": {
+            "topic": "Voraussetzungen zur Teilnahme",
+            "content": "Regelmäßige Mitarbeit"
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
