@@ -881,7 +881,7 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 1.018"
+            "content": "T 2.018"
         },
         "awDetDay": {
             "topic": "Wochentag",
@@ -22879,7 +22879,7 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 1.023"
+            "content": "Andere"
         },
         "awDetDay": {
             "topic": "Wochentag",
@@ -22896,7 +22896,7 @@
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
             "content": [
-                "Die Veranstaltung ist eine ist eine hybride Veranstaltung und wird am Wochenende stattfinden. Sa., 29.03. 10-15h   Sa., 26.04. 10-18h  So., 27.04. 10-17h  Mo., 12.05. 1830-20h  Sa., 24.05. ab 10h  "
+                "Die Veranstaltung ist eine ist eine hybride Veranstaltung und wird am Wochenende stattfinden. Sa., 29.03. 10-15h Online  Sa., 26.04. 10-18h  und So., 27.04. 10-17h: vor Ort in T 1.023 Mo., 12.05. 1830-20h  Online Sa., 24.05. ab 10h  Online"
             ]
         },
         "awDetName": {
