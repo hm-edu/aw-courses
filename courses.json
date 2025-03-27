@@ -1475,16 +1475,22 @@
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "17:00 - 18:30"
+            "content": "17:00 - 20:15"
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": "Blockveranstaltung"
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
             "content": [
-                ""
+                "25.03.",
+                "08.04.",
+                "06.05.",
+                "20.05.",
+                "27.05.",
+                "17.06.",
+                "01.07."
             ]
         },
         "awDetName": {
@@ -3366,7 +3372,7 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.016"
+            "content": "R 2.088"
         },
         "awDetDay": {
             "topic": "Wochentag",
