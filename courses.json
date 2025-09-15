@@ -14435,19 +14435,19 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.019"
+            "content": "Lehrveranstaltung entfällt!"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Mittwoch"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "08:15 – 11:30"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -14458,7 +14458,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Abti, M.A. Abdelatif"
+                ","
             ],
             "link": [
                 ""
@@ -14466,11 +14466,11 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Französisch"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Interkulturalität und Sprachen"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
@@ -14479,30 +14479,30 @@
         "awDetCertificate": {
             "topic": "Zertifikat",
             "content": [
-                "Fremdsprachenzertifikat UNIcert",
+                "",
                 "",
                 ""
             ]
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Sprachlehrveranstaltung"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Schriftliche Prüfung"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
-            "content": "Nein"
+            "content": ""
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Anfängern wird eine systematische Einführung in den aktiven Gebrauch der französischen Allgemeinsprache vermittelt."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -14522,11 +14522,11 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Befähigung zur spontanen und zielgerichteten Kommunikation in Alltagssituationen"
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Rollenspiele, Einzel-, Partner-, Gruppenarbeit, gezielte Lese- und Schreibphasen"
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
@@ -14534,27 +14534,27 @@
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
-            "content": "Voyages Neu A1"
+            "content": ""
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Regelmäßige Teilnahme ist obligatorisch"
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "keine Vorkenntnisse"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
-            "content": "Lehrwerk: Voyages neu A1"
+            "content": ""
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 4 SWS / 40h, Eigenstudiumszeit 20h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
