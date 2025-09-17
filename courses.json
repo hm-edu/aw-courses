@@ -7007,7 +7007,7 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.018"
+            "content": "T 2.019"
         },
         "awDetDay": {
             "topic": "Wochentag",
@@ -26219,3 +26219,4 @@
         }
     }
 ]
+
