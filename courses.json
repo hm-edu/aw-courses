@@ -4824,19 +4824,19 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 1.023"
+            "content": "Lehrveranstaltung entfällt!"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Montag"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "11:45 - 13:15"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -4847,7 +4847,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Schacht, Prof. Dr. Diana"
+                ","
             ],
             "link": [
                 ""
@@ -4855,11 +4855,11 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Soziologie"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Gesellschaft und Politik"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
@@ -4875,23 +4875,23 @@
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International##Methoden"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Seminar"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Modularbeit"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
-            "content": "Nein"
+            "content": ""
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Einsamkeit ist ein vielschichtiges Phänomen mit individuellen, sozialen und gesellschaftlichen Dimensionen. In diesem Seminar nähern wir uns dem Thema aus einer qualitativen, empirischen Perspektive. Nach einer theoretischen Einführung beschäftigen wir uns mit der Frage, wie Einsamkeit definiert, erlebt und erforscht werden kann. Ein besonderer Fokus liegt auf der eigenständigen qualitativen Feldarbeit der Studierenden. Thematische Schwerpunkte sind u.?a. Einsamkeit in Deutschland, bei Jugendlichen sowie in LSBTQI*-Communities. In Kleingruppen werden Poster zu spezifischen Bevölkerungsgruppen erarbeitet, die sowohl empirische Erkenntnisse als auch Maßnahmen zur Prävention und Intervention vorstellen. Eine Sitzung mit einer externen Expertin ergänzt das Seminar um praxisnahe Perspektiven."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -4911,15 +4911,15 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Die Studierenden lernen, Einsamkeit als soziales Phänomen theoretisch zu erfassen und empirisch zu untersuchen. Sie erwerben grundlegende Kompetenzen in der qualitativen Sozialforschung und wenden diese in einer eigenständigen Interviewstudie an. Darüber hinaus reflektieren sie gesellschaftliche Bedingungen und Folgen von Einsamkeit in verschiedenen Bevölkerungsgruppen und entwickeln Ansätze zur Prävention."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Seminar mit Diskussion, Selbstreflexion, kleinen Ü bungen und kurzen Videobeitr ä gen"
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
-            "content": "Präsentationen & Gruppenposter"
+            "content": ""
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
@@ -4927,11 +4927,11 @@
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Es bestehen keine Teilnahmevoraussetzungen. Alle erforderlichen Materialien (z.?B. Seminarfolien, Bewertungskriterien, aktuelle Informationen) werden über Moodle bereitgestellt. Die Plattform wird während der Vorlesungszeit wöchentlich aktualisiert. Prüfungsleistungen: Individuelle Präsentation zu einem qualitativen Interview (50?% der Modulnote) Gruppenposter zu Einsamkeit bei Jugendlichen oder in LSBTQI*-Communities (50?% der Modulnote)"
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Keine"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -4939,11 +4939,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -4969,19 +4969,19 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 1.023"
+            "content": "Lehrveranstaltung entfällt!"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Dienstag"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "13:30 - 15:00"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -4992,7 +4992,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Schacht, Prof. Dr. Diana"
+                ","
             ],
             "link": [
                 ""
@@ -5000,11 +5000,11 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Soziologie"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Gesellschaft und Politik"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
@@ -5020,15 +5020,15 @@
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International##Methoden"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Seminar"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Modularbeit"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
@@ -5036,7 +5036,7 @@
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Diese Veranstaltung führt in zentrale Konzepte und Herausforderungen der Umfrageforschung ein – mit besonderem Fokus auf das Modell des Total Survey Error (TSE). Anhand klassischer und aktueller Texte werden verschiedene Fehlerquellen wie Coverage Error, Sampling Error, Nonresponse Error, Measurement Error und weitere systematisch behandelt. Zur praktischen Anwendung analysieren die Studierenden kleine, leicht zugängliche Umfragen, um typische Fehlerquellen zu identifizieren und methodische Lösungsansätze zu entwickeln. Ziel ist es, ein grundlegendes Verständnis für die Qualität von Umfragedaten zu fördern – auch ohne vertiefte Statistikkenntnisse."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -5056,15 +5056,15 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Die Studierenden erwerben ein fundiertes Verständnis zentraler Fehlerquellen in der Umfrageforschung und lernen, diese theoretisch einzuordnen und empirisch zu identifizieren. Sie entwickeln die Fähigkeit, bestehende Surveys kritisch zu analysieren und methodische Schwächen zu erkennen. Darüber hinaus stärken sie ihre Kompetenzen in der wissenschaftlichen Präsentation und im Umgang mit Fachliteratur."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Seminar mit Diskussion, Selbstreflexion, Literaturarbeit, kleinen Ü bungen und kurzen Videobeitr ä gen"
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
-            "content": "Gruppenpräsentation & individuelle Präsentation"
+            "content": ""
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
@@ -5072,11 +5072,11 @@
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Es bestehen keine Teilnahmevoraussetzungen. Alle relevanten Materialien (z. ? B. Seminartexte, Bewertungsraster, organisatorische Hinweise) werden ü ber Moodle bereitgestellt. Moodle wird w ä hrend der Vorlesungszeit regelm äß ig aktualisiert. Leistungsnachweise: Gruppenpr ä sentation eines Theorietextes (50 ? % der Modulnote) Individuelle Pr ä sentation eines Surveys (50 ? % der Modulnote)"
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Keine"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -5084,11 +5084,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -5259,19 +5259,19 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.023"
+            "content": "Lehrveranstaltung entfällt!"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Donnerstag"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "10:00 - 11:30"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -5282,7 +5282,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Schacht, Prof. Dr. Diana"
+                ","
             ],
             "link": [
                 ""
@@ -5290,11 +5290,11 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Soziologie"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Gesellschaft und Politik"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
@@ -5310,15 +5310,15 @@
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International##Methoden"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Seminar"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Modularbeit"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
@@ -5326,7 +5326,7 @@
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Diese Veranstaltung bietet einen systematischen Einstieg in zentrale Begriffe, Perspektiven und Fragestellungen der Soziologie. Behandelt werden grundlegende Konzepte wie soziales Handeln, Interaktion, Organisation, Kultur, soziale Ungleichheit und gesellschaftlicher Wandel. Ziel ist es, ein erstes soziologisches Verständnis für die Struktur und Dynamik moderner Gesellschaften zu entwickeln."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -5346,27 +5346,27 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Die Studierenden lernen, zentrale soziologische Begriffe und Theorien zu benennen, einzuordnen und auf gesellschaftliche Phänomene anzuwenden. Sie entwickeln ein erstes Verständnis für die Eigenlogik soziologischen Denkens und stärken ihre Fähigkeit zur kritischen Reflexion gesellschaftlicher Zusammenhänge."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Kurze Inputs zu zentralen Begriffen und Theorien Diskussionen und Reflexionsaufgaben Individuelle Kurzpräsentationen Gruppenarbeit zur gemeinsamen Erarbeitung eines Reflexionspapiers Kleine Übungen Kurze Videobeiträge"
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
-            "content": "Präsentation & Gruppenreflexionspapier"
+            "content": ""
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
-            "content": "Nassehi, A. (2011). Soziologie: zehn einführende Vorlesungen . Wiesbaden: VS Verlag für Sozialwissenschaften."
+            "content": ""
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Es bestehen keine Teilnahmevoraussetzungen. Alle Materialien (z.?B. Folien, Texte, Aufgabenstellungen) werden über Moodle bereitgestellt und regelmäßig aktualisiert. Leistungsnachweise: Individuelle Kurzpräsentation zu einem ausgewählten Thema (50?% der Modulnote) Gruppenreflexionspapier zur Anwendung soziologischer Perspektiven auf ein selbstgewähltes Thema (50?% der Modulnote)"
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Keine"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -5374,11 +5374,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -5557,7 +5557,7 @@
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "15:15 - 16:45"
+            "content": "10:00 - 11:30 Achtung:Uhrzeit geändert!"
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
@@ -26219,4 +26219,3 @@
         }
     }
 ]
-
