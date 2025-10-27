@@ -20984,7 +20984,7 @@
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "14-tägig"
+            "content": "Wöchentlich"
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -26219,3 +26219,4 @@
         }
     }
 ]
+
