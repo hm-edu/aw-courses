@@ -4679,19 +4679,19 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 1.015"
+            "content": "Lehrveranstaltung entfällt!"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Montag"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "10:00 - 11:30"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -4702,7 +4702,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Schacht, Prof. Dr. Diana"
+                ","
             ],
             "link": [
                 ""
@@ -4710,11 +4710,11 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Soziologie"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Gesellschaft und Politik"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
@@ -4730,15 +4730,15 @@
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International##Methoden"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Vorlesung"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Schriftliche Prüfung"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
@@ -4746,7 +4746,7 @@
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Diese Vorlesung bietet eine Einführung in zentrale theoretische Perspektiven und empirische Befunde zur sozialen Ungleichheit. Im Mittelpunkt stehen die Fragen: Wie entsteht soziale Ungleichheit? Welche Mechanismen wirken dabei? Und welche Folgen hat sie für Individuen und Gesellschaft? Behandelt werden u.?a. Grundbegriffe der Ungleichheitsforschung, das Verhältnis von Sozialstruktur und individuellem Handeln, klassische und moderne Erklärungsansätze (z.?B. Ressourcenverteilung, Marktmechanismen, soziale Schließung), sowie zentrale Ungleichheitsdimensionen wie Bildung, Arbeitsmarkt und soziale Mobilität."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -4766,11 +4766,11 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Diese Vorlesung ist ideal f ü r Studierende aller Fachrichtungen, die sich kritisch mit gesellschaftlichen Strukturen und ihren globalen Verflechtungen auseinandersetzen m ö chten. Die Studierenden lernen zentrale Theorien und Modelle der sozialen Ungleichheit kennen und werden in die Lage versetzt, die Welt durch die Linse der Sozialstrukturanalyse zu betrachten. Sie gewinnen Einblicke, die nicht nur das Verst ä ndnis f ü r soziale Gerechtigkeit und Wandel vertiefen, sondern auch dabei helfen, die eigene Rolle im gesellschaftlichen System klarer zu erkennen."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Vorlesung mit Diskussion, Selbstreflexion, kleinen Ü bungen und kurzen Videobeitr ä gen"
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
@@ -4782,11 +4782,11 @@
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Keine Teilnahmevoraussetzungen. Alle notwendigen Materialien werden in Moodle zur Verf ü gung gestellt (z. B. Vorlesungsfolien, Hinweise zur Klausur, die Unterlagen einer Probeklausur sowie aktuelle Informationen). Moodle wird w ä hrend der Vorlesungszeit w ö chentlich aktualisiert. Schriftliche Pr ü fung im Rahmen einer 60-min ü tigen Klausur (80?% der Modulnote) Abgabe möglicher Klausurfragen (20?% der Modulnote)"
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Keine"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -4794,11 +4794,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -5114,15 +5114,15 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 1.023"
+            "content": "Lehrveranstaltung entfällt!"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Dienstag"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "15:15 - 16:45"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
@@ -5137,7 +5137,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Schacht, Prof. Dr. Diana"
+                ","
             ],
             "link": [
                 ""
@@ -5145,11 +5145,11 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Soziologie"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Gesellschaft und Politik"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
@@ -5165,23 +5165,23 @@
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International##Digital##Methoden"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Seminar"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Modularbeit"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
-            "content": "Nein"
+            "content": ""
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Diese praxisorientierte Veranstaltung vermittelt grundlegende Kenntnisse und Fertigkeiten zur Konstruktion standardisierter Fragebögen in der empirischen Sozialforschung. Die Studierenden durchlaufen alle zentralen Schritte der Fragebogenentwicklung – von der Konzeption über Pretests bis zur Programmierung und finalen Umsetzung. Dabei werden theoretische Grundlagen mit praktischer Anwendung verbunden."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -5201,15 +5201,15 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Die Studierenden lernen, Fragebögen theoriegeleitet und zielgerichtet zu entwickeln. Sie erwerben Kompetenzen in der Formulierung valider und reliabler Items, im Aufbau von Modulen, in der Durchführung kognitiver Pretests sowie in der technischen Umsetzung mit Limesurvey. Darüber hinaus stärken sie ihre Fähigkeiten zur wissenschaftlichen Präsentation und zur Zusammenarbeit in Gruppen."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Impulsvorträge zu Teilaspekten der Fragebogenkonstruktion Entwicklung eines eigenen Fragebogenmoduls in Gruppenarbeit Kognitive Pretests und Feedbackrunden Anwendung digitaler Tools (z.?B. Limesurvey) Peer-Feedback und iterative Überarbeitung"
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
-            "content": "Präsentation & Fragebogenmodul"
+            "content": ""
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
@@ -5217,11 +5217,11 @@
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Es bestehen keine Teilnahmevoraussetzungen. Alle Materialien (z.?B. Leitfäden, Bewertungsraster, technische Anleitungen) werden über Moodle bereitgestellt und regelmäßig aktualisiert. Leistungsnachweise: Individueller Impulsvortrag zu einem Themengebiet oder Modul der Fragebogenkonstruktion (50?% der Modulnote) Gruppenarbeit: Entwicklung und Abgabe eines vollständigen Fragebogenmoduls inkl. Pretest und finaler Version (50?% der Modulnote)"
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Keine"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -5229,11 +5229,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -5404,19 +5404,19 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.023"
+            "content": "Lehrveranstaltung entfällt!"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Donnerstag"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "13:30 - 15:00"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -5427,7 +5427,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Schacht, Prof. Dr. Diana"
+                ","
             ],
             "link": [
                 ""
@@ -5435,15 +5435,15 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Soziologie"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Gesellschaft und Politik"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
-            "content": "Interkulturalität und Sprachen"
+            "content": ""
         },
         "awDetCertificate": {
             "topic": "Zertifikat",
@@ -5455,23 +5455,23 @@
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International##Methoden"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Seminar"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Modularbeit"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
-            "content": "Nein"
+            "content": ""
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Interethnische Freundschaften gelten als wichtige Ressource für gesellschaftliche Teilhabe und Integration. Sie ermöglichen den Zugang zu sozialen, kulturellen und ökonomischen Ressourcen und stehen im Zentrum aktueller Debatten um soziale Kohäsion in pluralen Gesellschaften. Im Seminar wird zunächst in zentrale Begriffe eingeführt, anschließend werden theoretische Erklärungen zur Entstehung und Stabilität interethnischer Freundschaften behandelt – etwa Homophilie, Opportunitäten und Einfluss Dritter. Abschließend werden Konsequenzen solcher Beziehungen für Individuen und Gesellschaft diskutiert, wie beispielsweise Sozialkapital und fremdenfeindliche Einstellungen. Ergänzt wird das Seminar durch eine eigenständige qualitative Interviewstudie zu dem Thema."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -5491,15 +5491,15 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Die Studierenden lernen, interethnische Freundschaften als sozialwissenschaftliches Analysefeld zu verstehen und zentrale theoretische Konzepte anzuwenden. Sie erwerben erste Erfahrungen in der qualitativen Sozialforschung – insbesondere in der Durchführung, Auswertung und Reflexion von leitfadengestützten Interviews – und stärken ihre Fähigkeit zur theoriegeleiteten Interpretation der gewonnenen Eindrücke."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Seminar mit Diskussion, Selbstreflexion, kleinen Übungen und kurzen Videobeiträgen Qualitative Interviews (Planung, Durchführung, kurze Vorstellung) Gruppenarbeit zur Erstellung eines Reflexionspapiers"
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
-            "content": "Präsentationen & Gruppenreflexionspapier"
+            "content": ""
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
@@ -5507,11 +5507,11 @@
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Es bestehen keine Teilnahmevoraussetzungen. Alle Materialien (z.?B. Texte, Leitfäden, Bewertungsraster) werden über Moodle bereitgestellt und regelmäßig aktualisiert. Leistungsnachweise: Individuelle Präsentation eines wissenschaftlichen Textes (50?% der Modulnote) Gruppenreflexionspapier zur theoretischen und empirischen Auseinandersetzung mit interethnischen Freundschaften (50?% der Modulnote)"
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Keine"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -5519,11 +5519,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -5549,19 +5549,19 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.023"
+            "content": "Lehrveranstaltung entfällt!"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Donnerstag"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "10:00 - 11:30 Achtung:Uhrzeit geändert!"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -5572,7 +5572,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Schacht, Prof. Dr. Diana"
+                ","
             ],
             "link": [
                 ""
@@ -5580,11 +5580,11 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Soziologie"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Gesellschaft und Politik"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
@@ -5600,15 +5600,15 @@
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International##Methoden"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Seminar"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Modularbeit"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
@@ -5616,7 +5616,7 @@
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Ehrenamtliches Engagement ist ein zentraler Bestandteil zivilgesellschaftlicher Strukturen und spielt eine wichtige Rolle für sozialen Zusammenhalt, Teilhabe und demokratische Mitgestaltung. Im Seminar wird zunächst geklärt, was unter einem Ehrenamt verstanden wird und wie sich ehrenamtliches Engagement in Deutschland darstellt – unter anderem im Hinblick auf Unterschiede zwischen Stadt und Land, Altersgruppen und Geschlechtern. Auch internationale Vergleiche, individuelle Motive und positive Wirkungen des Engagements werden thematisiert. Ergänzend sammeln die Studierenden eigene Erfahrungen in einem Ehrenamtsbereich, die im Seminar gemeinsam reflektiert und ausgewertet werden. Eine Sitzung mit einer externen Expertin bietet zusätzliche Einblicke in die Forschung zum freiwilligen Engagement."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -5636,15 +5636,15 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Die Studierenden lernen, ehrenamtliches Engagement als soziales Phänomen theoretisch zu erfassen und empirisch zu reflektieren. Sie erwerben Kompetenzen in der Analyse gesellschaftlicher Teilhabeprozesse und entwickeln ein Verständnis für die Bedeutung freiwilliger Arbeit in unterschiedlichen sozialen Kontexten. Durch eigene praktische Erfahrungen stärken sie ihre Fähigkeit zur kritischen Selbstreflexion und zur wissenschaftlichen Präsentation."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Theoretische Einführung und Textarbeit Präsentationen zu empirischen und theoretischen Aspekten Eigenständiges Testen eines Ehrenamts Austausch mit einer externen Expert*in Gruppenarbeit zur Präsentation eines konkreten Ehrenamtsbereichs"
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
-            "content": "Präsentation & Gruppenpräsentation"
+            "content": ""
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
@@ -5652,11 +5652,11 @@
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Es bestehen keine Teilnahmevoraussetzungen. Alle Materialien (z.?B. Texte, Bewertungsraster, organisatorische Hinweise) werden über Moodle bereitgestellt und regelmäßig aktualisiert. Leistungsnachweise: Individuelle Präsentation zu einem wissenschaftlichen Text (50?% der Modulnote) Gruppenpräsentation zu einem Ehrenamtsbereich auf Basis eigener Erfahrung (50?% der Modulnote)"
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Keine"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -5664,11 +5664,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -12395,19 +12395,19 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 1.023"
+            "content": "Lehrveranstaltung entfällt!"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Mittwoch"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "13:30 – 16:45"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -12418,7 +12418,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Zhang, Dr. Lihua"
+                ","
             ],
             "link": [
                 ""
@@ -12426,11 +12426,11 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Chinesisch"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Interkulturalität und Sprachen"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
@@ -12439,22 +12439,22 @@
         "awDetCertificate": {
             "topic": "Zertifikat",
             "content": [
-                "Fremdsprachenzertifikat UNIcert",
+                "",
                 "",
                 ""
             ]
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Sprachlehrveranstaltung"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Schriftliche Prüfung"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
@@ -12462,7 +12462,7 @@
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Weiterentwicklung der Fertigkeiten und Kompetenzen auf dem Niveau A2 des Gemeinsamen Europäischen Referenzrahmens, die eine grundlegende Kommunikationsfähigkeit in alltags- und hochschulspezifischen Kontexten ermöglichen."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -12482,11 +12482,11 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Die Fähigkeit, Situationen des chinesischen Alltags sprachlich bewältigen zu können, soll weiterhin vertieft und verbessert werden. Als Beispiele dienen weiterhin realistische Dialoge und Lesetexte, die das Leben in China widerspiegeln. Kulturspezifische Situationen werden spielerisch erprobt und relevante kulturelle Aspekte des Landes einfühlsam vermittelt. Kompetenzen: Die Studierenden werden befähigt: Rezeption: gesprochene Texte zu vertrauten Themen zu verstehen, wenn diese langsam und deutlich gesprochen werden, in der Standardsprache abgefasste, einfache Alltagstexte zu vertrauten Themen global und selektiv zu lesen mit dem Ziel, konkrete Informationen zu entnehmen Produktion: in einer kurzen Abfolge einfacher Sätze über Themen von unmittelbar persönlichem und alltäglichem Belang zu sprechen, einfache zusammenhängende Texte über vertraute und persönlich interessierende Themen zu verfassen Interaktion: an einer zunehmend größeren Bandbreite alltäglicher Gesprächssituationen mit einiger Leichtigkeit teilzunehmen, vorausgesetzt der Kommunikationspartner hilft nötigenfalls, alltagsspezifische Texte und solche mit unmittelbarem persönlichem Bezug zu verfassen Linguistische Kompetenz: dem Niveau A 2.2 entsprechende Wörter, Ausdrücke, Phrasen und Sätze phonetisch/phonologisch korrekt auszusprechen, wobei Bemühungen auf Seiten des Gesprächspartners noch erforderlich sein können, die Kenntnis des Zeichensystems zu erweitern, so dass sich die Lernenden langsam an das Lesen der chinesischen Schriftzeichen gewöhnen Mediation: relevante Informationen aus Alltagstexten sowie die Hauptpunkte eines Gesprächs zu Alltagsthemen zu vermitteln, Nichtverstehen durch einfache Ausdrücke zu signalisieren, um Hilfe zu bitten und in einfachen Sätzen das Problem aufzuzeigen Plurilinguale und plurikulturelle Kompetenz: ein interkulturelles, auf die Spezifika des gesellschaftlich-kulturellen Lebens Chinas gerichtetes Orientierungswissen zu erweitern, die Lernenden werden angeregt, durch Rechercheaufgabe chinesische Kultur zu erkunden bzw. zu integrieren Lehrinhalte: Der Kurs vermittelt und wendet an: das chinesische Schriftzeichensystem und die chineische Lautung, Aussprache und Satzintonation; Morphosyntaktische, lexikalische und textuelle Mittel, um sich über vergangene Aktivitäten zu äußern; Ratschläge zu geben; Wünsche zu äußern; über eigene Vorlieben zu sprechen und Präferenzen in Gesprächssituationen zum Ausdruck zu bringen; einen Weg zu beschreiben; eine Situation in der Mensa zu bewältigen; jemanden anzurufen und eine Nachricht zu hinterlassen; sich zu beschwerden."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Rollenspiele, Arbeit mit Dialogen, Partner- und Gruppenarbeit, Leseübungen, präzise Ausspracheübungen, einfache Schriftzeichenübungen."
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
@@ -12498,23 +12498,23 @@
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Die regelmäßige Teilnahme ist obligatorisch (80%). Der Kurs bereitet gezielt auf die mündliche Prüfung zur Erlangung des UNIcert®©- Zertifikats der Stufe I vor, die am Ende des Kurses abgelegt werden kann."
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Chinesisch II (A1.2.). Für Quereinsteiger wird zu Beginn des Semesters ein Einstufungsgespräch durchgeführt. Der Kurs bereitet gezielt auf die mündliche Prüfung zur Erlangung des UNIcert®-Basis Zertifikats vor, die am Ende der Vorlesung abgelegt werden kann."
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
-            "content": "„Kaishi! A1. Chinesisch für Studierende“ (Kursbuch mit Audios), Jun Liu (Hg.), Klett Verlag, Stuttgart 2019. ISBN: 978-3-12-528965-9 bzw. „Kaishi! A2. Chinesisch für Studierende“ (Kursbuch mit Audios). Jun Liu (Hg.), Klett Verlag, Stuttgart 2020. ISBN 978-3-12-528967-3. (Audio-Dateien auch zum Download unter: www.klett-sprachen.de/kaishi) Übungsbuch: „Kaishi! A1. Chinesisch für Studierende“ (Übungsbuch mit Audios), Jun Liu (Hg.), Klett Verlag, Stuttgart 2019. ISBN: 978-3-12-528966-6 bzw. „Kaishi! A2. Chinesisch für Studierende“ (Übungsbuch mit Audios), Jun Liu (Hg.), Klett Verlag, Stuttgart 2019. ISBN: 978-3-12-528968-0. (Audio-Dateien auch zum Download unter: www.klett-sprachen.de/kaishi)"
+            "content": ""
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 4 SWS / 40h, Eigenstudiumszeit 20h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -26219,4 +26219,3 @@
         }
     }
 ]
-
