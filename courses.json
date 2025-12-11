@@ -20799,7 +20799,7 @@
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": "Gesamtworkload 60h (Präsenzzeit 4 SWS / 40h, Eigenstudiumszeit 40h)"
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -26219,3 +26219,4 @@
         }
     }
 ]
+
