@@ -10679,7 +10679,7 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.023"
+            "content": "T 1.023"
         },
         "awDetDay": {
             "topic": "Wochentag",
@@ -11259,7 +11259,7 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 1.023"
+            "content": "T 2.014"
         },
         "awDetDay": {
             "topic": "Wochentag",
@@ -24924,3 +24924,4 @@
         }
     }
 ]
+
