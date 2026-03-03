@@ -21005,7 +21005,7 @@
     {
         "awId": 144,
         "awHeadNo": "145",
-        "awHeadTitle": "Deutsch als Fremdsprache IIa – Kommunikation und Kultur (Niveau A2; FAW-Fach; 4-stündig))",
+        "awHeadTitle": "Deutsch als Fremdsprache IIa – Kommunikation und Kultur (Niveau A2; FAW-Fach; 4-stündig)",
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
@@ -21017,7 +21017,7 @@
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "09:15 - 12:30"
+            "content": "10:00 - 13:15"
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
@@ -24924,4 +24924,5 @@
         }
     }
 ]
+
 
