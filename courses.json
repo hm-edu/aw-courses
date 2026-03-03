@@ -16651,11 +16651,11 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 3.025"
+            "content": "T 2.019"
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Donnerstag"
+            "content": "Mittwoch"
         },
         "awDetTime": {
             "topic": "Zeit(en)",
@@ -21880,7 +21880,7 @@
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.019"
+            "content": "T 2.014"
         },
         "awDetDay": {
             "topic": "Wochentag",
@@ -24924,5 +24924,6 @@
         }
     }
 ]
+
 
 
