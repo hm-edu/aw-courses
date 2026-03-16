@@ -10397,7 +10397,7 @@
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": ""
+            "content": "09:00 - 13:00"
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
@@ -24924,4 +24924,3 @@
         }
     }
 ]
-
