@@ -2931,23 +2931,23 @@
     {
         "awId": 20,
         "awHeadNo": "021",
-        "awHeadTitle": "Der Islam und Europa. Religion und aktuelle Ereignisse (IKK/ES)",
+        "awHeadTitle": "Vorlesung entfällt!",
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.014"
+            "content": ""
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Donnerstag"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "13:30 - 15:00"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -2958,7 +2958,7 @@
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Kurz, Prof. Dr. Isolde"
+                ""
             ],
             "link": [
                 ""
@@ -2966,43 +2966,43 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Geschichte"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Gesellschaft und Politik"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
-            "content": "Interkulturalität und Sprachen"
+            "content": ""
         },
         "awDetCertificate": {
             "topic": "Zertifikat",
             "content": [
-                "Hochschulzertifikat Interkulturelle Kompetenz",
-                "Zertifikat European Studies",
+                "",
+                "",
                 ""
             ]
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Vorlesung"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Schriftliche Prüfung"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
-            "content": "Ja"
+            "content": ""
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Die Beziehung zwischen Europa und der islamischen Welt wird häufig als Geschichte von Konflikten erzählt. Die Vorlesung verfolgt einen anderen Zugang: Sie betrachtet Europa und die islamische Welt als Teil gemeinsamer globaler Entwicklungen. Im Mittelpunkt stehen historische Verflechtungen, kulturelle Austauschprozesse, gegenseitige Wahrnehmungen, aber auch politische und militärische Konflikte. Behandelt werden die Entstehung des Islams im Kontext der spätantiken Welt, die großen islamischen Imperien, Al-Andalus, die Kreuzzüge und das Osmanische Reich. Im Kontext der europäischen Expansion, des Kolonialismus und der Aufteilung des Nahen Ostens nach dem Ende des Osmanischen Reiches werden die Reaktionen in der arabisch-islamischen Welt erörtert– von Reformbewegungen des 19. Jahrhunderts bis zu modernen islamistischen Strömungen. Die Vorlesung schließt mit Hintergründen der aktuellen Entwicklungen im Nahen Osten im Lichte lokaler Interessen sowie regionaler und globaler Mächte. Ziel ist es, historische Zusammenhänge verständlich zu machen und gegenwärtige Debatten in ihren globalgeschichtlichen Kontext einzuordnen. Das Thema des Islam als Religion wird vergleichend mit dem Christentum betrachtet, um Gemeinsamkeiten und Stolpersteine im Umgang mit einander verständlich zu machen. Neben islamischen Glaubensgrundlagen und religiöser Praxis spielt vor allem das Thema unterschiedlicher Strömungen in der Interpretation des Koran eine Rolle.In der Medienberichterstattung häufen sich im Zuge des aktuellen Krieges in Israel/Palästina Berichte über Islam und Islamismus. Das Bild des Islam ist dabei hauptsächlich geprägt von Gewalt und Terrorismus. Der Krieg in Israel/Palästina verstärkt diesen Trend und daraus folgend auch anti-islamische Einstellungen in der Bevölkerung. Was ist überhaupt Islam? Gibt es DEN Islam? Sind von Islamisten verübte Attentate \"islamisch\"? An diesen Fragestellungen setzt die Vorlesung an. Ausgehend von einer Betrachtung der historischen Entwicklung der islamischen Welt und ihres Kontakts mit Europa werden wir gemeinsam die Grundlagen der Religion auf der Basis des Koran erarbeiten und Abgrenzungen vornehmen gegenüber politisch motivierten, islamistischen Strömungen. Im Zuge der aktuellen Ereignisse in Israel/Palästina werden wir historischen Ursachen auf den Grund gehen, die verschiedenen Interessenlagen und Akteure betrachten sowie die Auswirkungen des Konflikts auf die gesellschaftlichen Diskurse in Deutschland betrachten."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -3022,11 +3022,11 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Die Studierenden kennen religiöse Grundzüge des Islam sowie die Geschichte von kulturellem und wirtschaftlichem Austausch und Auseinandersetzungen zwischen der islamischen Welt und Europa in globaler Perspektive. Sie kennen die Vielfalt islamischer Gruppen und wissen um die Strömungen unterschiedlicher Interpretationen des Koran; sie können religiöse und politische Zielsetzungen in der islamischen Welt unterscheiden. Sie haben Einblick in die Vorgeschichte und Interessenlagen des aktuellen Krieges in Israel/Palästina sowie in seine Bezüge zu Deutschland und Europa. Sie haben somit ein vertieftes Verständnis für die Hintergründe der aktuellen Lage."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Textlektüre, Dozentinnenvortrag, Videos, Gruppenarbeiten, Diskussion. Auf Wunsch Besuch einer Moschee, Gastvortrag."
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
@@ -3034,15 +3034,15 @@
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
-            "content": "Asseburg (2024): Der Nahost-Konflikt. Geschichte, Positionen, Perspektiven. München: C.H. Beck. Borgolte, Michael (2023): Globalgeschichte des Mittelalters. München: C.H. Beck. Frankopan, Peter (2023): Licht aus dem Osten. Eine neue Geschichte der Welt. Reinbek: Rowohlt. Grün, Anselm/Karimi, Ahmad Milad (2019): Im Herzen der Spiritualität. Wie sich Muslime und Christen begegnen können, Freiburg u.a.: Herder. Jaros, Karl (2012): Der Islam, Wien u.a.: Böhlau. Khorchide, Mouhanad (2013): Islam ist Barmherzigkeit. Grundzüge einer modernen Religion. Freiburg u.a.: Herder. Rohe, Mathias (2016): Der Islam in Deutschland. Eine Bestandsaufnahme. Müchen: C.H. Beck. Aufgrund der aktuellen Ereignisse erfolgen weitere Literaturhinweise in der Vorlesung."
+            "content": ""
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Erwartet wird die Bereitschaft, sich während der Dauer der Vorlesung über aktuelle Ereignisse zu informieren und sich damit auseinander zu setzen."
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Keine"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -3050,11 +3050,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
