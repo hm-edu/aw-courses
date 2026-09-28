@@ -9815,7 +9815,7 @@
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
             "content": [
-                "7.10., 21.10., 4.11., 18.11., 9.12., 16.12."
+                "7.10., 21.10., 4.11., 18.11., 2.12., 16.12."
             ]
         },
         "awDetName": {
@@ -24161,7 +24161,7 @@
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": ""
+            "content": "Keine"
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -24169,11 +24169,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": ""
+            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": ""
+            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
         },
         "awExpandPlaceholder_1": {
             "topic": "",
