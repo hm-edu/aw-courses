@@ -23317,11 +23317,11 @@
     {
         "awId": 160,
         "awHeadNo": "161",
-        "awHeadTitle": "Seminar: Die Psychologie hinter Diversity & Inclusion",
+        "awHeadTitle": "Veranstaltung entfällt!!",
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.023"
+            "content": ""
         },
         "awDetDay": {
             "topic": "Wochentag",
@@ -23329,22 +23329,22 @@
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "Andere"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Blockveranstaltung"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
             "content": [
-                "Freitag, 06.11.26 09:00 – 17:30 Uhr Samstag, 07.11.26 09:00 - 17:30 Uhr Sonntag, 08.11.26 09:00 - 13:00 Uhr"
+                ""
             ]
         },
         "awDetName": {
             "topic": "Lehrende",
             "content": [
-                "Hembd-Peuse, Susanne"
+                ","
             ],
             "link": [
                 ""
@@ -23352,15 +23352,15 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Psychologie"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Mensch und Gesundheit"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
-            "content": "Gesellschaft und Politik"
+            "content": ""
         },
         "awDetCertificate": {
             "topic": "Zertifikat",
@@ -23372,23 +23372,23 @@
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "Nachhaltig"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Seminar"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Modularbeit"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
-            "content": "Nein"
+            "content": ""
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Demografische Prozesse und Migration tragen zu einer kulturell diversen Bevölkerung bei. Im beruflichen Kontext führt Globalisierung zur Internationalisierung von Unternehmen und der Wertewandel bringt eine Pluralisierung der Gesellschaft mit unterschiedlichen Lebensmodellen mit sich. Damit einher gehen neue Impulse und Eindrücke, die sowohl unser Denken als auch unsere Werte sowie Normen und schließlich unser individuelles Verhalten beeinflussen. Perspek­tiven­vielfalt, empathisches Verhalten gegenüber unterschiedlichen Ansichten und Meinungen sowie das Leben wahrer Inklusion und Schaffung von Chancengleichheit werden vor diesem Hintergrund eine wesentliche Kompetenz – im privaten, aber auch beruflichen Kontext."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -23408,27 +23408,27 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Das Seminar legt den Fokus auf psychologische Aspekte rund um Diversität und Inklusion. Behandelt werden (sozial-)psychologische Grundlagen, Erkenntnisse und Anwendungsfelder aus dem Bereich Diversität und Inklusion, darunter die Theorie zur sozialen Identität, Vorurteile und Stereotype, Attributionsfehler (Unconscious Bias), Privilegien sowie Diversity Management im Unternehmen. Darüber hinaus werden die Teilnehmenden dazu angeregt, sich mit ihren persönlichen Erfahrungen im Zusammenhang mit Diversität und Inklusion auseinanderzusetzen und die eigene Sozialisation sowie Privilegien zu reflektieren. Ziel des Seminars ist es, durch das vermittelte Wissen und dessen Reflexion die Fähigkeit zur Perspektivübernahme sowie inklusives Verhalten zu steigern, um ein empathisches, gesellschaftliches Miteinander zu stärken."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Interaktives Training mit Informationsinput durch die Lehrenden, praktischen (Gruppen-)Übungen und übergreifendem Austausch inkl. Selbstreflexion."
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
-            "content": "Video- oder Audiobeitrag inkl. Skript"
+            "content": ""
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
-            "content": "Krell, G., Riedmüller, B., Sieben, B &amp; Vinz, D. (2007). Diversity Studies – Grundlagen und disziplinäre Ansätze. Frankfurt: Campus Verlag Thuswald, M. (2016). Diversity Studies. Theorie und Forschung zu Differenzen und Diversität. In Gaugele, E. &amp; Kastner, J. (Hrsg.) Critical Studies (S. 263-290) Wiesbaden: Springer VS Funcke, A. &amp; Braemer, G. (2022). Zusammen finden: Diversity - Methoden für Menschen in Gruppen und Teams, die Vielfalt erleben. managerSeminare Verlags GmbH"
+            "content": ""
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Die Veranstaltung findet als Terminblock von Freitag bis Sonntag statt. Es wird kein Vorwissen zu Thematiken aus dem Bereich Diversität und Inklusion vorausgesetzt. Eine aktive Teilnahme innerhalb des Trainings ist erwünscht. Das Veranstaltungsmaterial wird über Moodle zur Verfügung gestellt. Die Prüfungsleistung besteht in der Erstellung eines Video- oder Audiobeitrags (inkl. Skript) zum Thema „Diversity &amp; Inclusion“. Die angemeldeten Studierenden melden sich bitte nach der Frist zur manuellen Nach-/ Umbelegung bei Susanne Hembd-Peuse (susanne.hembd-peuse@hm.edu) oder C arolin Adam per E-Mail (carolin.adam@hm.edu)."
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Keine"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
@@ -23436,11 +23436,11 @@
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
