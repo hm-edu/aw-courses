@@ -15185,23 +15185,23 @@
     {
         "awId": 104,
         "awHeadNo": "105",
-        "awHeadTitle": "Französisch II - Kommunikation und Kultur (Niveau A2; 4-stündig)",
+        "awHeadTitle": "Vorlesung entfällt!",
         "awHeadSubtitle": "",
         "awDetRoom": {
             "topic": "Ort",
-            "content": "T 2.018"
+            "content": ""
         },
         "awDetDay": {
             "topic": "Wochentag",
-            "content": "Mittwoch"
+            "content": ""
         },
         "awDetTime": {
             "topic": "Zeit(en)",
-            "content": "08:15 – 11:30"
+            "content": ""
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": ""
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -15220,11 +15220,11 @@
         },
         "awDetField": {
             "topic": "Fachgebiet",
-            "content": "Französisch"
+            "content": ""
         },
         "awDetMainTopic": {
             "topic": "Hauptthemengebiet",
-            "content": "Interkulturalität und Sprachen"
+            "content": ""
         },
         "awDetOffTopic": {
             "topic": "Zusatzthemengebiet",
@@ -15233,22 +15233,22 @@
         "awDetCertificate": {
             "topic": "Zertifikat",
             "content": [
-                "Fremdsprachenzertifikat UNIcert",
+                "",
                 "",
                 ""
             ]
         },
         "awDetCompetence": {
             "topic": "Kompetenzprofil",
-            "content": "International"
+            "content": ""
         },
         "awDetLectureType": {
             "topic": "Art der Veranstaltung",
-            "content": "Sprachlehrveranstaltung"
+            "content": ""
         },
         "awDetExame": {
             "topic": "Prüfung",
-            "content": "Schriftliche Prüfung"
+            "content": ""
         },
         "awDetRoadTrip": {
             "topic": "Exkursion",
@@ -15256,7 +15256,7 @@
         },
         "awDetPlaceholder_1": {
             "topic": "Thematik",
-            "content": "Fortsetzung des bisherigen Kurses Französisch I, weiterhin mit Schwerpunkt der Förderung des aktiven Gebrauchs der französischen Allgemeinsprache und des autonomen Lernens; zunehmend Einbezug landeskundlicher Aspekte des Lebens im heutigen Frankreich."
+            "content": ""
         },
         "awDetPlaceholder_2": {
             "topic": "",
@@ -15276,11 +15276,11 @@
         },
         "awExpandGoals": {
             "topic": "Lernziele und Kompetenzen",
-            "content": "Die Teilnehmer:innen werden weiterhin zur Orientierung in der Alltagskultur und zur aktiven Teilnahme an vielfältigen Kommunikationssituationen angeleitet. Die Ausdrucks- und Grammatikschulung wird auf komplexerer Ebene fortgesetzt. Das Verständnis einfacher Lesetexte und entsprechende Schreibfertigkeiten werden vertieft."
+            "content": ""
         },
         "awExpandMethodes": {
             "topic": "Methoden",
-            "content": "Rollenspiele, Einzel-, Partner- und Gruppenarbeit, gezielte Lese- und Schreibphasen."
+            "content": ""
         },
         "awExpandTypeOfExame": {
             "topic": "Art der Modularbeit",
@@ -15288,27 +15288,27 @@
         },
         "awExpandLiteratur": {
             "topic": "Literatur",
-            "content": "Voyages Neu A2"
+            "content": ""
         },
         "awExpandHints": {
             "topic": "Hinweise",
-            "content": "Die regelmäßige Teilnahme ist obligatorisch. Für Quereinsteiger wird zu Beginn des Semesters ein Einstufungstest durchgeführt."
+            "content": ""
         },
         "awExpandRequirements": {
             "topic": "Voraussetzungen zur Teilnahme",
-            "content": "Sprachniveau A1"
+            "content": ""
         },
         "awExpandTextbook": {
             "topic": "Lehrwerk",
-            "content": "Voyages Neu A2"
+            "content": ""
         },
         "awExpandCreditability": {
             "topic": "Verwendbarkeit",
-            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+            "content": ""
         },
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
-            "content": "Gesamtworkload 60h (Präsenzzeit 4 SWS / 40h, Eigenstudiumszeit 20h)"
+            "content": ""
         },
         "awExpandPlaceholder_1": {
             "topic": "",
@@ -23921,7 +23921,7 @@
         },
         "awDetRhythm": {
             "topic": "Rhythmus",
-            "content": "Wöchentlich"
+            "content": "Wöchentlich - 1. Termin 20.10.2026!"
         },
         "awDetDates": {
             "topic": "Termine für nicht wöchentliche Veranstaltungen",
@@ -26062,6 +26062,151 @@
         "awExpandWorkload": {
             "topic": "Arbeitsaufwand",
             "content": "Gesamtworkload 60h (Präsenzzeit 2 SWS / 20h, Eigenstudiumszeit 40h)"
+        },
+        "awExpandPlaceholder_1": {
+            "topic": "",
+            "content": ""
+        },
+        "awExpandPlaceholder_2": {
+            "topic": "",
+            "content": ""
+        },
+        "awExpandPlaceholder_3": {
+            "topic": "",
+            "content": ""
+        },
+        "awExpandPlaceholder_4": {
+            "topic": "",
+            "content": ""
+        }
+    },
+    {
+        "awId": 179,
+        "awHeadNo": "180",
+        "awHeadTitle": "Französisch III - Kommunikation und Kultur (Niveau B1; 4-stündig)",
+        "awHeadSubtitle": "",
+        "awDetRoom": {
+            "topic": "Ort",
+            "content": "T 2.018"
+        },
+        "awDetDay": {
+            "topic": "Wochentag",
+            "content": "Mittwoch"
+        },
+        "awDetTime": {
+            "topic": "Zeit(en)",
+            "content": "08:15 – 11:30"
+        },
+        "awDetRhythm": {
+            "topic": "Rhythmus",
+            "content": "Wöchentlich"
+        },
+        "awDetDates": {
+            "topic": "Termine für nicht wöchentliche Veranstaltungen",
+            "content": [
+                ""
+            ]
+        },
+        "awDetName": {
+            "topic": "Lehrende",
+            "content": [
+                "Bresoli, Prof. Dr. Christophe"
+            ],
+            "link": [
+                ""
+            ]
+        },
+        "awDetField": {
+            "topic": "Fachgebiet",
+            "content": "Französisch"
+        },
+        "awDetMainTopic": {
+            "topic": "Hauptthemengebiet",
+            "content": "Interkulturalität und Sprachen"
+        },
+        "awDetOffTopic": {
+            "topic": "Zusatzthemengebiet",
+            "content": ""
+        },
+        "awDetCertificate": {
+            "topic": "Zertifikat",
+            "content": [
+                "Fremdsprachenzertifikat UNIcert",
+                "",
+                ""
+            ]
+        },
+        "awDetCompetence": {
+            "topic": "Kompetenzprofil",
+            "content": "International"
+        },
+        "awDetLectureType": {
+            "topic": "Art der Veranstaltung",
+            "content": "Sprachlehrveranstaltung"
+        },
+        "awDetExame": {
+            "topic": "Prüfung",
+            "content": "Schriftliche Prüfung"
+        },
+        "awDetRoadTrip": {
+            "topic": "Exkursion",
+            "content": ""
+        },
+        "awDetPlaceholder_1": {
+            "topic": "Thematik",
+            "content": "Weiterentwicklung der Kompetenzen auf dem Niveau B1 des Gemeinsamen europäischen Referenzrahmens, die eine erweiterte Kommunikationsfähigkeit in alltags- und hochschulspezifisch geprägten Kontextet ermöglichen."
+        },
+        "awDetPlaceholder_2": {
+            "topic": "",
+            "content": ""
+        },
+        "awDetPlaceholder_3": {
+            "topic": "",
+            "content": ""
+        },
+        "awDetPlaceholder_4": {
+            "topic": "",
+            "content": ""
+        },
+        "awExpandTheme": {
+            "topic": "Thematik",
+            "content": ""
+        },
+        "awExpandGoals": {
+            "topic": "Lernziele und Kompetenzen",
+            "content": "Vertiefende Befähigung zum selbständigen Gebrauch der Alltagssprache in Wort und Schrift. Komplexere grammatische Strukturen anzuwenden, den Wortschatz systematisch zu erweitern. Spezifische Informationen über aktuelle Themen schriftlich und mündlich weiterzugeben. Einen Pespektivwechsel vorzunehmen, um fremde und eigene Werte, Haltungen einzuordnen."
+        },
+        "awExpandMethodes": {
+            "topic": "Methoden",
+            "content": "Einzel-, Partner- und Gruppenarbeit, gezielte Hör-, Lese- und Schreibübungen, Gruppendisckussionen"
+        },
+        "awExpandTypeOfExame": {
+            "topic": "Art der Modularbeit",
+            "content": ""
+        },
+        "awExpandLiteratur": {
+            "topic": "Literatur",
+            "content": "Voyages Neu B1"
+        },
+        "awExpandHints": {
+            "topic": "Hinweise",
+            "content": "Regelmäßige Teilnahme ist erforderlich. Für Quereinsteiger wird zu Beginn des Semesters ein Einstufungsgespräch durchgeführt."
+        },
+        "awExpandRequirements": {
+            "topic": "Voraussetzungen zur Teilnahme",
+            "content": "Sprachniveau A2"
+        },
+        "awExpandTextbook": {
+            "topic": "Lehrwerk",
+            "content": "Voyages Neu B1"
+        },
+        "awExpandCreditability": {
+            "topic": "Verwendbarkeit",
+            "content": "Die Veranstaltung ist als AW-Modul gemäß §7 ASPO anrechenbar."
+        },
+        "awExpandWorkload": {
+            "topic": "Arbeitsaufwand",
+            "content": "Gesamtworkload 60h (Präsenzzeit 4 SWS / 40h, Eigenstudiumszeit 20h)"
         },
         "awExpandPlaceholder_1": {
             "topic": "",
